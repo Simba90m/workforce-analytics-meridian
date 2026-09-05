@@ -1,0 +1,38 @@
+version: 2
+
+models:
+  - name: mart_headcount_monthly
+    description: >
+      Month-end active headcount, hires, and terminations by department.
+      Grain: one row per department per month.
+    columns:
+      - name: headcount
+        tests:
+          - not_null
+
+  - name: mart_turnover_annual
+    description: >
+      Annual turnover rate by department, split into voluntary and
+      involuntary, using average monthly headcount as the denominator.
+      Grain: one row per department per year.
+
+  - name: mart_time_to_fill
+    description: >
+      Average and median days to fill completed requisitions, by
+      department and sourcing channel.
+      Grain: one row per department per sourcing channel.
+
+  - name: mart_performance_engagement
+    description: >
+      One row per employee, with average performance rating and average
+      engagement/satisfaction survey scores.
+    columns:
+      - name: employee_id
+        tests:
+          - unique
+          - not_null
+
+  - name: mart_compensation_equity
+    description: >
+      Active headcount's average and median salary by department, level,
+      and gender, for compensation equity checks.
