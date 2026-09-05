@@ -1,0 +1,52 @@
+name: "hr_workforce_analytics"
+version: "1.0.0"
+config-version: 2
+
+profile: "hr_workforce_analytics"
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: ["tests"]
+macro-paths: ["macros"]
+
+target-path: "target"
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+seeds:
+  hr_workforce_analytics:
+    +schema: raw
+    raw_employees:
+      +column_types:
+        hire_date: date
+        termination_date: date
+    raw_terminations:
+      +column_types:
+        termination_date: date
+    raw_requisitions:
+      +column_types:
+        opened_date: date
+        closed_date: date
+    raw_hires:
+      +column_types:
+        offer_date: date
+        start_date: date
+    raw_performance_reviews:
+      +column_types:
+        review_date: date
+    raw_compensation_history:
+      +column_types:
+        effective_date: date
+    raw_engagement_surveys:
+      +column_types:
+        survey_date: date
+
+models:
+  hr_workforce_analytics:
+    staging:
+      +materialized: view
+      +schema: staging
+    marts:
+      +materialized: table
+      +schema: marts
