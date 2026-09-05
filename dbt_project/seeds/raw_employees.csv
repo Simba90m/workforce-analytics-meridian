@@ -1,0 +1,1254 @@
+employee_id,first_name,last_name,gender,department_id,job_title,level,hire_date,termination_date,location_city,location_country,employment_type,manager_id,base_salary
+1,Margaret,Johnson,Female,1,"Director, Backend",Director,2022-01-01,2022-08-02,Bremen,Germany,Full-time,,149700.0
+2,Denise,Walker,Female,1,"Manager, Backend",Manager,2022-01-01,2026-03-19,London,UK,Full-time,1,107600.0
+3,Nancy,Rhodes,Female,2,"Director, Frontend",Director,2022-01-01,,Bremen,Germany,Full-time,,140200.0
+4,Stephanie,Miller,Female,2,"Manager, Frontend",Manager,2022-01-01,,Cairo,Egypt,Full-time,3,123600.0
+5,Javier,Johnson,Male,3,"Director, Platform",Director,2022-01-01,2022-06-09,Remote,Remote,Full-time,,154800.0
+6,Colleen,Wagner,Female,3,"Manager, Platform",Manager,2022-01-01,2024-01-22,London,UK,Full-time,5,114500.0
+7,Alexander,Gonzalez,Male,4,"Director, QA",Director,2022-01-01,2022-11-10,Bremen,Germany,Full-time,,123700.0
+8,Matthew,Gardner,Male,4,"Manager, QA",Manager,2022-01-01,2023-08-08,Cairo,Egypt,Full-time,7,101600.0
+9,Connie,Lawrence,Female,5,"Director, Product Management",Director,2022-01-01,2025-02-23,Dubai,UAE,Full-time,,147900.0
+10,Robert,Smith,Male,5,"Manager, Product Management",Manager,2022-01-01,,Cairo,Egypt,Full-time,9,115800.0
+11,Renee,Wolfe,Female,6,"Director, Product Design",Director,2022-01-01,2025-10-21,Remote,Remote,Full-time,,145900.0
+12,Gina,Moore,Female,6,"Manager, Product Design",Manager,2022-01-01,,Remote,Remote,Full-time,11,106300.0
+13,Tyler,Rogers,Male,7,"Director, Enterprise Sales",Director,2022-01-01,,Berlin,Germany,Full-time,,179900.0
+14,Brandon,Davis,Male,7,"Manager, Enterprise Sales",Manager,2022-01-01,2023-01-10,London,UK,Full-time,13,118400.0
+15,Sarah,Munoz,Female,8,"Director, SMB Sales",Director,2022-01-01,2023-01-10,Cairo,Egypt,Full-time,,167100.0
+16,Robert,Blair,Male,8,"Manager, SMB Sales",Manager,2022-01-01,,Munich,Germany,Full-time,15,133300.0
+17,Kimberly,Dudley,Female,9,"Director, Sales Development",Director,2022-01-01,,Berlin,Germany,Full-time,,166900.0
+18,James,Arnold,Male,9,"Manager, Sales Development",Manager,2022-01-01,2025-08-10,Munich,Germany,Full-time,17,123300.0
+19,Ronald,Montgomery,Male,10,"Director, Growth Marketing",Director,2022-01-01,2024-12-22,Dubai,UAE,Full-time,,162600.0
+20,Shannon,Ray,Female,10,"Manager, Growth Marketing",Manager,2022-01-01,,Munich,Germany,Full-time,19,112700.0
+21,Michael,Williams,Male,11,"Director, Brand Marketing",Director,2022-01-01,,Cairo,Egypt,Full-time,,192900.0
+22,Crystal,Roberts,Female,11,"Manager, Brand Marketing",Manager,2022-01-01,,Cairo,Egypt,Full-time,21,107300.0
+23,Angela,Hall,Female,12,"Director, Support",Director,2022-01-01,,London,UK,Full-time,,164200.0
+24,Ashlee,Ramirez,Female,12,"Manager, Support",Manager,2022-01-01,2022-12-23,Dubai,UAE,Full-time,23,104500.0
+25,Madison,Diaz,Female,13,"Director, Onboarding",Director,2022-01-01,,London,UK,Full-time,,191100.0
+26,Jacob,Clark,Male,13,"Manager, Onboarding",Manager,2022-01-01,,Remote,Remote,Full-time,25,148600.0
+27,Debra,Zuniga,Female,14,"Director, Facilities",Director,2022-01-01,,Dubai,UAE,Full-time,,125800.0
+28,Matthew,Lynch,Male,14,"Manager, Facilities",Manager,2022-01-01,2024-01-28,Cairo,Egypt,Full-time,27,114000.0
+29,Christopher,Daniel,Male,15,"Director, IT",Director,2022-01-01,2026-02-17,Remote,Remote,Full-time,,152600.0
+30,Carla,Gray,Female,15,"Manager, IT",Manager,2022-01-01,,Munich,Germany,Full-time,29,146700.0
+31,William,Bowman,Male,16,"Director, Accounting",Director,2022-01-01,2025-12-29,Bremen,Germany,Full-time,,135300.0
+32,Justin,Cohen,Male,16,"Manager, Accounting",Manager,2022-01-01,,Berlin,Germany,Full-time,31,119000.0
+33,Ryan,Parsons,Male,17,"Director, FP&A",Director,2022-01-01,2024-06-30,Remote,Remote,Full-time,,122800.0
+34,Crystal,Johnson,Female,17,"Manager, FP&A",Manager,2022-01-01,,Berlin,Germany,Full-time,33,144700.0
+35,Ethan,Adams,Male,18,"Director, Talent Acquisition",Director,2022-01-01,,Berlin,Germany,Full-time,,191400.0
+36,Christine,Hahn,Female,18,"Manager, Talent Acquisition",Manager,2022-01-01,,London,UK,Full-time,35,119100.0
+37,Shawn,Edwards,Male,19,"Director, HR Business Partners",Director,2022-01-01,2023-03-17,Bremen,Germany,Full-time,,141000.0
+38,Mary,Foster,Female,19,"Manager, HR Business Partners",Manager,2022-01-01,2022-07-23,Cairo,Egypt,Full-time,37,108800.0
+39,Suzanne,Ellis,Female,12,Junior Support Specialist,Junior,2022-01-01,,Bremen,Germany,Full-time,23,77700.0
+40,Deborah,Wright,Female,7,Mid Enterprise Sales Specialist,Mid,2022-01-01,,London,UK,Full-time,14,74200.0
+41,Kristina,Baker,Female,8,Mid SMB Sales Specialist,Mid,2022-01-01,2023-03-21,Bremen,Germany,Full-time,16,66200.0
+42,Lauren,Hurst,Female,8,Senior SMB Sales Specialist,Senior,2022-01-01,,Bremen,Germany,Full-time,16,86400.0
+43,James,Robinson,Male,3,Junior Platform Specialist,Junior,2022-01-01,2024-07-05,Berlin,Germany,Full-time,6,50800.0
+44,Yolanda,Hicks,Female,16,Junior Accounting Specialist,Junior,2022-01-01,,Bremen,Germany,Contract,31,66400.0
+45,Ann,Williams,Female,18,"Lead, Talent Acquisition",Lead,2022-01-01,,Dubai,UAE,Full-time,35,106200.0
+46,Ashley,Burton,Female,17,Junior FP&A Specialist,Junior,2022-01-01,2026-08-03,Dubai,UAE,Full-time,34,62000.0
+47,Ricky,Henderson,Male,12,Senior Support Specialist,Senior,2022-01-01,,Berlin,Germany,Contract,23,96600.0
+48,Arthur,James,Male,9,Senior Sales Development Specialist,Senior,2022-01-01,2025-08-31,Bremen,Germany,Full-time,18,73200.0
+49,Whitney,Rice,Female,16,Junior Accounting Specialist,Junior,2022-01-01,2024-05-07,Remote,Remote,Full-time,31,63100.0
+50,Tricia,Valencia,Female,6,Junior Product Design Specialist,Junior,2022-01-01,,Cairo,Egypt,Full-time,11,49700.0
+51,Adam,Le,Male,9,Senior Sales Development Specialist,Senior,2022-01-01,,Berlin,Germany,Full-time,18,102200.0
+52,Michael,Herrera,Male,8,Senior SMB Sales Specialist,Senior,2022-01-01,,Dubai,UAE,Full-time,15,87300.0
+53,Debra,Davidson,Female,10,Senior Growth Marketing Specialist,Senior,2022-01-01,,Bremen,Germany,Full-time,20,121700.0
+54,Ashley,Graham,Female,7,Junior Enterprise Sales Specialist,Junior,2022-01-01,,Munich,Germany,Full-time,14,50900.0
+55,Jody,Mckay,Female,12,Senior Support Specialist,Senior,2022-01-01,2025-07-17,London,UK,Part-time,24,103600.0
+56,Shawn,Baker,Male,3,"Manager, Platform",Manager,2022-01-01,2022-05-19,Bremen,Germany,Full-time,5,122000.0
+57,Kathryn,White,Female,10,Senior Growth Marketing Specialist,Senior,2022-01-01,2022-04-27,London,UK,Full-time,20,86600.0
+58,Susan,Harrell,Female,7,"Manager, Enterprise Sales",Manager,2022-01-01,2023-08-31,Bremen,Germany,Full-time,14,115900.0
+59,Edwin,Fowler,Male,7,Junior Enterprise Sales Specialist,Junior,2022-01-01,,Berlin,Germany,Full-time,58,59200.0
+60,Lisa,Hernandez,Female,9,Junior Sales Development Specialist,Junior,2022-01-01,,Cairo,Egypt,Full-time,18,44800.0
+61,Phillip,Ryan,Male,4,Junior QA Specialist,Junior,2022-01-01,,Munich,Germany,Part-time,7,62000.0
+62,Paula,Moreno,Female,6,Mid Product Design Specialist,Mid,2022-01-01,2025-10-19,Munich,Germany,Contract,12,87500.0
+63,April,Nguyen,Female,13,"Manager, Onboarding",Manager,2022-01-01,,Remote,Remote,Part-time,25,130300.0
+64,Alec,Hickman,Male,1,Senior Backend Specialist,Senior,2022-01-01,,Remote,Remote,Full-time,1,116400.0
+65,Sherry,Decker,Female,14,Junior Facilities Specialist,Junior,2022-01-01,2025-04-06,Remote,Remote,Full-time,27,56600.0
+66,Elizabeth,Brown,Female,8,Mid SMB Sales Specialist,Mid,2022-01-01,2026-04-01,Berlin,Germany,Full-time,15,67500.0
+67,Shawn,Arroyo,Male,7,Junior Enterprise Sales Specialist,Junior,2022-01-01,2025-11-02,Munich,Germany,Full-time,14,55100.0
+68,Angelica,Tucker,Female,16,Mid Accounting Specialist,Mid,2022-01-01,2024-05-16,Bremen,Germany,Full-time,32,82400.0
+69,Andrea,Hodges,Female,19,Mid HR Business Partners Specialist,Mid,2022-01-01,2023-06-19,Cairo,Egypt,Full-time,38,68500.0
+70,Pamela,Anderson,Female,19,Junior HR Business Partners Specialist,Junior,2022-01-01,,Munich,Germany,Full-time,38,42600.0
+71,Karen,Pierce,Female,18,Senior Talent Acquisition Specialist,Senior,2022-01-01,2026-07-01,Munich,Germany,Part-time,45,89100.0
+72,Deborah,Brennan,Female,10,Senior Growth Marketing Specialist,Senior,2022-01-01,,London,UK,Full-time,20,103600.0
+73,Jenny,Lewis,Female,7,Senior Enterprise Sales Specialist,Senior,2022-01-01,,Berlin,Germany,Full-time,14,81700.0
+74,Joshua,Blair,Male,17,Senior FP&A Specialist,Senior,2022-01-01,2022-03-08,Dubai,UAE,Full-time,33,84600.0
+75,Curtis,Collins,Male,6,"Lead, Product Design",Lead,2022-01-01,,Dubai,UAE,Full-time,11,103700.0
+76,Whitney,Santos,Female,14,"Manager, Facilities",Manager,2022-01-01,,London,UK,Full-time,28,116200.0
+77,Jeffrey,Holmes,Male,18,Mid Talent Acquisition Specialist,Mid,2022-01-01,2024-05-30,Berlin,Germany,Full-time,35,76600.0
+78,Barbara,Walker,Female,7,Mid Enterprise Sales Specialist,Mid,2022-01-01,,Dubai,UAE,Full-time,58,70200.0
+79,George,Chapman,Male,12,Mid Support Specialist,Mid,2022-01-01,2023-06-06,Berlin,Germany,Part-time,23,57500.0
+80,David,Robinson,Male,16,"Manager, Accounting",Manager,2022-01-01,2026-01-30,Berlin,Germany,Full-time,32,122300.0
+81,Benjamin,Welch,Male,7,"Lead, Enterprise Sales",Lead,2022-01-01,2025-01-29,Berlin,Germany,Full-time,58,110600.0
+82,Darryl,Whitehead,Male,9,Mid Sales Development Specialist,Mid,2022-01-01,2026-01-29,Cairo,Egypt,Full-time,18,90000.0
+83,Scott,Jones,Male,9,"Manager, Sales Development",Manager,2022-01-01,2023-04-13,Dubai,UAE,Full-time,17,101500.0
+84,David,Caldwell,Male,7,"Lead, Enterprise Sales",Lead,2022-01-01,,London,UK,Full-time,81,106200.0
+85,Daniel,Anderson,Male,7,Mid Enterprise Sales Specialist,Mid,2022-01-01,2022-02-13,Cairo,Egypt,Full-time,14,56400.0
+86,Taylor,Duncan,Female,12,Senior Support Specialist,Senior,2022-01-01,,Dubai,UAE,Full-time,24,90000.0
+87,Kaitlyn,Mueller,Female,6,Mid Product Design Specialist,Mid,2022-01-01,2023-11-24,Remote,Remote,Full-time,75,74300.0
+88,Robert,Lee,Male,1,Mid Backend Specialist,Mid,2022-01-01,,Remote,Remote,Full-time,2,77900.0
+89,Anne,Jordan,Female,13,"Lead, Onboarding",Lead,2022-01-01,,Dubai,UAE,Full-time,26,98500.0
+90,Jeff,Owens,Male,8,Senior SMB Sales Specialist,Senior,2022-01-01,2023-06-13,London,UK,Part-time,16,79900.0
+91,Nicholas,Nunez,Male,19,Senior HR Business Partners Specialist,Senior,2022-01-01,,Cairo,Egypt,Full-time,37,85000.0
+92,Victoria,Garcia,Female,8,"Manager, SMB Sales",Manager,2022-01-01,2024-12-31,Bremen,Germany,Full-time,16,109700.0
+93,James,Morgan,Male,7,"Lead, Enterprise Sales",Lead,2022-01-01,2023-07-28,Munich,Germany,Full-time,81,112700.0
+94,Shannon,Wright,Female,3,Junior Platform Specialist,Junior,2022-01-01,,Munich,Germany,Full-time,5,48800.0
+95,Cheryl,West,Female,11,"Lead, Brand Marketing",Lead,2022-01-01,2024-02-12,Berlin,Germany,Full-time,21,117800.0
+96,Jennifer,Ramirez,Female,8,Junior SMB Sales Specialist,Junior,2022-01-01,,Dubai,UAE,Full-time,16,73300.0
+97,Danielle,Leblanc,Female,10,"Lead, Growth Marketing",Lead,2022-01-01,2026-05-02,Remote,Remote,Full-time,20,135400.0
+98,Jeremy,Callahan,Male,1,Mid Backend Specialist,Mid,2022-01-01,,Dubai,UAE,Full-time,1,71000.0
+99,Krista,Williams,Female,12,Senior Support Specialist,Senior,2022-01-01,2022-06-11,London,UK,Full-time,23,89800.0
+100,Zachary,Huff,Male,9,Junior Sales Development Specialist,Junior,2022-01-01,,London,UK,Full-time,83,55200.0
+101,Wayne,House,Male,1,Mid Backend Specialist,Mid,2022-01-01,,Bremen,Germany,Full-time,2,88100.0
+102,Samuel,Martin,Male,15,Senior IT Specialist,Senior,2022-01-01,2024-12-05,Berlin,Germany,Full-time,30,93500.0
+103,John,Lewis,Male,17,"Lead, FP&A",Lead,2022-01-01,2024-08-10,Dubai,UAE,Full-time,34,106500.0
+104,James,Brown,Male,7,"Manager, Enterprise Sales",Manager,2022-01-01,2022-09-16,Dubai,UAE,Full-time,81,101100.0
+105,James,Galloway,Male,11,Mid Brand Marketing Specialist,Mid,2022-01-01,,Remote,Remote,Full-time,22,63100.0
+106,Derek,Bowers,Male,14,Mid Facilities Specialist,Mid,2022-01-01,,Cairo,Egypt,Full-time,27,78800.0
+107,Jordan,Henderson,Female,13,Mid Onboarding Specialist,Mid,2022-01-01,,London,UK,Full-time,89,75700.0
+108,Tyler,Cowan,Male,1,Mid Backend Specialist,Mid,2022-01-01,2023-02-15,London,UK,Full-time,2,59100.0
+109,Justin,Higgins,Male,9,Mid Sales Development Specialist,Mid,2022-01-01,,Munich,Germany,Full-time,18,66900.0
+110,Christopher,Phillips,Male,6,Senior Product Design Specialist,Senior,2022-01-01,,Bremen,Germany,Full-time,75,114800.0
+111,Wayne,Riley,Male,6,Mid Product Design Specialist,Mid,2022-01-01,,Bremen,Germany,Full-time,12,102100.0
+112,Kimberly,Adkins,Female,5,Junior Product Management Specialist,Junior,2022-01-01,,Munich,Germany,Full-time,9,50400.0
+113,Anthony,Silva,Male,12,Junior Support Specialist,Junior,2022-01-01,2024-08-09,Bremen,Germany,Full-time,24,64500.0
+114,Kathryn,Farrell,Female,8,Junior SMB Sales Specialist,Junior,2022-01-01,2022-08-16,Munich,Germany,Full-time,16,54200.0
+115,Brooke,Yu,Female,2,Mid Frontend Specialist,Mid,2022-01-01,2024-04-22,Berlin,Germany,Full-time,4,62800.0
+116,Bobby,Lopez,Male,7,Senior Enterprise Sales Specialist,Senior,2022-01-01,,Cairo,Egypt,Full-time,84,94100.0
+117,Kurt,Leonard,Male,9,Mid Sales Development Specialist,Mid,2022-01-01,2023-07-22,Munich,Germany,Full-time,18,73900.0
+118,Cynthia,Wilson,Female,10,Senior Growth Marketing Specialist,Senior,2022-01-01,,Remote,Remote,Full-time,19,88900.0
+119,Stefanie,Sanchez,Female,3,Mid Platform Specialist,Mid,2022-01-01,,Berlin,Germany,Full-time,6,70000.0
+120,Kristopher,Harvey,Male,8,Junior SMB Sales Specialist,Junior,2022-01-01,2023-11-19,London,UK,Full-time,16,45700.0
+121,Jennifer,Silva,Female,18,"Lead, Talent Acquisition",Lead,2022-02-26,,Dubai,UAE,Full-time,35,110000.0
+122,Joseph,Donovan,Male,5,Senior Product Management Specialist,Senior,2022-02-10,,Dubai,UAE,Full-time,10,93400.0
+123,Dan,Moran,Male,3,"Manager, Platform",Manager,2022-02-02,,Cairo,Egypt,Full-time,5,125300.0
+124,Cynthia,Foster,Female,15,Junior IT Specialist,Junior,2022-02-19,,Dubai,UAE,Part-time,30,62800.0
+125,Michael,Evans,Male,15,Mid IT Specialist,Mid,2022-02-03,,Munich,Germany,Full-time,29,67500.0
+126,Emily,Walton,Female,7,Mid Enterprise Sales Specialist,Mid,2022-03-25,,London,UK,Full-time,81,83800.0
+127,Angel,Ellis,Female,8,Junior SMB Sales Specialist,Junior,2022-03-02,2024-09-12,Munich,Germany,Full-time,92,56700.0
+128,Zachary,Ferrell,Male,4,Junior QA Specialist,Junior,2022-03-18,,Bremen,Germany,Full-time,7,55900.0
+129,Benjamin,Lewis,Male,18,Mid Talent Acquisition Specialist,Mid,2022-03-10,,Dubai,UAE,Full-time,121,76700.0
+130,Deborah,Mahoney,Female,9,Junior Sales Development Specialist,Junior,2022-03-29,2024-06-22,Munich,Germany,Full-time,18,57500.0
+131,Stanley,Suarez,Male,13,Senior Onboarding Specialist,Senior,2022-03-27,,Remote,Remote,Full-time,89,105500.0
+132,Jaclyn,Moore,Female,18,Junior Talent Acquisition Specialist,Junior,2022-03-28,2022-09-19,Cairo,Egypt,Full-time,121,47000.0
+133,Sandra,Warner,Female,19,"Lead, HR Business Partners",Lead,2022-03-26,,Dubai,UAE,Full-time,37,122100.0
+134,Lisa,Archer,Female,3,Mid Platform Specialist,Mid,2022-03-30,2023-01-27,Dubai,UAE,Full-time,6,69800.0
+135,Matthew,Smith,Male,3,"Lead, Platform",Lead,2022-03-11,,Munich,Germany,Full-time,123,113200.0
+136,Robert,Evans,Male,8,"Manager, SMB Sales",Manager,2022-04-26,,London,UK,Full-time,92,111200.0
+137,Matthew,Mcmillan,Male,9,Mid Sales Development Specialist,Mid,2022-04-06,2024-10-26,Dubai,UAE,Full-time,18,73200.0
+138,Chad,Wilson,Male,7,Senior Enterprise Sales Specialist,Senior,2022-04-18,,Munich,Germany,Contract,93,88600.0
+139,Brian,Tran,Male,9,"Manager, Sales Development",Manager,2022-04-05,2023-08-22,London,UK,Full-time,18,132200.0
+140,Denise,Jacobs,Female,8,Mid SMB Sales Specialist,Mid,2022-04-26,2025-05-31,London,UK,Full-time,15,71500.0
+141,Mitchell,Harris,Male,7,Mid Enterprise Sales Specialist,Mid,2022-04-07,,Berlin,Germany,Full-time,14,68300.0
+142,Madison,Baker,Female,14,Senior Facilities Specialist,Senior,2022-04-27,,London,UK,Full-time,76,79700.0
+143,John,Whitehead,Male,14,"Manager, Facilities",Manager,2022-04-26,2022-11-23,Bremen,Germany,Full-time,76,105300.0
+144,Ryan,Davis,Male,9,"Director, Sales Development",Director,2022-04-10,,Remote,Remote,Full-time,,127800.0
+145,Jessica,Hill,Female,14,Senior Facilities Specialist,Senior,2022-04-17,,Remote,Remote,Full-time,28,91800.0
+146,April,Wise,Female,18,"Lead, Talent Acquisition",Lead,2022-04-23,,Munich,Germany,Full-time,36,91700.0
+147,Mark,Green,Male,7,Senior Enterprise Sales Specialist,Senior,2022-05-12,,Cairo,Egypt,Full-time,14,89900.0
+148,Patrick,Arnold,Male,12,Senior Support Specialist,Senior,2022-05-23,,Dubai,UAE,Full-time,24,89500.0
+149,Jessica,Smith,Female,15,"Lead, IT",Lead,2022-05-31,2026-07-06,Munich,Germany,Full-time,29,105400.0
+150,Benjamin,Ware,Male,6,Mid Product Design Specialist,Mid,2022-05-18,2023-06-13,Berlin,Germany,Full-time,75,56900.0
+151,Stuart,Gardner,Male,6,Mid Product Design Specialist,Mid,2022-05-04,,Bremen,Germany,Full-time,11,74500.0
+152,Ruben,Aguilar,Male,11,"Manager, Brand Marketing",Manager,2022-05-29,,London,UK,Full-time,22,121200.0
+153,Brittany,Anderson,Female,9,Senior Sales Development Specialist,Senior,2022-05-18,,Berlin,Germany,Part-time,18,88200.0
+154,Eric,Nolan,Male,5,"Director, Product Management",Director,2022-05-24,,Bremen,Germany,Full-time,,147700.0
+155,Robert,Valencia,Male,8,Senior SMB Sales Specialist,Senior,2022-05-21,2026-03-25,Berlin,Germany,Full-time,136,95300.0
+156,Steven,Clark,Male,7,Junior Enterprise Sales Specialist,Junior,2022-05-06,,Remote,Remote,Full-time,93,63800.0
+157,Danielle,Garcia,Female,9,Mid Sales Development Specialist,Mid,2022-05-03,2026-02-22,Berlin,Germany,Full-time,139,71700.0
+158,Richard,Henson,Male,8,"Manager, SMB Sales",Manager,2022-05-09,2023-07-28,Cairo,Egypt,Full-time,15,113100.0
+159,Jason,Oliver,Male,3,Junior Platform Specialist,Junior,2022-05-10,2022-12-20,London,UK,Full-time,56,43500.0
+160,Christopher,Spears,Male,4,"Director, QA",Director,2022-05-24,,Dubai,UAE,Part-time,,204600.0
+161,Sharon,Cherry,Female,12,"Manager, Support",Manager,2022-05-20,,Cairo,Egypt,Full-time,24,111900.0
+162,Robert,Keith,Male,9,Mid Sales Development Specialist,Mid,2022-05-06,,Bremen,Germany,Full-time,144,80200.0
+163,Allison,Doyle,Female,4,Mid QA Specialist,Mid,2022-05-14,2025-06-21,Cairo,Egypt,Full-time,8,78800.0
+164,Gary,Galvan,Male,18,"Director, Talent Acquisition",Director,2022-06-03,,Bremen,Germany,Full-time,,173800.0
+165,Robert,Shields,Male,19,Mid HR Business Partners Specialist,Mid,2022-06-13,2024-02-06,Dubai,UAE,Full-time,133,56400.0
+166,Rita,Adams,Female,5,Mid Product Management Specialist,Mid,2022-06-18,,London,UK,Full-time,9,76300.0
+167,Richard,Rodriguez,Male,8,Mid SMB Sales Specialist,Mid,2022-06-08,,Berlin,Germany,Full-time,15,78100.0
+168,Shane,Garrison,Male,6,Senior Product Design Specialist,Senior,2022-06-04,,Cairo,Egypt,Full-time,11,100500.0
+169,Courtney,Velasquez,Female,6,"Lead, Product Design",Lead,2022-06-28,,Cairo,Egypt,Full-time,11,132500.0
+170,Julia,Torres,Female,7,"Director, Enterprise Sales",Director,2022-06-05,2026-03-20,Dubai,UAE,Full-time,,158100.0
+171,Robert,Perez,Male,11,Mid Brand Marketing Specialist,Mid,2022-06-18,,London,UK,Full-time,95,84100.0
+172,Allison,Lee,Female,13,Mid Onboarding Specialist,Mid,2022-06-16,,Munich,Germany,Full-time,26,80000.0
+173,Erin,Lin,Female,9,Mid Sales Development Specialist,Mid,2022-06-13,2023-12-28,Munich,Germany,Full-time,139,66000.0
+174,Tracy,Ramirez,Female,7,Senior Enterprise Sales Specialist,Senior,2022-06-22,2023-03-28,Remote,Remote,Full-time,81,73700.0
+175,Martin,Ross,Male,18,Junior Talent Acquisition Specialist,Junior,2022-06-24,,Berlin,Germany,Full-time,164,58700.0
+176,William,Herrera,Male,8,Mid SMB Sales Specialist,Mid,2022-06-21,2025-06-15,Munich,Germany,Full-time,136,67000.0
+177,Teresa,Wilson,Female,11,Junior Brand Marketing Specialist,Junior,2022-07-22,,Cairo,Egypt,Full-time,152,62200.0
+178,Tracy,White,Female,10,"Lead, Growth Marketing",Lead,2022-07-15,,Bremen,Germany,Full-time,19,98900.0
+179,Tonya,Baker,Female,14,Mid Facilities Specialist,Mid,2022-07-08,2023-05-04,Berlin,Germany,Full-time,76,64400.0
+180,Brian,Hamilton,Male,9,Junior Sales Development Specialist,Junior,2022-07-17,,Munich,Germany,Full-time,18,76500.0
+181,Nicholas,Edwards,Male,17,"Director, FP&A",Director,2022-07-01,,Berlin,Germany,Full-time,,181500.0
+182,Lisa,Dixon,Female,18,Junior Talent Acquisition Specialist,Junior,2022-07-25,,Bremen,Germany,Part-time,35,47400.0
+183,Janice,Ray,Female,12,Senior Support Specialist,Senior,2022-07-03,,Munich,Germany,Full-time,23,89900.0
+184,Dawn,Fletcher,Female,7,Senior Enterprise Sales Specialist,Senior,2022-07-19,,Munich,Germany,Full-time,81,88100.0
+185,April,Frost,Female,10,Mid Growth Marketing Specialist,Mid,2022-07-02,,Bremen,Germany,Full-time,20,65900.0
+186,Kimberly,Ball,Female,9,Senior Sales Development Specialist,Senior,2022-07-27,,Munich,Germany,Full-time,83,80500.0
+187,Patrick,Lambert,Male,15,Senior IT Specialist,Senior,2022-07-09,,London,UK,Full-time,149,104700.0
+188,Jackson,Jones,Male,16,Mid Accounting Specialist,Mid,2022-07-06,,Remote,Remote,Full-time,80,56700.0
+189,Matthew,Rivera,Male,16,Mid Accounting Specialist,Mid,2022-07-01,2023-07-31,Munich,Germany,Full-time,31,61500.0
+190,Erik,Charles,Male,7,"Manager, Enterprise Sales",Manager,2022-07-14,,Munich,Germany,Full-time,93,115600.0
+191,Michelle,Evans,Female,15,"Manager, IT",Manager,2022-07-02,,Dubai,UAE,Full-time,30,129900.0
+192,Ellen,Ortiz,Female,7,Mid Enterprise Sales Specialist,Mid,2022-07-26,2026-05-23,Dubai,UAE,Contract,170,68500.0
+193,James,Phillips,Male,1,Junior Backend Specialist,Junior,2022-07-14,2022-07-10,London,UK,Contract,1,52900.0
+194,Cameron,Fisher,Male,9,"Manager, Sales Development",Manager,2022-08-23,2025-07-28,London,UK,Full-time,17,117600.0
+195,Teresa,Byrd,Female,9,Senior Sales Development Specialist,Senior,2022-08-14,,Berlin,Germany,Part-time,83,78700.0
+196,Stephanie,Gilbert,Female,8,Junior SMB Sales Specialist,Junior,2022-08-08,,Berlin,Germany,Full-time,158,61600.0
+197,Elizabeth,Kelley,Female,8,Mid SMB Sales Specialist,Mid,2022-08-18,2023-05-14,Dubai,UAE,Full-time,92,60200.0
+198,Aaron,Mitchell,Male,12,Junior Support Specialist,Junior,2022-08-02,,Berlin,Germany,Contract,23,51600.0
+199,Jeffrey,Carpenter,Male,15,Junior IT Specialist,Junior,2022-08-06,2025-03-16,Remote,Remote,Full-time,30,61300.0
+200,Mary,Marshall,Female,1,"Lead, Backend",Lead,2022-08-27,,Berlin,Germany,Full-time,2,118600.0
+201,Jessica,Lewis,Female,9,"Lead, Sales Development",Lead,2022-08-30,2025-04-24,Bremen,Germany,Full-time,194,119800.0
+202,John,Santana,Male,2,Junior Frontend Specialist,Junior,2022-08-15,,Remote,Remote,Full-time,4,58900.0
+203,Rebecca,Jackson,Female,17,Mid FP&A Specialist,Mid,2022-08-09,,Bremen,Germany,Full-time,34,75700.0
+204,Angela,Robertson,Female,3,Junior Platform Specialist,Junior,2022-08-13,,London,UK,Full-time,135,53500.0
+205,Mark,Rogers,Male,7,"Lead, Enterprise Sales",Lead,2022-08-18,,Cairo,Egypt,Full-time,104,110800.0
+206,Robert,Potter,Male,17,Mid FP&A Specialist,Mid,2022-08-25,,Cairo,Egypt,Contract,34,86800.0
+207,Megan,Walker,Female,9,"Manager, Sales Development",Manager,2022-08-26,,Remote,Remote,Full-time,18,140900.0
+208,Curtis,Johnson,Male,6,"Lead, Product Design",Lead,2022-08-11,,Cairo,Egypt,Part-time,75,95300.0
+209,Danielle,Alvarez,Female,9,Mid Sales Development Specialist,Mid,2022-08-06,2026-07-28,Bremen,Germany,Full-time,139,67800.0
+210,Samuel,Jones,Male,7,"Manager, Enterprise Sales",Manager,2022-08-06,,Bremen,Germany,Full-time,205,95500.0
+211,Jennifer,Soto,Female,8,Senior SMB Sales Specialist,Senior,2022-08-31,,Munich,Germany,Contract,16,90200.0
+212,Cory,Horton,Male,7,"Director, Enterprise Sales",Director,2022-08-23,,Berlin,Germany,Full-time,,154900.0
+213,Johnny,Sanchez,Male,5,"Manager, Product Management",Manager,2022-08-01,,Remote,Remote,Full-time,154,127000.0
+214,Matthew,Smith,Male,9,Mid Sales Development Specialist,Mid,2022-08-30,,London,UK,Contract,194,66400.0
+215,Paul,Carrillo,Male,11,"Manager, Brand Marketing",Manager,2022-08-24,2023-02-14,Bremen,Germany,Full-time,22,101600.0
+216,Ashley,Coleman,Female,14,Senior Facilities Specialist,Senior,2022-09-19,,Berlin,Germany,Full-time,27,100100.0
+217,Casey,Rubio,Female,7,Mid Enterprise Sales Specialist,Mid,2022-09-29,,Cairo,Egypt,Full-time,14,71000.0
+218,Joseph,Williams,Male,18,Senior Talent Acquisition Specialist,Senior,2022-09-06,2022-10-16,Berlin,Germany,Full-time,45,73200.0
+219,David,Charles,Male,7,Junior Enterprise Sales Specialist,Junior,2022-09-08,,Cairo,Egypt,Full-time,170,59800.0
+220,Joyce,Solis,Female,15,Senior IT Specialist,Senior,2022-09-21,,Bremen,Germany,Full-time,30,79000.0
+221,Michael,Travis,Male,14,Mid Facilities Specialist,Mid,2022-09-16,,Bremen,Germany,Full-time,143,89300.0
+222,Kyle,Dodson,Male,7,Mid Enterprise Sales Specialist,Mid,2022-09-15,2026-08-19,Cairo,Egypt,Full-time,212,67200.0
+223,Steven,Salazar,Male,6,"Lead, Product Design",Lead,2022-09-02,2026-05-28,Cairo,Egypt,Full-time,169,114800.0
+224,Michelle,Wagner,Female,17,Junior FP&A Specialist,Junior,2022-09-23,,Bremen,Germany,Full-time,181,70800.0
+225,Ronald,Kelley,Male,2,"Director, Frontend",Director,2022-09-03,,Berlin,Germany,Full-time,,159900.0
+226,Steven,Manning,Male,8,Senior SMB Sales Specialist,Senior,2022-09-13,2025-10-27,Cairo,Egypt,Full-time,15,89100.0
+227,Karen,Green,Female,8,Senior SMB Sales Specialist,Senior,2022-09-05,,Bremen,Germany,Full-time,15,88400.0
+228,David,Walsh,Male,8,Senior SMB Sales Specialist,Senior,2022-09-16,,Bremen,Germany,Full-time,136,90900.0
+229,Pamela,Boyd,Female,8,Mid SMB Sales Specialist,Mid,2022-09-29,,Bremen,Germany,Part-time,92,70500.0
+230,Lori,Hill,Female,7,"Lead, Enterprise Sales",Lead,2022-09-16,2023-09-19,Remote,Remote,Contract,84,94600.0
+231,Angela,Mitchell,Female,13,Senior Onboarding Specialist,Senior,2022-09-20,,Dubai,UAE,Full-time,89,86000.0
+232,Devon,Flores,Male,14,Mid Facilities Specialist,Mid,2022-09-03,,Berlin,Germany,Full-time,27,88300.0
+233,Kimberly,Taylor,Female,8,Mid SMB Sales Specialist,Mid,2022-09-30,,Munich,Germany,Full-time,136,69200.0
+234,David,Benson,Male,4,Mid QA Specialist,Mid,2022-10-21,,Cairo,Egypt,Full-time,7,56200.0
+235,Michael,Brown,Male,9,Senior Sales Development Specialist,Senior,2022-10-19,,Dubai,UAE,Full-time,194,75900.0
+236,Jason,Daniels,Male,16,Senior Accounting Specialist,Senior,2022-10-05,,Dubai,UAE,Full-time,32,95700.0
+237,Jennifer,Clark,Female,10,Mid Growth Marketing Specialist,Mid,2022-10-27,,Cairo,Egypt,Full-time,19,58300.0
+238,Jennifer,Stein,Female,9,Senior Sales Development Specialist,Senior,2022-10-25,,Cairo,Egypt,Full-time,207,78000.0
+239,Lauren,Dominguez,Female,13,Junior Onboarding Specialist,Junior,2022-10-10,2025-04-21,Dubai,UAE,Full-time,25,56900.0
+240,Shannon,Cannon,Female,4,"Manager, QA",Manager,2022-10-19,2026-08-26,London,UK,Full-time,8,117900.0
+241,James,Smith,Male,6,Junior Product Design Specialist,Junior,2022-10-22,2026-02-14,Dubai,UAE,Part-time,169,65500.0
+242,Guy,Molina,Male,12,Senior Support Specialist,Senior,2022-10-17,,Remote,Remote,Full-time,161,94800.0
+243,Scott,Ashley,Male,9,"Lead, Sales Development",Lead,2022-10-29,2023-05-08,Dubai,UAE,Full-time,139,121000.0
+244,Jennifer,Adkins,Female,14,Senior Facilities Specialist,Senior,2022-10-29,,Dubai,UAE,Full-time,27,83900.0
+245,Kimberly,Morrison,Female,8,"Lead, SMB Sales",Lead,2022-10-23,,Dubai,UAE,Full-time,15,110900.0
+246,Connie,Robinson,Female,15,Mid IT Specialist,Mid,2022-10-01,2022-10-25,Cairo,Egypt,Full-time,30,65100.0
+247,Jeffrey,Johnson,Male,5,Junior Product Management Specialist,Junior,2022-10-30,,Cairo,Egypt,Full-time,9,54600.0
+248,George,Shelton,Male,6,"Director, Product Design",Director,2022-10-20,2024-07-13,Berlin,Germany,Full-time,,138800.0
+249,Jared,Martin,Male,11,Junior Brand Marketing Specialist,Junior,2022-10-09,,Dubai,UAE,Full-time,21,55900.0
+250,John,Anderson,Male,9,Mid Sales Development Specialist,Mid,2022-10-30,,Remote,Remote,Full-time,18,77700.0
+251,Lisa,Johnson,Female,9,"Manager, Sales Development",Manager,2022-10-05,2025-06-10,Remote,Remote,Full-time,201,118800.0
+252,James,Elliott,Male,7,"Lead, Enterprise Sales",Lead,2022-11-09,,London,UK,Full-time,14,138400.0
+253,Alexander,Day,Male,7,Senior Enterprise Sales Specialist,Senior,2022-11-20,,Berlin,Germany,Full-time,205,103600.0
+254,Chad,Murray,Male,18,Junior Talent Acquisition Specialist,Junior,2022-11-08,,Berlin,Germany,Full-time,35,51900.0
+255,Anthony,Gray,Male,1,"Lead, Backend",Lead,2022-11-23,,Dubai,UAE,Full-time,2,99400.0
+256,Christine,Murphy,Female,9,"Director, Sales Development",Director,2022-11-24,2025-03-03,Dubai,UAE,Full-time,,178200.0
+257,Paige,Gray,Female,6,Senior Product Design Specialist,Senior,2022-11-23,2024-09-23,Dubai,UAE,Full-time,11,93500.0
+258,Nicole,Decker,Female,5,"Director, Product Management",Director,2022-12-17,2024-03-11,Bremen,Germany,Full-time,,129900.0
+259,David,Miller,Male,7,Mid Enterprise Sales Specialist,Mid,2022-12-12,,Berlin,Germany,Full-time,190,98600.0
+260,Alicia,Ryan,Female,18,Mid Talent Acquisition Specialist,Mid,2022-12-31,,Munich,Germany,Full-time,164,76900.0
+261,Zachary,Bell,Male,7,Mid Enterprise Sales Specialist,Mid,2022-12-05,2023-04-08,Cairo,Egypt,Full-time,190,60600.0
+262,Marie,Harrington,Female,7,"Manager, Enterprise Sales",Manager,2022-12-23,,Dubai,UAE,Full-time,230,176300.0
+263,Marissa,Webster,Female,9,Senior Sales Development Specialist,Senior,2022-12-31,2025-12-11,Munich,Germany,Full-time,83,95300.0
+264,Travis,Gonzalez,Male,7,"Manager, Enterprise Sales",Manager,2022-12-24,,Berlin,Germany,Full-time,14,146400.0
+265,Alicia,Hernandez,Female,13,Junior Onboarding Specialist,Junior,2023-01-05,,London,UK,Full-time,26,55000.0
+266,Beth,Caldwell,Female,9,"Lead, Sales Development",Lead,2023-01-27,,Bremen,Germany,Full-time,194,96800.0
+267,Kristy,Robinson,Female,11,"Manager, Brand Marketing",Manager,2023-01-15,2025-06-02,London,UK,Full-time,21,124800.0
+268,Melissa,Wang,Female,17,Junior FP&A Specialist,Junior,2023-01-20,,Bremen,Germany,Part-time,33,44200.0
+269,Christopher,Lawson,Male,2,Junior Frontend Specialist,Junior,2023-01-27,2025-09-11,Cairo,Egypt,Full-time,3,56300.0
+270,Nicole,Wilson,Female,4,Senior QA Specialist,Senior,2023-01-22,2024-03-24,Munich,Germany,Full-time,8,91200.0
+271,Robert,Oconnell,Male,7,Mid Enterprise Sales Specialist,Mid,2023-01-25,2025-06-29,Cairo,Egypt,Part-time,170,62100.0
+272,Ashley,Johnson,Female,1,Junior Backend Specialist,Junior,2023-01-16,,Berlin,Germany,Full-time,200,54000.0
+273,Emily,Byrd,Female,10,Mid Growth Marketing Specialist,Mid,2023-01-17,2024-05-06,Berlin,Germany,Full-time,19,68700.0
+274,Tina,Sanders,Female,15,Mid IT Specialist,Mid,2023-01-10,,Cairo,Egypt,Contract,29,69000.0
+275,Michelle,Jones,Female,14,Junior Facilities Specialist,Junior,2023-01-22,,Berlin,Germany,Full-time,28,54200.0
+276,Michael,Burton,Male,18,Senior Talent Acquisition Specialist,Senior,2023-01-02,2024-08-04,Berlin,Germany,Full-time,45,82000.0
+277,Ashley,Barton,Female,5,Junior Product Management Specialist,Junior,2023-01-26,,Bremen,Germany,Full-time,213,56600.0
+278,Sarah,Burke,Female,14,Mid Facilities Specialist,Mid,2023-01-11,,London,UK,Full-time,28,87800.0
+279,Bryan,Riggs,Male,17,Junior FP&A Specialist,Junior,2023-01-05,2026-02-19,Berlin,Germany,Full-time,34,52400.0
+280,Rachel,Reed,Female,7,Senior Enterprise Sales Specialist,Senior,2023-01-02,2023-02-28,Munich,Germany,Full-time,262,75100.0
+281,Jessica,Wood,Female,10,"Lead, Growth Marketing",Lead,2023-01-26,2023-09-07,Cairo,Egypt,Full-time,20,109400.0
+282,Jonathan,Peterson,Male,8,Mid SMB Sales Specialist,Mid,2023-01-15,,London,UK,Full-time,16,82500.0
+283,Sarah,Short,Female,17,"Director, FP&A",Director,2023-01-14,2024-10-12,Dubai,UAE,Full-time,,149300.0
+284,Ashley,Yu,Female,15,Mid IT Specialist,Mid,2023-01-15,,Cairo,Egypt,Part-time,191,79000.0
+285,Mark,Poole,Male,19,Mid HR Business Partners Specialist,Mid,2023-01-01,,Berlin,Germany,Full-time,133,72800.0
+286,Michael,Graham,Male,16,Junior Accounting Specialist,Junior,2023-01-13,,London,UK,Full-time,80,48000.0
+287,Morgan,Sheppard,Female,1,"Lead, Backend",Lead,2023-01-14,,Remote,Remote,Full-time,200,110500.0
+288,Debra,Morton,Female,3,Mid Platform Specialist,Mid,2023-01-12,,Munich,Germany,Full-time,135,66600.0
+289,Joshua,Webb,Male,19,Senior HR Business Partners Specialist,Senior,2023-01-08,,London,UK,Full-time,133,93600.0
+290,Jeffrey,Simon,Male,7,Mid Enterprise Sales Specialist,Mid,2023-01-09,,Munich,Germany,Full-time,212,76300.0
+291,Derrick,Christian,Male,12,"Lead, Support",Lead,2023-01-22,,Dubai,UAE,Part-time,161,116600.0
+292,Sandra,Miller,Female,3,Junior Platform Specialist,Junior,2023-01-29,,Bremen,Germany,Full-time,5,54200.0
+293,Stephen,Sanchez,Male,11,Mid Brand Marketing Specialist,Mid,2023-02-11,,Dubai,UAE,Part-time,22,71300.0
+294,Julie,Bishop,Female,9,"Lead, Sales Development",Lead,2023-02-10,,Berlin,Germany,Contract,207,131300.0
+295,Jamie,Johnson,Female,19,Senior HR Business Partners Specialist,Senior,2023-02-27,2024-03-18,Berlin,Germany,Contract,37,77500.0
+296,Samuel,White,Male,5,Senior Product Management Specialist,Senior,2023-02-18,2024-10-09,Munich,Germany,Full-time,213,75400.0
+297,Daniel,Salinas,Male,8,"Lead, SMB Sales",Lead,2023-02-16,2023-12-13,Munich,Germany,Full-time,245,104000.0
+298,Gina,Beard,Female,17,"Director, FP&A",Director,2023-02-25,,Remote,Remote,Part-time,,162400.0
+299,Meredith,Hill,Female,8,Junior SMB Sales Specialist,Junior,2023-02-02,2023-04-26,Munich,Germany,Full-time,158,42300.0
+300,Alexandra,Vaughan,Female,10,Senior Growth Marketing Specialist,Senior,2023-02-07,2023-12-11,Remote,Remote,Full-time,97,93500.0
+301,Bradley,Cortez,Male,11,"Director, Brand Marketing",Director,2023-02-03,,Berlin,Germany,Full-time,,155500.0
+302,John,Chang,Male,4,Mid QA Specialist,Mid,2023-02-28,,Munich,Germany,Full-time,160,61300.0
+303,Michael,Brewer,Male,13,"Lead, Onboarding",Lead,2023-02-15,,Remote,Remote,Full-time,26,98900.0
+304,Katherine,Mcguire,Female,15,Junior IT Specialist,Junior,2023-02-20,,Munich,Germany,Full-time,149,56300.0
+305,Brandon,Walker,Male,8,Mid SMB Sales Specialist,Mid,2023-02-09,,London,UK,Full-time,16,70200.0
+306,Michael,Torres,Male,15,"Lead, IT",Lead,2023-02-10,2024-05-13,Dubai,UAE,Full-time,191,101200.0
+307,Kevin,Kennedy,Male,15,Junior IT Specialist,Junior,2023-02-16,,Dubai,UAE,Full-time,30,44300.0
+308,Joseph,Coleman,Male,13,Mid Onboarding Specialist,Mid,2023-02-19,2026-06-01,Remote,Remote,Contract,89,63100.0
+309,Patrick,Rivera,Male,5,Junior Product Management Specialist,Junior,2023-02-02,2025-01-01,London,UK,Full-time,10,43800.0
+310,Michele,Nelson,Female,7,Senior Enterprise Sales Specialist,Senior,2023-02-17,2026-08-04,Cairo,Egypt,Full-time,93,102400.0
+311,David,Martinez,Male,15,"Lead, IT",Lead,2023-02-22,,London,UK,Full-time,149,122800.0
+312,Corey,Wilson,Male,4,Mid QA Specialist,Mid,2023-02-10,2024-12-26,Dubai,UAE,Full-time,8,67200.0
+313,Kimberly,Gill,Female,10,"Manager, Growth Marketing",Manager,2023-02-27,,Dubai,UAE,Full-time,19,132500.0
+314,Cody,Robinson,Male,7,Junior Enterprise Sales Specialist,Junior,2023-02-12,,Cairo,Egypt,Full-time,210,58400.0
+315,Kari,Hardy,Female,4,Junior QA Specialist,Junior,2023-02-23,,Munich,Germany,Contract,8,48700.0
+316,Vanessa,Warren,Female,1,"Lead, Backend",Lead,2023-02-16,2024-06-15,Berlin,Germany,Full-time,287,92200.0
+317,Diane,Garcia,Female,2,Junior Frontend Specialist,Junior,2023-02-22,,Remote,Remote,Full-time,225,48600.0
+318,Cory,Perez,Male,3,"Lead, Platform",Lead,2023-02-28,,Cairo,Egypt,Full-time,6,108300.0
+319,Cassie,Smith,Female,15,Junior IT Specialist,Junior,2023-02-25,2023-10-12,London,UK,Full-time,149,44500.0
+320,Joseph,Hill,Male,4,Mid QA Specialist,Mid,2023-03-04,,Remote,Remote,Full-time,160,61100.0
+321,William,Tran,Male,8,Senior SMB Sales Specialist,Senior,2023-03-15,2026-01-02,London,UK,Full-time,136,105600.0
+322,Michael,Martinez,Male,16,"Lead, Accounting",Lead,2023-03-29,2023-07-07,London,UK,Contract,31,97300.0
+323,Sheena,Henry,Female,9,Junior Sales Development Specialist,Junior,2023-03-22,2024-06-14,Dubai,UAE,Contract,251,52200.0
+324,Shane,Andrews,Male,8,Mid SMB Sales Specialist,Mid,2023-03-07,2025-11-05,Bremen,Germany,Full-time,136,61400.0
+325,John,Alexander,Male,18,Mid Talent Acquisition Specialist,Mid,2023-03-12,,Dubai,UAE,Full-time,36,80200.0
+326,Cathy,Williams,Female,6,Junior Product Design Specialist,Junior,2023-03-31,2024-09-21,London,UK,Full-time,11,57200.0
+327,Teresa,Woods,Female,11,Mid Brand Marketing Specialist,Mid,2023-03-05,,Remote,Remote,Full-time,301,63000.0
+328,Rodney,Morales,Male,11,Mid Brand Marketing Specialist,Mid,2023-03-16,2023-08-22,Remote,Remote,Full-time,215,69600.0
+329,Benjamin,Soto,Male,8,Mid SMB Sales Specialist,Mid,2023-03-28,2023-11-12,Bremen,Germany,Full-time,158,62000.0
+330,Anthony,Hernandez,Male,8,Senior SMB Sales Specialist,Senior,2023-03-10,,Remote,Remote,Full-time,245,96900.0
+331,Justin,Torres,Male,9,Mid Sales Development Specialist,Mid,2023-03-06,2025-02-09,Munich,Germany,Full-time,201,63400.0
+332,Xavier,Wilson,Male,2,Junior Frontend Specialist,Junior,2023-03-19,,Munich,Germany,Full-time,225,68500.0
+333,Pamela,Obrien,Female,7,Mid Enterprise Sales Specialist,Mid,2023-03-12,,London,UK,Full-time,170,65000.0
+334,Richard,Perez,Male,3,Junior Platform Specialist,Junior,2023-03-06,,Bremen,Germany,Full-time,123,55900.0
+335,Joseph,Hayes,Male,1,Mid Backend Specialist,Mid,2023-03-11,,Munich,Germany,Full-time,255,82800.0
+336,Jeremy,Dalton,Male,15,Mid IT Specialist,Mid,2023-03-22,,Munich,Germany,Full-time,30,81900.0
+337,William,Torres,Male,7,"Director, Enterprise Sales",Director,2023-03-10,,Remote,Remote,Full-time,,148600.0
+338,Marc,Lynch,Male,7,Senior Enterprise Sales Specialist,Senior,2023-03-03,,Dubai,UAE,Full-time,58,76800.0
+339,Patrick,Meza,Male,11,Junior Brand Marketing Specialist,Junior,2023-03-11,,Munich,Germany,Full-time,152,52800.0
+340,Daniel,Clark,Male,12,Junior Support Specialist,Junior,2023-03-28,2025-12-22,Berlin,Germany,Full-time,291,55900.0
+341,Matthew,Moore,Male,7,Senior Enterprise Sales Specialist,Senior,2023-04-25,,Berlin,Germany,Full-time,210,105400.0
+342,Carrie,Jones,Female,17,Senior FP&A Specialist,Senior,2023-04-05,2023-11-06,Cairo,Egypt,Full-time,33,83000.0
+343,April,Hayes,Female,9,"Manager, Sales Development",Manager,2023-04-26,,Cairo,Egypt,Full-time,256,95800.0
+344,Linda,Carter,Female,7,"Lead, Enterprise Sales",Lead,2023-04-06,2025-04-16,Bremen,Germany,Full-time,104,106500.0
+345,David,Mann,Male,18,Junior Talent Acquisition Specialist,Junior,2023-04-12,,Remote,Remote,Contract,36,58500.0
+346,Michael,Gibson,Male,12,Junior Support Specialist,Junior,2023-04-07,,Bremen,Germany,Full-time,291,53300.0
+347,Michael,Bradshaw,Male,9,Junior Sales Development Specialist,Junior,2023-04-24,,Cairo,Egypt,Full-time,243,64800.0
+348,Richard,Weber,Male,11,Mid Brand Marketing Specialist,Mid,2023-04-20,2025-02-17,Bremen,Germany,Full-time,267,84700.0
+349,Matthew,Peck,Male,16,Mid Accounting Specialist,Mid,2023-04-14,,Dubai,UAE,Part-time,31,64800.0
+350,Jeffery,Stephens,Male,8,Mid SMB Sales Specialist,Mid,2023-04-01,,Bremen,Germany,Full-time,297,86200.0
+351,Matthew,Kerr,Male,17,Junior FP&A Specialist,Junior,2023-04-07,,Bremen,Germany,Full-time,33,57700.0
+352,Ronald,Jones,Male,7,Mid Enterprise Sales Specialist,Mid,2023-04-16,,Remote,Remote,Full-time,210,61500.0
+353,Carol,Parker,Female,10,Junior Growth Marketing Specialist,Junior,2023-04-19,2024-04-15,Bremen,Germany,Full-time,313,46900.0
+354,Nicole,Carroll,Female,7,Mid Enterprise Sales Specialist,Mid,2023-04-21,2024-02-04,London,UK,Full-time,14,55900.0
+355,Donna,Martinez,Female,16,Senior Accounting Specialist,Senior,2023-04-26,2026-08-28,Dubai,UAE,Full-time,322,116600.0
+356,Melissa,Lyons,Female,9,Junior Sales Development Specialist,Junior,2023-04-19,,Bremen,Germany,Full-time,18,68600.0
+357,Tommy,Mason,Male,9,Mid Sales Development Specialist,Mid,2023-04-12,,Berlin,Germany,Full-time,294,66500.0
+358,Katherine,Miller,Female,18,Mid Talent Acquisition Specialist,Mid,2023-04-25,,Berlin,Germany,Full-time,146,66500.0
+359,Amanda,Reynolds,Female,6,"Lead, Product Design",Lead,2023-04-27,,Dubai,UAE,Full-time,12,104400.0
+360,Frank,Wright,Male,11,Senior Brand Marketing Specialist,Senior,2023-04-23,,Cairo,Egypt,Full-time,301,116000.0
+361,Anna,Hayden,Female,5,"Manager, Product Management",Manager,2023-04-15,2026-07-21,Dubai,UAE,Full-time,9,108600.0
+362,Russell,Johnston,Male,9,"Manager, Sales Development",Manager,2023-04-25,,Remote,Remote,Full-time,139,136100.0
+363,Trevor,Key,Male,1,Junior Backend Specialist,Junior,2023-04-04,2026-03-09,Berlin,Germany,Full-time,200,52900.0
+364,Michael,Adams,Male,6,Senior Product Design Specialist,Senior,2023-04-09,,Remote,Remote,Full-time,75,102400.0
+365,Amanda,Avila,Female,19,Mid HR Business Partners Specialist,Mid,2023-05-08,,Remote,Remote,Full-time,37,70700.0
+366,John,Pearson,Male,9,Senior Sales Development Specialist,Senior,2023-05-23,,Cairo,Egypt,Part-time,18,83500.0
+367,Thomas,White,Male,7,Senior Enterprise Sales Specialist,Senior,2023-05-24,,Dubai,UAE,Full-time,190,95100.0
+368,Kevin,Walters,Male,8,Mid SMB Sales Specialist,Mid,2023-05-24,,London,UK,Full-time,245,75700.0
+369,John,Davis,Male,14,Mid Facilities Specialist,Mid,2023-05-17,,Cairo,Egypt,Full-time,28,92900.0
+370,Hannah,Cook,Female,16,Junior Accounting Specialist,Junior,2023-05-21,,Bremen,Germany,Full-time,31,44100.0
+371,Meagan,Hodge,Female,19,Senior HR Business Partners Specialist,Senior,2023-05-14,,Dubai,UAE,Contract,133,106700.0
+372,Erin,Steele,Female,10,"Lead, Growth Marketing",Lead,2023-05-30,2024-05-26,London,UK,Full-time,281,114600.0
+373,Donna,Landry,Female,8,Senior SMB Sales Specialist,Senior,2023-05-06,,Berlin,Germany,Full-time,297,85900.0
+374,Robert,Pierce,Male,8,"Director, SMB Sales",Director,2023-05-12,2026-04-25,London,UK,Full-time,,140900.0
+375,Jesse,Edwards,Male,7,Senior Enterprise Sales Specialist,Senior,2023-05-01,,Berlin,Germany,Full-time,337,112500.0
+376,Frank,Cordova,Male,7,Mid Enterprise Sales Specialist,Mid,2023-05-20,,Munich,Germany,Part-time,212,56800.0
+377,Jennifer,Robertson,Female,8,Junior SMB Sales Specialist,Junior,2023-05-07,2026-05-31,Dubai,UAE,Full-time,374,47200.0
+378,Virginia,Sandoval,Female,8,Mid SMB Sales Specialist,Mid,2023-05-12,,Cairo,Egypt,Contract,16,76500.0
+379,Kimberly,Gutierrez,Female,7,Junior Enterprise Sales Specialist,Junior,2023-05-14,,Bremen,Germany,Full-time,14,51800.0
+380,Cody,Cox,Male,11,Mid Brand Marketing Specialist,Mid,2023-05-31,2024-10-01,Bremen,Germany,Full-time,215,67900.0
+381,Peter,Garrett,Male,9,"Lead, Sales Development",Lead,2023-05-30,,Berlin,Germany,Full-time,18,92200.0
+382,Peter,Harris,Male,6,"Lead, Product Design",Lead,2023-05-22,,Cairo,Egypt,Full-time,248,104700.0
+383,Kirsten,Pennington,Female,10,Mid Growth Marketing Specialist,Mid,2023-05-24,,Munich,Germany,Full-time,372,79200.0
+384,Jessica,Wolfe,Female,8,"Lead, SMB Sales",Lead,2023-05-26,2026-01-20,Berlin,Germany,Full-time,92,120600.0
+385,Barbara,Dudley,Female,18,Junior Talent Acquisition Specialist,Junior,2023-05-14,2024-02-05,Bremen,Germany,Full-time,121,53200.0
+386,Lee,Allen,Male,13,Mid Onboarding Specialist,Mid,2023-06-07,,Cairo,Egypt,Full-time,26,61700.0
+387,Brooke,Pierce,Female,3,Senior Platform Specialist,Senior,2023-06-01,,Munich,Germany,Full-time,56,93300.0
+388,Kristen,Davis,Female,11,Senior Brand Marketing Specialist,Senior,2023-06-07,2023-10-13,Bremen,Germany,Full-time,267,75000.0
+389,Willie,Durham,Male,12,Junior Support Specialist,Junior,2023-06-30,,Munich,Germany,Full-time,24,53900.0
+390,Joel,Wilson,Male,9,"Manager, Sales Development",Manager,2023-06-09,2025-07-29,Munich,Germany,Part-time,139,106200.0
+391,Ronnie,Jimenez,Male,9,"Director, Sales Development",Director,2023-06-23,,Bremen,Germany,Full-time,,158200.0
+392,Michelle,Hicks,Female,12,Mid Support Specialist,Mid,2023-06-28,2023-06-14,Berlin,Germany,Full-time,291,62400.0
+393,Denise,Davenport,Female,5,Senior Product Management Specialist,Senior,2023-06-06,,Remote,Remote,Full-time,258,89900.0
+394,Veronica,Sanchez,Female,12,Junior Support Specialist,Junior,2023-06-18,2025-03-29,Bremen,Germany,Full-time,161,48900.0
+395,Kristen,Reyes,Female,7,Junior Enterprise Sales Specialist,Junior,2023-06-26,,Remote,Remote,Full-time,81,44700.0
+396,Thomas,Romero,Male,3,"Manager, Platform",Manager,2023-06-23,,London,UK,Full-time,135,125900.0
+397,Sherry,Shields,Female,6,Junior Product Design Specialist,Junior,2023-06-09,2026-02-15,Cairo,Egypt,Full-time,12,52600.0
+398,Donald,Tyler,Male,10,Junior Growth Marketing Specialist,Junior,2023-06-18,2025-10-28,Berlin,Germany,Full-time,20,49600.0
+399,Jason,Villa,Male,13,Junior Onboarding Specialist,Junior,2023-06-12,2024-03-21,Bremen,Germany,Full-time,89,48400.0
+400,Katie,Hoover,Female,5,Junior Product Management Specialist,Junior,2023-06-10,,Berlin,Germany,Full-time,361,52600.0
+401,Diane,Evans,Female,8,"Director, SMB Sales",Director,2023-06-21,,London,UK,Full-time,,171000.0
+402,Laurie,Duarte,Female,1,Junior Backend Specialist,Junior,2023-06-27,,Berlin,Germany,Full-time,1,50200.0
+403,Katherine,Hernandez,Female,9,Mid Sales Development Specialist,Mid,2023-06-27,2025-07-27,Berlin,Germany,Full-time,362,57400.0
+404,Kimberly,Reed,Female,2,Mid Frontend Specialist,Mid,2023-06-23,2025-06-24,Bremen,Germany,Full-time,3,75400.0
+405,Juan,Daniels,Male,1,Junior Backend Specialist,Junior,2023-06-08,,Dubai,UAE,Full-time,316,48300.0
+406,Jesse,Morris,Male,5,Mid Product Management Specialist,Mid,2023-06-04,2023-10-03,Munich,Germany,Full-time,154,59300.0
+407,Colin,Terry,Male,8,Senior SMB Sales Specialist,Senior,2023-06-11,2023-12-20,Berlin,Germany,Full-time,158,92500.0
+408,Kenneth,Hall,Male,17,Mid FP&A Specialist,Mid,2023-06-22,,Remote,Remote,Full-time,33,70400.0
+409,Reginald,Williams,Male,9,"Lead, Sales Development",Lead,2023-07-07,,Cairo,Egypt,Full-time,391,134200.0
+410,Patrick,Thornton,Male,9,"Lead, Sales Development",Lead,2023-07-05,,Bremen,Germany,Full-time,207,96900.0
+411,Robert,Hughes,Male,18,Mid Talent Acquisition Specialist,Mid,2023-07-09,2024-07-10,Bremen,Germany,Contract,36,75300.0
+412,Mary,Hoover,Female,18,Mid Talent Acquisition Specialist,Mid,2023-07-17,,Cairo,Egypt,Full-time,35,73600.0
+413,Veronica,Simpson,Female,8,Mid SMB Sales Specialist,Mid,2023-07-07,,Berlin,Germany,Part-time,245,63300.0
+414,Amanda,Shaw,Female,9,"Manager, Sales Development",Manager,2023-07-26,2024-07-09,Munich,Germany,Full-time,343,119500.0
+415,Kevin,Kane,Male,7,Junior Enterprise Sales Specialist,Junior,2023-07-02,,Cairo,Egypt,Full-time,212,50200.0
+416,Shelly,Alexander,Female,18,"Lead, Talent Acquisition",Lead,2023-07-01,2023-09-30,Cairo,Egypt,Full-time,121,102200.0
+417,Joseph,Bryant,Male,8,Senior SMB Sales Specialist,Senior,2023-07-13,,London,UK,Full-time,92,81800.0
+418,Miranda,Ortiz,Female,5,"Manager, Product Management",Manager,2023-07-14,2026-08-27,Berlin,Germany,Full-time,9,102400.0
+419,Mary,Moore,Female,16,"Lead, Accounting",Lead,2023-07-08,2024-04-26,Bremen,Germany,Full-time,32,92500.0
+420,Julie,Costa,Female,4,Mid QA Specialist,Mid,2023-07-13,,London,UK,Part-time,160,63600.0
+421,George,Schwartz,Male,8,"Manager, SMB Sales",Manager,2023-07-10,2025-11-16,Remote,Remote,Part-time,384,118200.0
+422,Matthew,Christian,Male,7,Senior Enterprise Sales Specialist,Senior,2023-07-14,2023-08-16,Munich,Germany,Full-time,84,73800.0
+423,Sarah,Villarreal,Female,8,"Lead, SMB Sales",Lead,2023-07-27,,Berlin,Germany,Full-time,421,104000.0
+424,Jamie,Stewart,Female,7,Mid Enterprise Sales Specialist,Mid,2023-07-13,,Bremen,Germany,Full-time,230,59700.0
+425,Michelle,Malone,Female,6,Senior Product Design Specialist,Senior,2023-07-06,,London,UK,Full-time,382,101200.0
+426,Shelia,Johnson,Female,15,Junior IT Specialist,Junior,2023-07-19,2024-06-10,Munich,Germany,Full-time,306,53900.0
+427,Barry,Welch,Male,9,Senior Sales Development Specialist,Senior,2023-07-31,,Remote,Remote,Full-time,391,94800.0
+428,Tammie,Bright,Female,19,"Lead, HR Business Partners",Lead,2023-07-15,2024-07-08,Berlin,Germany,Full-time,38,115700.0
+429,Paul,Hamilton,Male,7,Mid Enterprise Sales Specialist,Mid,2023-07-19,,Munich,Germany,Full-time,190,59600.0
+430,Annette,Schultz,Female,11,Mid Brand Marketing Specialist,Mid,2023-07-27,,Dubai,UAE,Full-time,152,72800.0
+431,Shane,Wallace,Male,6,Senior Product Design Specialist,Senior,2023-08-31,2025-01-10,Munich,Germany,Full-time,223,75700.0
+432,Melissa,Berger,Female,2,Junior Frontend Specialist,Junior,2023-08-15,,Berlin,Germany,Full-time,225,49100.0
+433,Angel,Flynn,Male,4,Senior QA Specialist,Senior,2023-08-11,2026-03-04,Munich,Germany,Full-time,160,94400.0
+434,Elaine,Brooks,Female,2,Junior Frontend Specialist,Junior,2023-08-30,,Bremen,Germany,Full-time,4,49900.0
+435,Brianna,Schmidt,Female,8,Junior SMB Sales Specialist,Junior,2023-08-19,2024-07-06,Dubai,UAE,Full-time,421,56000.0
+436,Keith,Sparks,Male,9,Senior Sales Development Specialist,Senior,2023-08-19,,Cairo,Egypt,Full-time,390,101800.0
+437,Carolyn,Miller,Female,7,Senior Enterprise Sales Specialist,Senior,2023-08-27,,Munich,Germany,Full-time,212,93400.0
+438,Seth,Harvey,Male,7,"Manager, Enterprise Sales",Manager,2023-08-24,,Munich,Germany,Full-time,344,104100.0
+439,Cynthia,Durham,Female,14,Senior Facilities Specialist,Senior,2023-08-08,,Cairo,Egypt,Full-time,143,83700.0
+440,Charles,Murray,Male,7,Junior Enterprise Sales Specialist,Junior,2023-08-04,,Cairo,Egypt,Full-time,438,73200.0
+441,David,Scott,Male,5,Mid Product Management Specialist,Mid,2023-08-14,2025-03-05,London,UK,Full-time,418,66800.0
+442,Adam,Ballard,Male,4,Senior QA Specialist,Senior,2023-08-28,2025-11-05,Dubai,UAE,Full-time,240,86800.0
+443,Stephanie,Byrd,Female,17,Mid FP&A Specialist,Mid,2023-08-29,,London,UK,Part-time,298,58200.0
+444,Brooke,Alexander,Female,15,"Lead, IT",Lead,2023-08-10,,London,UK,Part-time,306,99900.0
+445,Gregory,Matthews,Male,9,Senior Sales Development Specialist,Senior,2023-08-22,,Munich,Germany,Full-time,390,87000.0
+446,Mark,Coleman,Male,7,Junior Enterprise Sales Specialist,Junior,2023-08-11,,Munich,Germany,Full-time,210,62100.0
+447,David,Bruce,Male,9,"Manager, Sales Development",Manager,2023-08-19,,Bremen,Germany,Full-time,194,113500.0
+448,Christina,Cruz,Female,7,Mid Enterprise Sales Specialist,Mid,2023-08-30,,Berlin,Germany,Full-time,84,80800.0
+449,Karen,Young,Female,9,"Manager, Sales Development",Manager,2023-08-02,,Bremen,Germany,Full-time,17,119100.0
+450,Kenneth,Andrews,Male,8,"Lead, SMB Sales",Lead,2023-08-05,,Bremen,Germany,Full-time,16,121600.0
+451,Willie,Phillips,Male,19,Senior HR Business Partners Specialist,Senior,2023-08-24,,Remote,Remote,Full-time,38,80600.0
+452,Vanessa,Barrett,Female,8,Mid SMB Sales Specialist,Mid,2023-08-24,,London,UK,Full-time,15,66700.0
+453,Donald,Knight,Male,10,Junior Growth Marketing Specialist,Junior,2023-09-23,,London,UK,Full-time,178,50400.0
+454,Melissa,Garner,Female,11,"Manager, Brand Marketing",Manager,2023-09-06,2025-10-07,Munich,Germany,Full-time,152,131700.0
+455,Anthony,Obrien,Male,3,"Director, Platform",Director,2023-09-04,,Dubai,UAE,Full-time,,158800.0
+456,Jonathan,Strong,Male,18,Junior Talent Acquisition Specialist,Junior,2023-09-22,2024-12-06,London,UK,Full-time,121,43700.0
+457,Dustin,Lindsey,Male,7,Junior Enterprise Sales Specialist,Junior,2023-09-17,,Bremen,Germany,Full-time,210,53900.0
+458,Lawrence,Gomez,Male,8,Junior SMB Sales Specialist,Junior,2023-09-30,,London,UK,Full-time,421,61800.0
+459,Mallory,Oliver,Female,16,Junior Accounting Specialist,Junior,2023-09-18,,Cairo,Egypt,Full-time,32,58000.0
+460,Michael,Le,Male,3,Mid Platform Specialist,Mid,2023-09-23,,Remote,Remote,Full-time,6,80900.0
+461,Mary,Massey,Female,15,"Lead, IT",Lead,2023-09-13,2026-02-05,Munich,Germany,Full-time,149,117400.0
+462,Lori,Berger,Female,1,"Lead, Backend",Lead,2023-09-01,2023-09-20,Cairo,Egypt,Full-time,255,98000.0
+463,Maria,Parker,Female,14,Junior Facilities Specialist,Junior,2023-09-08,,Remote,Remote,Full-time,143,61200.0
+464,Jeremiah,Riley,Male,2,Senior Frontend Specialist,Senior,2023-09-24,2026-02-11,Bremen,Germany,Full-time,225,86000.0
+465,Nicholas,Davis,Male,15,Mid IT Specialist,Mid,2023-09-28,,Dubai,UAE,Full-time,29,71000.0
+466,Elizabeth,Burgess,Female,9,Mid Sales Development Specialist,Mid,2023-09-13,,Berlin,Germany,Full-time,391,71400.0
+467,Christopher,Anderson,Male,1,Senior Backend Specialist,Senior,2023-09-16,,Remote,Remote,Full-time,1,102000.0
+468,Joshua,Mata,Male,8,Senior SMB Sales Specialist,Senior,2023-09-16,,Munich,Germany,Contract,421,75300.0
+469,Joseph,Mcintyre,Male,9,Junior Sales Development Specialist,Junior,2023-09-03,,Cairo,Egypt,Full-time,409,56600.0
+470,Sandra,Scott,Female,7,"Lead, Enterprise Sales",Lead,2023-09-11,,Munich,Germany,Full-time,252,139700.0
+471,Roger,Olson,Male,9,Mid Sales Development Specialist,Mid,2023-09-21,2024-01-25,London,UK,Full-time,391,63200.0
+472,Renee,Francis,Female,12,Junior Support Specialist,Junior,2023-09-13,,Berlin,Germany,Full-time,23,56300.0
+473,George,Wilson,Male,17,Junior FP&A Specialist,Junior,2023-09-16,2023-10-29,Berlin,Germany,Full-time,283,51700.0
+474,Victor,Taylor,Male,16,Senior Accounting Specialist,Senior,2023-10-25,,Remote,Remote,Contract,31,76700.0
+475,Vincent,Dalton,Male,8,Senior SMB Sales Specialist,Senior,2023-10-05,,Bremen,Germany,Full-time,423,81700.0
+476,Misty,Whitney,Female,13,Junior Onboarding Specialist,Junior,2023-10-05,,Remote,Remote,Full-time,26,54600.0
+477,Tracy,Ballard,Female,5,Mid Product Management Specialist,Mid,2023-10-27,,Munich,Germany,Full-time,213,64800.0
+478,Jacob,Gibbs,Male,8,Mid SMB Sales Specialist,Mid,2023-10-22,2025-08-18,Bremen,Germany,Full-time,384,71400.0
+479,Adrian,Herrera,Male,11,"Lead, Brand Marketing",Lead,2023-10-10,,Berlin,Germany,Full-time,267,105100.0
+480,Jesse,Chambers,Male,10,Senior Growth Marketing Specialist,Senior,2023-10-14,,Remote,Remote,Full-time,281,91900.0
+481,Michael,Richards,Male,16,Mid Accounting Specialist,Mid,2023-10-22,,Dubai,UAE,Full-time,31,58800.0
+482,Rodney,Bentley,Male,11,Mid Brand Marketing Specialist,Mid,2023-10-11,,Munich,Germany,Full-time,22,70100.0
+483,Brian,Hall,Male,9,Mid Sales Development Specialist,Mid,2023-10-22,,Cairo,Egypt,Full-time,409,65300.0
+484,Allison,Henson,Female,10,"Lead, Growth Marketing",Lead,2023-10-19,,Cairo,Egypt,Full-time,372,106500.0
+485,Justin,Herman,Male,12,Mid Support Specialist,Mid,2023-10-02,2024-09-23,Remote,Remote,Part-time,23,62800.0
+486,Connie,Brown,Female,17,Senior FP&A Specialist,Senior,2023-10-07,,London,UK,Full-time,33,97700.0
+487,Samantha,Blankenship,Female,7,Mid Enterprise Sales Specialist,Mid,2023-10-22,,Munich,Germany,Full-time,14,74400.0
+488,Eric,Ortiz,Male,6,"Manager, Product Design",Manager,2023-10-25,,London,UK,Full-time,223,120100.0
+489,Brenda,Shah,Female,7,Senior Enterprise Sales Specialist,Senior,2023-10-18,,Munich,Germany,Part-time,81,91100.0
+490,Elizabeth,Vasquez,Female,9,"Lead, Sales Development",Lead,2023-10-06,2024-11-15,Munich,Germany,Full-time,381,107100.0
+491,Brent,Clay,Male,7,Junior Enterprise Sales Specialist,Junior,2023-10-04,,Cairo,Egypt,Full-time,344,56700.0
+492,Brandy,Chavez,Female,17,Senior FP&A Specialist,Senior,2023-11-21,,London,UK,Full-time,33,90500.0
+493,Michael,Paul,Male,13,Junior Onboarding Specialist,Junior,2023-11-25,2024-04-05,London,UK,Full-time,25,48400.0
+494,Theresa,Barnes,Female,7,Junior Enterprise Sales Specialist,Junior,2023-11-03,,Dubai,UAE,Full-time,210,51300.0
+495,Patrick,Moore,Male,14,Mid Facilities Specialist,Mid,2023-11-28,,Bremen,Germany,Full-time,28,59000.0
+496,Jason,Garcia,Male,9,Mid Sales Development Specialist,Mid,2023-11-15,2024-01-07,Remote,Remote,Full-time,414,70700.0
+497,Katherine,Russell,Female,17,"Lead, FP&A",Lead,2023-11-10,2024-02-28,Munich,Germany,Full-time,181,102000.0
+498,Tiffany,Johnson,Female,9,Junior Sales Development Specialist,Junior,2023-11-08,,Remote,Remote,Full-time,251,51300.0
+499,Jacqueline,Ramos,Female,12,Senior Support Specialist,Senior,2023-11-26,2026-07-05,Bremen,Germany,Full-time,24,93600.0
+500,Trevor,Foley,Male,8,Mid SMB Sales Specialist,Mid,2023-11-23,,London,UK,Full-time,297,70600.0
+501,Brett,Jennings,Male,2,"Manager, Frontend",Manager,2023-11-09,,Dubai,UAE,Part-time,3,105000.0
+502,Kimberly,Levine,Female,3,Mid Platform Specialist,Mid,2023-12-22,2025-01-26,Munich,Germany,Full-time,56,70000.0
+503,Heather,Sanders,Female,11,Mid Brand Marketing Specialist,Mid,2023-12-16,,Berlin,Germany,Full-time,479,61600.0
+504,Cheryl,Martinez,Female,4,Junior QA Specialist,Junior,2023-12-25,,Cairo,Egypt,Full-time,240,44100.0
+505,Ryan,Gibson,Male,2,Junior Frontend Specialist,Junior,2023-12-14,,Remote,Remote,Full-time,4,62800.0
+506,Matthew,May,Male,17,Senior FP&A Specialist,Senior,2023-12-16,,London,UK,Full-time,298,92100.0
+507,Linda,Smith,Female,8,Mid SMB Sales Specialist,Mid,2023-12-01,,London,UK,Full-time,92,77900.0
+508,Richard,Sanchez,Male,8,"Director, SMB Sales",Director,2023-12-26,,Munich,Germany,Full-time,,163300.0
+509,Cameron,Cunningham,Male,8,"Lead, SMB Sales",Lead,2024-01-14,,Cairo,Egypt,Full-time,508,101500.0
+510,Andrea,Hubbard,Female,7,Mid Enterprise Sales Specialist,Mid,2024-01-23,,Remote,Remote,Full-time,210,71700.0
+511,Christine,Robinson,Female,12,Mid Support Specialist,Mid,2024-01-02,,Remote,Remote,Part-time,24,71700.0
+512,Sheila,Murphy,Female,15,Senior IT Specialist,Senior,2024-01-09,2024-03-26,Dubai,UAE,Full-time,149,88800.0
+513,Brittany,Lester,Female,8,"Lead, SMB Sales",Lead,2024-01-29,2024-08-29,Cairo,Egypt,Full-time,136,109500.0
+514,April,Garrison,Female,4,Mid QA Specialist,Mid,2024-01-21,,Bremen,Germany,Full-time,7,74000.0
+515,Charles,Anderson,Male,19,Mid HR Business Partners Specialist,Mid,2024-01-04,,Remote,Remote,Full-time,37,74800.0
+516,Danielle,Thompson,Female,9,"Lead, Sales Development",Lead,2024-01-11,,Cairo,Egypt,Full-time,410,98900.0
+517,Matthew,Johnson,Male,8,Mid SMB Sales Specialist,Mid,2024-01-23,2025-09-15,Remote,Remote,Contract,136,71600.0
+518,Alexis,Tyler,Female,8,Mid SMB Sales Specialist,Mid,2024-01-26,,Bremen,Germany,Full-time,92,75000.0
+519,David,Morris,Male,9,Mid Sales Development Specialist,Mid,2024-01-08,,Munich,Germany,Full-time,409,72500.0
+520,Carrie,Williams,Female,10,Junior Growth Marketing Specialist,Junior,2024-01-17,,Dubai,UAE,Full-time,313,45600.0
+521,Patrick,Fox,Male,13,Mid Onboarding Specialist,Mid,2024-01-24,2025-06-28,London,UK,Full-time,63,55700.0
+522,Nichole,Alvarez,Female,8,"Lead, SMB Sales",Lead,2024-01-26,,Bremen,Germany,Full-time,508,126200.0
+523,Richard,Palmer,Male,9,Mid Sales Development Specialist,Mid,2024-01-07,,Cairo,Egypt,Full-time,516,59200.0
+524,Ashley,Gordon,Female,18,Junior Talent Acquisition Specialist,Junior,2024-01-07,,Remote,Remote,Full-time,45,58200.0
+525,Tony,Williams,Male,9,Senior Sales Development Specialist,Senior,2024-01-16,2024-11-02,Dubai,UAE,Part-time,414,95800.0
+526,Richard,Camacho,Male,13,Junior Onboarding Specialist,Junior,2024-01-02,,Cairo,Egypt,Contract,303,46200.0
+527,Kelly,Ellis,Female,16,Senior Accounting Specialist,Senior,2024-01-30,,Dubai,UAE,Full-time,32,79900.0
+528,Tracey,Brown,Female,11,Senior Brand Marketing Specialist,Senior,2024-01-15,,Cairo,Egypt,Full-time,479,90900.0
+529,John,Morales,Male,7,"Manager, Enterprise Sales",Manager,2024-01-06,2025-03-21,Munich,Germany,Full-time,93,114400.0
+530,Michael,Henry,Male,9,"Manager, Sales Development",Manager,2024-01-13,2024-08-05,Remote,Remote,Full-time,410,121100.0
+531,Theodore,Jones,Male,17,Junior FP&A Specialist,Junior,2024-01-10,,Cairo,Egypt,Full-time,283,47000.0
+532,Angela,Franklin,Female,14,Mid Facilities Specialist,Mid,2024-01-29,,Berlin,Germany,Full-time,27,86800.0
+533,Ana,Hill,Female,8,"Director, SMB Sales",Director,2024-01-18,2024-01-29,Dubai,UAE,Full-time,,144900.0
+534,Madeline,Kelley,Female,3,Mid Platform Specialist,Mid,2024-01-25,,London,UK,Full-time,123,68100.0
+535,Erika,Vang,Female,11,"Manager, Brand Marketing",Manager,2024-01-20,,Cairo,Egypt,Full-time,479,98500.0
+536,Joseph,Chavez,Male,17,"Director, FP&A",Director,2024-01-04,,Munich,Germany,Full-time,,134000.0
+537,Lisa,Garcia,Female,11,Senior Brand Marketing Specialist,Senior,2024-01-14,,Remote,Remote,Full-time,535,91400.0
+538,Mia,Farrell,Female,9,Mid Sales Development Specialist,Mid,2024-01-26,2025-05-28,Remote,Remote,Full-time,390,65200.0
+539,Marilyn,Mack,Female,9,Junior Sales Development Specialist,Junior,2024-02-03,,Remote,Remote,Full-time,17,55200.0
+540,Michelle,Lewis,Female,11,Mid Brand Marketing Specialist,Mid,2024-02-03,2025-05-09,Remote,Remote,Full-time,21,74500.0
+541,Jocelyn,Perez,Female,18,Mid Talent Acquisition Specialist,Mid,2024-02-21,,Bremen,Germany,Full-time,36,76100.0
+542,Gina,Chavez,Female,8,Mid SMB Sales Specialist,Mid,2024-02-10,2024-08-27,London,UK,Full-time,158,71000.0
+543,Jason,Davis,Male,1,Junior Backend Specialist,Junior,2024-02-26,,London,UK,Part-time,255,55500.0
+544,Jeffery,Ortega,Male,1,Senior Backend Specialist,Senior,2024-02-17,2025-07-09,Bremen,Germany,Full-time,2,94300.0
+545,James,Hernandez,Male,7,Junior Enterprise Sales Specialist,Junior,2024-02-06,,Bremen,Germany,Full-time,58,54700.0
+546,Thomas,Jones,Male,3,Junior Platform Specialist,Junior,2024-02-20,,Bremen,Germany,Full-time,396,44800.0
+547,Ronald,Davis,Male,8,Senior SMB Sales Specialist,Senior,2024-02-18,2024-09-01,Dubai,UAE,Full-time,297,83100.0
+548,Brent,Rodgers,Male,9,"Director, Sales Development",Director,2024-02-24,,Bremen,Germany,Full-time,,163100.0
+549,Robin,Hawkins,Female,7,Mid Enterprise Sales Specialist,Mid,2024-02-02,,London,UK,Full-time,81,59300.0
+550,Laurie,Hoffman,Female,13,Senior Onboarding Specialist,Senior,2024-02-16,,Berlin,Germany,Full-time,26,78200.0
+551,Gary,Martinez,Male,10,Mid Growth Marketing Specialist,Mid,2024-02-09,2026-03-02,Berlin,Germany,Full-time,313,64700.0
+552,Heather,Ortega,Female,13,"Lead, Onboarding",Lead,2024-02-28,,Bremen,Germany,Full-time,26,120300.0
+553,Nicole,Parrish,Female,9,"Manager, Sales Development",Manager,2024-02-15,,Dubai,UAE,Full-time,409,138400.0
+554,Nathan,Schmitt,Male,8,Mid SMB Sales Specialist,Mid,2024-02-02,,Berlin,Germany,Full-time,522,70300.0
+555,Lindsay,Bell,Female,14,Senior Facilities Specialist,Senior,2024-02-13,,London,UK,Full-time,28,91300.0
+556,Kenneth,Lewis,Male,19,"Manager, HR Business Partners",Manager,2024-02-22,2025-08-14,Bremen,Germany,Part-time,428,114400.0
+557,Mary,Walker,Female,2,"Lead, Frontend",Lead,2024-02-21,2024-06-24,Bremen,Germany,Full-time,4,109600.0
+558,Ashley,Bruce,Female,9,Senior Sales Development Specialist,Senior,2024-02-25,,Dubai,UAE,Full-time,391,101100.0
+559,Holly,Farmer,Female,17,"Lead, FP&A",Lead,2024-02-02,2025-07-04,Cairo,Egypt,Full-time,181,128100.0
+560,Kenneth,Aguirre,Male,19,Junior HR Business Partners Specialist,Junior,2024-02-21,,Remote,Remote,Full-time,556,57200.0
+561,Sarah,Villegas,Female,8,Mid SMB Sales Specialist,Mid,2024-02-18,2024-06-24,London,UK,Full-time,92,66100.0
+562,Sabrina,Austin,Female,8,Senior SMB Sales Specialist,Senior,2024-02-07,2025-04-25,Bremen,Germany,Full-time,509,93500.0
+563,Marvin,Johnson,Male,10,Mid Growth Marketing Specialist,Mid,2024-02-15,2025-08-29,Dubai,UAE,Full-time,372,79200.0
+564,Tanya,Gallegos,Female,9,Mid Sales Development Specialist,Mid,2024-02-07,,Remote,Remote,Full-time,256,65900.0
+565,Derek,White,Male,10,Mid Growth Marketing Specialist,Mid,2024-02-08,2026-04-10,Bremen,Germany,Full-time,313,66300.0
+566,Michele,Parker,Female,8,Junior SMB Sales Specialist,Junior,2024-02-02,,Berlin,Germany,Full-time,533,52900.0
+567,Gerald,Smith,Male,5,Mid Product Management Specialist,Mid,2024-03-25,,Berlin,Germany,Full-time,154,70500.0
+568,Sergio,Knight,Male,6,Senior Product Design Specialist,Senior,2024-03-17,,Bremen,Germany,Full-time,382,88100.0
+569,James,Thomas,Male,18,Mid Talent Acquisition Specialist,Mid,2024-03-16,,Remote,Remote,Full-time,35,77900.0
+570,Madeline,Johnson,Female,6,Mid Product Design Specialist,Mid,2024-03-07,2026-05-02,London,UK,Full-time,488,79200.0
+571,Paul,Lewis,Male,2,"Lead, Frontend",Lead,2024-03-17,2025-12-02,Cairo,Egypt,Full-time,3,94700.0
+572,Jason,Peterson,Male,7,Junior Enterprise Sales Specialist,Junior,2024-03-15,,Berlin,Germany,Full-time,93,46200.0
+573,Jacob,Griffith,Male,16,Junior Accounting Specialist,Junior,2024-03-17,,Dubai,UAE,Full-time,31,53100.0
+574,Paula,Bradley,Female,16,Junior Accounting Specialist,Junior,2024-03-26,2024-07-12,Bremen,Germany,Full-time,32,52100.0
+575,Angela,Williams,Female,9,Senior Sales Development Specialist,Senior,2024-03-16,2025-05-31,Remote,Remote,Full-time,243,83000.0
+576,Christopher,Williamson,Male,5,"Manager, Product Management",Manager,2024-03-05,,Dubai,UAE,Full-time,154,101600.0
+577,Megan,Nelson,Female,8,"Manager, SMB Sales",Manager,2024-03-10,,Dubai,UAE,Full-time,522,124900.0
+578,Matthew,Tucker,Male,10,Senior Growth Marketing Specialist,Senior,2024-03-24,,Remote,Remote,Full-time,281,101100.0
+579,Jessica,Nelson,Female,15,"Director, IT",Director,2024-03-14,,Berlin,Germany,Full-time,,176600.0
+580,Nicole,Wilson,Female,10,Senior Growth Marketing Specialist,Senior,2024-03-19,,Bremen,Germany,Full-time,97,101000.0
+581,Jessica,Campbell,Female,6,Mid Product Design Specialist,Mid,2024-03-11,,Cairo,Egypt,Full-time,248,61700.0
+582,Michael,Tucker,Male,7,Senior Enterprise Sales Specialist,Senior,2024-03-17,,Dubai,UAE,Full-time,264,89800.0
+583,Michael,Williams,Male,8,"Lead, SMB Sales",Lead,2024-03-21,,London,UK,Full-time,15,107200.0
+584,Jennifer,Greene,Female,7,"Manager, Enterprise Sales",Manager,2024-03-31,2024-04-20,Remote,Remote,Full-time,344,115300.0
+585,Aimee,Turner,Female,4,Junior QA Specialist,Junior,2024-03-20,2025-01-24,London,UK,Full-time,7,46000.0
+586,Christine,Taylor,Female,7,Mid Enterprise Sales Specialist,Mid,2024-03-09,,London,UK,Full-time,212,70000.0
+587,Dawn,Murphy,Female,12,Mid Support Specialist,Mid,2024-03-22,2025-01-26,Munich,Germany,Full-time,161,63200.0
+588,Aimee,Burgess,Female,4,"Manager, QA",Manager,2024-03-05,,Munich,Germany,Full-time,7,110100.0
+589,Casey,James,Female,9,Junior Sales Development Specialist,Junior,2024-03-24,,Cairo,Egypt,Full-time,449,53300.0
+590,Michele,Mason,Female,8,Junior SMB Sales Specialist,Junior,2024-03-07,,Cairo,Egypt,Contract,245,56500.0
+591,Roy,Drake,Male,6,Mid Product Design Specialist,Mid,2024-04-01,,Dubai,UAE,Full-time,75,67900.0
+592,Benjamin,Hensley,Male,2,"Director, Frontend",Director,2024-04-07,,Munich,Germany,Full-time,,136200.0
+593,Amanda,Smith,Female,9,Junior Sales Development Specialist,Junior,2024-04-21,,Berlin,Germany,Full-time,251,57200.0
+594,Tammy,Atkins,Female,1,"Manager, Backend",Manager,2024-04-29,,Munich,Germany,Full-time,316,105500.0
+595,Laura,Berry,Female,7,Junior Enterprise Sales Specialist,Junior,2024-04-01,,Bremen,Germany,Full-time,262,51700.0
+596,Michael,Butler,Male,17,"Manager, FP&A",Manager,2024-04-11,,Munich,Germany,Full-time,559,121800.0
+597,Brian,Smith,Male,5,Senior Product Management Specialist,Senior,2024-04-24,,Munich,Germany,Full-time,9,75900.0
+598,Frederick,Solis,Male,17,Mid FP&A Specialist,Mid,2024-04-05,2025-05-12,Cairo,Egypt,Full-time,283,58200.0
+599,Luke,Collier,Male,17,Junior FP&A Specialist,Junior,2024-04-04,2024-11-17,Remote,Remote,Full-time,559,44100.0
+600,Tamara,Davis,Female,11,Senior Brand Marketing Specialist,Senior,2024-04-20,,Bremen,Germany,Full-time,479,101000.0
+601,Ryan,Sanchez,Male,1,Senior Backend Specialist,Senior,2024-04-12,,Bremen,Germany,Full-time,462,102300.0
+602,Kevin,Warren,Male,9,Senior Sales Development Specialist,Senior,2024-04-11,,London,UK,Full-time,194,105100.0
+603,Jennifer,Collins,Female,2,Mid Frontend Specialist,Mid,2024-04-25,,Dubai,UAE,Full-time,592,71200.0
+604,Gerald,Cook,Male,18,"Manager, Talent Acquisition",Manager,2024-04-17,,Berlin,Germany,Full-time,45,115100.0
+605,Carol,Dixon,Female,4,"Lead, QA",Lead,2024-04-24,,Bremen,Germany,Full-time,588,119400.0
+606,Ashley,Hicks,Female,11,Junior Brand Marketing Specialist,Junior,2024-04-05,2024-09-10,Munich,Germany,Full-time,215,45600.0
+607,Susan,Bailey,Female,8,Senior SMB Sales Specialist,Senior,2024-04-12,,London,UK,Full-time,158,79200.0
+608,Monica,Fuentes,Female,6,Mid Product Design Specialist,Mid,2024-04-02,,Berlin,Germany,Full-time,75,72900.0
+609,Robin,Young,Female,16,Mid Accounting Specialist,Mid,2024-04-08,,Bremen,Germany,Full-time,32,77300.0
+610,Brianna,Gonzalez,Female,7,Junior Enterprise Sales Specialist,Junior,2024-04-07,2024-12-26,Munich,Germany,Full-time,470,62300.0
+611,Lindsey,Wolf,Female,17,Senior FP&A Specialist,Senior,2024-04-04,,Berlin,Germany,Full-time,33,104100.0
+612,Mary,Thompson,Female,7,Senior Enterprise Sales Specialist,Senior,2024-04-28,,Cairo,Egypt,Full-time,337,99700.0
+613,Patricia,Snyder,Female,10,Junior Growth Marketing Specialist,Junior,2024-04-13,,Remote,Remote,Full-time,20,53300.0
+614,Paul,Wolf,Male,9,"Director, Sales Development",Director,2024-04-12,,Remote,Remote,Full-time,,189200.0
+615,Jerry,Glass,Male,3,"Lead, Platform",Lead,2024-04-17,,Munich,Germany,Full-time,135,106400.0
+616,Justin,Reid,Male,19,"Director, HR Business Partners",Director,2024-04-13,,Cairo,Egypt,Full-time,,183500.0
+617,Lori,Lin,Female,11,Junior Brand Marketing Specialist,Junior,2024-04-13,,Berlin,Germany,Full-time,301,55700.0
+618,Mark,Hernandez,Male,6,Senior Product Design Specialist,Senior,2024-04-14,2025-10-13,London,UK,Full-time,223,93000.0
+619,Andrea,Ramos,Female,10,"Manager, Growth Marketing",Manager,2024-05-30,2026-08-08,Remote,Remote,Full-time,484,104000.0
+620,Eric,Hill,Male,9,"Lead, Sales Development",Lead,2024-05-08,,Bremen,Germany,Full-time,447,102600.0
+621,Anthony,Romero,Male,8,Junior SMB Sales Specialist,Junior,2024-05-24,2024-11-10,Berlin,Germany,Full-time,450,43600.0
+622,Emily,Hayes,Female,2,"Manager, Frontend",Manager,2024-05-08,2025-08-07,Remote,Remote,Full-time,501,121700.0
+623,Amy,Decker,Female,7,Junior Enterprise Sales Specialist,Junior,2024-05-14,2024-11-12,London,UK,Full-time,344,54400.0
+624,Angela,Lin,Female,7,Junior Enterprise Sales Specialist,Junior,2024-05-29,,London,UK,Full-time,230,58300.0
+625,Scott,Gilbert,Male,8,Junior SMB Sales Specialist,Junior,2024-05-13,,Bremen,Germany,Full-time,423,44800.0
+626,Katie,Ford,Female,7,Senior Enterprise Sales Specialist,Senior,2024-05-26,2024-10-09,London,UK,Contract,210,79700.0
+627,Julian,Conner,Male,11,Senior Brand Marketing Specialist,Senior,2024-05-03,2024-08-22,Remote,Remote,Full-time,535,80600.0
+628,Stephanie,Cole,Female,8,Mid SMB Sales Specialist,Mid,2024-05-08,2025-09-21,London,UK,Part-time,522,57300.0
+629,Robert,Pearson,Male,16,Senior Accounting Specialist,Senior,2024-05-18,2025-11-15,Dubai,UAE,Full-time,32,78700.0
+630,Erica,Alvarez,Female,2,Senior Frontend Specialist,Senior,2024-05-23,,Bremen,Germany,Contract,622,98100.0
+631,Chris,Brown,Male,9,Senior Sales Development Specialist,Senior,2024-05-27,,Dubai,UAE,Contract,18,91000.0
+632,Ashley,Nolan,Female,9,Junior Sales Development Specialist,Junior,2024-05-07,,Dubai,UAE,Full-time,343,47500.0
+633,Gwendolyn,Klein,Female,7,Mid Enterprise Sales Specialist,Mid,2024-05-09,,Cairo,Egypt,Part-time,104,65700.0
+634,Kathy,Thompson,Female,9,Senior Sales Development Specialist,Senior,2024-05-09,,Cairo,Egypt,Full-time,390,76000.0
+635,Danielle,Kim,Female,16,"Director, Accounting",Director,2024-05-25,,Remote,Remote,Full-time,,148300.0
+636,Jessica,Mills,Female,16,Mid Accounting Specialist,Mid,2024-05-04,,Bremen,Germany,Full-time,322,65900.0
+637,Caitlin,Watson,Female,15,Mid IT Specialist,Mid,2024-05-27,2026-04-27,Berlin,Germany,Full-time,191,66600.0
+638,Douglas,Ortiz,Male,9,Senior Sales Development Specialist,Senior,2024-05-15,,Cairo,Egypt,Full-time,207,95500.0
+639,Gina,Harper,Female,15,Mid IT Specialist,Mid,2024-05-04,,Cairo,Egypt,Part-time,30,55200.0
+640,Richard,Holland,Male,5,Mid Product Management Specialist,Mid,2024-05-05,,Munich,Germany,Part-time,9,74700.0
+641,Austin,Davis,Male,17,Junior FP&A Specialist,Junior,2024-05-20,,Dubai,UAE,Full-time,33,57900.0
+642,Michael,Mitchell,Male,12,Senior Support Specialist,Senior,2024-05-23,,Bremen,Germany,Full-time,24,96100.0
+643,Misty,Douglas,Female,10,Senior Growth Marketing Specialist,Senior,2024-05-23,,London,UK,Full-time,97,107900.0
+644,Terrence,Marks,Male,13,Mid Onboarding Specialist,Mid,2024-05-18,,Munich,Germany,Full-time,303,77800.0
+645,Felicia,Aguilar,Female,9,Mid Sales Development Specialist,Mid,2024-06-07,,Bremen,Germany,Full-time,381,65200.0
+646,Brenda,Bailey,Female,4,Senior QA Specialist,Senior,2024-06-26,2025-09-15,Bremen,Germany,Full-time,8,97000.0
+647,Tracy,Hale,Female,8,Junior SMB Sales Specialist,Junior,2024-06-06,,Cairo,Egypt,Full-time,577,58600.0
+648,Jenna,Larson,Female,8,Junior SMB Sales Specialist,Junior,2024-06-05,,Remote,Remote,Full-time,421,59000.0
+649,Teresa,Collins,Female,19,Senior HR Business Partners Specialist,Senior,2024-06-04,,Dubai,UAE,Full-time,428,91200.0
+650,Jamie,Conner,Female,13,"Lead, Onboarding",Lead,2024-06-10,,Berlin,Germany,Full-time,25,97200.0
+651,Robin,Santiago,Female,17,"Lead, FP&A",Lead,2024-06-09,,London,UK,Full-time,33,117200.0
+652,Sandra,Rodgers,Female,17,Senior FP&A Specialist,Senior,2024-06-13,,London,UK,Full-time,651,84700.0
+653,Michael,Fox,Male,8,Mid SMB Sales Specialist,Mid,2024-06-21,,London,UK,Full-time,158,69200.0
+654,Maria,Henderson,Female,9,Mid Sales Development Specialist,Mid,2024-06-04,2024-06-14,Bremen,Germany,Full-time,447,56800.0
+655,Ivan,Cox,Male,15,"Manager, IT",Manager,2024-06-18,,London,UK,Part-time,579,122000.0
+656,Christopher,Lewis,Male,11,Junior Brand Marketing Specialist,Junior,2024-06-05,2025-08-30,Bremen,Germany,Full-time,479,59800.0
+657,Theresa,Tucker,Female,13,"Lead, Onboarding",Lead,2024-06-15,2025-06-21,Cairo,Egypt,Full-time,25,97600.0
+658,Courtney,Taylor,Female,8,Junior SMB Sales Specialist,Junior,2024-06-02,,Dubai,UAE,Full-time,158,55300.0
+659,Angela,Richard,Female,7,Mid Enterprise Sales Specialist,Mid,2024-06-14,,Cairo,Egypt,Full-time,170,67800.0
+660,Ashley,Wise,Female,5,"Lead, Product Management",Lead,2024-06-23,2026-05-25,Bremen,Germany,Full-time,213,129800.0
+661,Sandy,Stephenson,Female,7,Junior Enterprise Sales Specialist,Junior,2024-06-11,,Remote,Remote,Full-time,14,44800.0
+662,Amanda,Rogers,Female,13,Mid Onboarding Specialist,Mid,2024-06-13,,Cairo,Egypt,Full-time,26,63800.0
+663,Ralph,Anderson,Male,9,"Lead, Sales Development",Lead,2024-06-28,,Cairo,Egypt,Full-time,414,120000.0
+664,Jamie,Martin,Female,6,Junior Product Design Specialist,Junior,2024-07-02,2025-09-11,Remote,Remote,Full-time,208,45800.0
+665,Ronald,Wise,Male,9,Mid Sales Development Specialist,Mid,2024-07-01,,Remote,Remote,Full-time,207,63300.0
+666,Rhonda,Martin,Female,15,Mid IT Specialist,Mid,2024-07-14,2025-02-09,Remote,Remote,Contract,29,69800.0
+667,Jessica,Jenkins,Female,9,"Director, Sales Development",Director,2024-07-08,,Remote,Remote,Full-time,,168200.0
+668,Michael,Young,Male,1,Junior Backend Specialist,Junior,2024-07-27,,Cairo,Egypt,Full-time,316,48100.0
+669,Jeremy,Mitchell,Male,17,Mid FP&A Specialist,Mid,2024-07-15,,London,UK,Full-time,596,75500.0
+670,Nicole,Cole,Female,1,Junior Backend Specialist,Junior,2024-07-10,,Remote,Remote,Full-time,287,52400.0
+671,Kimberly,Collins,Female,19,Senior HR Business Partners Specialist,Senior,2024-07-08,,Berlin,Germany,Full-time,556,73900.0
+672,Rhonda,Harrison,Female,14,Senior Facilities Specialist,Senior,2024-07-24,,Cairo,Egypt,Full-time,143,93100.0
+673,Russell,Richardson,Male,8,Junior SMB Sales Specialist,Junior,2024-07-18,,Munich,Germany,Full-time,421,44000.0
+674,Theresa,Joyce,Female,10,Junior Growth Marketing Specialist,Junior,2024-07-28,,Munich,Germany,Full-time,97,54800.0
+675,Julia,Campbell,Female,7,Mid Enterprise Sales Specialist,Mid,2024-07-01,,Remote,Remote,Full-time,252,76400.0
+676,Janet,Rose,Female,9,"Director, Sales Development",Director,2024-07-02,2024-11-12,Cairo,Egypt,Full-time,,148000.0
+677,Tracy,Montoya,Female,2,Senior Frontend Specialist,Senior,2024-07-07,,Remote,Remote,Full-time,4,85200.0
+678,Rebecca,Taylor,Female,2,"Lead, Frontend",Lead,2024-07-06,,Berlin,Germany,Full-time,4,114000.0
+679,David,Davidson,Male,11,Junior Brand Marketing Specialist,Junior,2024-07-06,,Berlin,Germany,Full-time,454,49800.0
+680,Shelly,Spencer,Female,12,Mid Support Specialist,Mid,2024-07-10,,Remote,Remote,Part-time,24,71600.0
+681,Brian,Singleton,Male,8,"Lead, SMB Sales",Lead,2024-07-03,,London,UK,Full-time,384,101100.0
+682,Samuel,Mitchell,Male,16,Mid Accounting Specialist,Mid,2024-07-06,,Bremen,Germany,Full-time,31,61200.0
+683,Phillip,Nelson,Male,4,"Lead, QA",Lead,2024-07-16,2024-07-15,Bremen,Germany,Full-time,240,94300.0
+684,Taylor,Hernandez,Male,6,Mid Product Design Specialist,Mid,2024-07-13,2026-04-20,Remote,Remote,Full-time,11,64800.0
+685,Jessica,Potts,Female,10,"Lead, Growth Marketing",Lead,2024-07-09,,Bremen,Germany,Full-time,19,117600.0
+686,Daniel,Hayes,Male,12,Mid Support Specialist,Mid,2024-08-20,2026-03-14,Cairo,Egypt,Full-time,161,61200.0
+687,Hannah,Johnson,Female,9,Mid Sales Development Specialist,Mid,2024-08-22,2024-10-18,Dubai,UAE,Full-time,139,65500.0
+688,Anthony,Shaw,Male,3,"Lead, Platform",Lead,2024-08-14,,Cairo,Egypt,Full-time,455,110200.0
+689,Cynthia,Vang,Female,17,Junior FP&A Specialist,Junior,2024-08-13,,Munich,Germany,Full-time,34,52400.0
+690,Jade,Johnson,Female,12,Mid Support Specialist,Mid,2024-08-03,2025-06-30,Dubai,UAE,Full-time,23,67500.0
+691,Timothy,Combs,Male,2,Junior Frontend Specialist,Junior,2024-08-05,,Bremen,Germany,Full-time,571,48400.0
+692,Matthew,Moody,Male,13,Junior Onboarding Specialist,Junior,2024-08-12,2025-07-07,London,UK,Full-time,657,54200.0
+693,Chad,Mitchell,Male,18,"Lead, Talent Acquisition",Lead,2024-08-03,,Dubai,UAE,Full-time,146,109300.0
+694,Sandra,Horton,Female,8,Senior SMB Sales Specialist,Senior,2024-08-04,2025-08-27,Munich,Germany,Full-time,513,88400.0
+695,Brenda,Thornton,Female,18,Senior Talent Acquisition Specialist,Senior,2024-08-12,,Remote,Remote,Contract,121,76300.0
+696,Joan,Smith,Female,3,Mid Platform Specialist,Mid,2024-08-09,2025-04-10,Remote,Remote,Full-time,688,65900.0
+697,Angela,Scott,Female,7,"Lead, Enterprise Sales",Lead,2024-08-07,2024-08-22,London,UK,Full-time,264,104100.0
+698,Sandy,Dunn,Female,7,"Manager, Enterprise Sales",Manager,2024-08-06,,Munich,Germany,Full-time,93,113100.0
+699,Monica,Rose,Female,5,"Manager, Product Management",Manager,2024-08-16,2025-02-17,Berlin,Germany,Full-time,361,126200.0
+700,Ashley,Roberts,Female,9,Senior Sales Development Specialist,Senior,2024-08-09,,Bremen,Germany,Full-time,294,95500.0
+701,Elizabeth,Williams,Female,6,Mid Product Design Specialist,Mid,2024-08-10,,Cairo,Egypt,Part-time,75,75500.0
+702,Jason,Bauer,Male,15,Junior IT Specialist,Junior,2024-08-28,,London,UK,Full-time,444,57300.0
+703,Joyce,Rodriguez,Female,9,Junior Sales Development Specialist,Junior,2024-08-08,,London,UK,Contract,409,58900.0
+704,Susan,Carlson,Female,19,"Lead, HR Business Partners",Lead,2024-08-24,,Dubai,UAE,Full-time,428,99000.0
+705,Alexis,Robertson,Female,8,Senior SMB Sales Specialist,Senior,2024-08-10,,Remote,Remote,Full-time,297,88400.0
+706,David,Thomas,Male,10,Senior Growth Marketing Specialist,Senior,2024-08-06,,Berlin,Germany,Full-time,20,96500.0
+707,Jessica,Mendez,Female,2,Mid Frontend Specialist,Mid,2024-08-29,2026-07-22,London,UK,Full-time,592,66000.0
+708,Cynthia,Butler,Female,15,"Manager, IT",Manager,2024-09-01,,Berlin,Germany,Full-time,444,115600.0
+709,Mary,Miller,Female,7,Junior Enterprise Sales Specialist,Junior,2024-09-13,,Berlin,Germany,Full-time,438,55900.0
+710,William,Jones,Male,16,Mid Accounting Specialist,Mid,2024-09-04,2024-12-27,Cairo,Egypt,Full-time,32,70900.0
+711,Kelly,Romero,Female,8,Senior SMB Sales Specialist,Senior,2024-09-24,,Berlin,Germany,Contract,577,108500.0
+712,Virginia,Spencer,Female,5,"Manager, Product Management",Manager,2024-09-29,,Munich,Germany,Full-time,576,116100.0
+713,James,Harrison,Male,6,Senior Product Design Specialist,Senior,2024-09-17,,Bremen,Germany,Contract,382,85800.0
+714,Mark,Zavala,Male,12,Junior Support Specialist,Junior,2024-09-24,,Cairo,Egypt,Full-time,291,58300.0
+715,David,Smith,Male,1,Mid Backend Specialist,Mid,2024-09-22,2025-03-05,London,UK,Full-time,287,62500.0
+716,Rachel,Cooper,Female,16,"Manager, Accounting",Manager,2024-09-28,,Berlin,Germany,Full-time,31,109100.0
+717,Morgan,Fuller,Female,3,Junior Platform Specialist,Junior,2024-09-13,,Dubai,UAE,Full-time,318,46200.0
+718,Raymond,Moss,Male,9,Senior Sales Development Specialist,Senior,2024-09-30,,Munich,Germany,Part-time,449,79500.0
+719,Evelyn,Williams,Female,8,Junior SMB Sales Specialist,Junior,2024-09-09,,Dubai,UAE,Full-time,421,54000.0
+720,Joshua,Li,Male,12,Junior Support Specialist,Junior,2024-09-12,,Munich,Germany,Full-time,23,47200.0
+721,Christopher,Maxwell,Male,14,Senior Facilities Specialist,Senior,2024-09-19,,Bremen,Germany,Full-time,28,89200.0
+722,John,Dominguez,Male,9,"Lead, Sales Development",Lead,2024-09-08,,Remote,Remote,Full-time,144,111800.0
+723,Lynn,Cain,Female,7,Mid Enterprise Sales Specialist,Mid,2024-09-30,,Cairo,Egypt,Full-time,14,77800.0
+724,Arthur,Parsons,Male,10,Mid Growth Marketing Specialist,Mid,2024-09-18,,London,UK,Full-time,281,59700.0
+725,Jimmy,Carter,Male,2,Mid Frontend Specialist,Mid,2024-09-20,,Remote,Remote,Full-time,622,77300.0
+726,Andrew,Gonzalez,Male,7,Mid Enterprise Sales Specialist,Mid,2024-09-07,,Cairo,Egypt,Part-time,210,59800.0
+727,Amanda,Mahoney,Female,9,"Director, Sales Development",Director,2024-09-17,2024-11-26,Cairo,Egypt,Full-time,,132900.0
+728,Kaylee,Hays,Female,9,"Lead, Sales Development",Lead,2024-09-21,,Berlin,Germany,Full-time,553,103200.0
+729,Kimberly,King,Female,11,"Lead, Brand Marketing",Lead,2024-09-26,,Bremen,Germany,Full-time,479,101700.0
+730,Paul,Lee,Male,16,Mid Accounting Specialist,Mid,2024-09-01,2026-01-25,Berlin,Germany,Full-time,31,62200.0
+731,Howard,Norman,Male,9,Mid Sales Development Specialist,Mid,2024-09-15,,Bremen,Germany,Full-time,144,66200.0
+732,Sharon,Rivera,Female,1,"Lead, Backend",Lead,2024-09-17,,Remote,Remote,Full-time,462,123100.0
+733,Belinda,Richardson,Female,9,"Lead, Sales Development",Lead,2024-10-09,,London,UK,Full-time,243,100000.0
+734,Steve,Paul,Male,9,Junior Sales Development Specialist,Junior,2024-10-22,2024-10-12,London,UK,Full-time,18,51700.0
+735,Stephanie,Hughes,Female,6,Mid Product Design Specialist,Mid,2024-10-05,2026-01-19,Dubai,UAE,Full-time,169,79300.0
+736,Valerie,Crawford,Female,7,"Lead, Enterprise Sales",Lead,2024-10-14,,Dubai,UAE,Full-time,104,107500.0
+737,Kathleen,Glass,Female,1,Senior Backend Specialist,Senior,2024-10-02,,Bremen,Germany,Full-time,732,91700.0
+738,Kelly,Owen,Female,19,Senior HR Business Partners Specialist,Senior,2024-10-06,,Munich,Germany,Full-time,133,88100.0
+739,Monica,Miller,Female,12,Senior Support Specialist,Senior,2024-10-20,2026-08-23,Munich,Germany,Full-time,291,88200.0
+740,Lindsey,Short,Female,5,Senior Product Management Specialist,Senior,2024-10-30,,Berlin,Germany,Full-time,712,94700.0
+741,Kimberly,Morris,Female,17,"Lead, FP&A",Lead,2024-10-09,,Remote,Remote,Full-time,181,109800.0
+742,Angela,Guerrero,Female,9,Senior Sales Development Specialist,Senior,2024-10-07,,Bremen,Germany,Full-time,553,107000.0
+743,Eric,Morrison,Male,3,"Director, Platform",Director,2024-10-19,,Berlin,Germany,Full-time,,194500.0
+744,Jeffery,Norris,Male,1,Junior Backend Specialist,Junior,2024-10-24,2025-07-30,Dubai,UAE,Full-time,2,51100.0
+745,Gregory,Williams,Male,9,"Manager, Sales Development",Manager,2024-10-26,,Berlin,Germany,Part-time,722,112300.0
+746,Sheila,Gomez,Female,11,"Lead, Brand Marketing",Lead,2024-10-29,2025-02-23,Dubai,UAE,Full-time,95,108500.0
+747,Yvette,Hill,Female,9,Mid Sales Development Specialist,Mid,2024-10-23,2025-05-26,Dubai,UAE,Part-time,194,65900.0
+748,William,Gould,Male,7,Mid Enterprise Sales Specialist,Mid,2024-10-19,,Cairo,Egypt,Full-time,84,64100.0
+749,Benjamin,Walsh,Male,8,"Lead, SMB Sales",Lead,2024-10-20,,Munich,Germany,Part-time,297,100200.0
+750,Jack,Owen,Male,1,"Manager, Backend",Manager,2024-10-03,,Bremen,Germany,Part-time,2,132000.0
+751,Michael,Cisneros,Male,2,Junior Frontend Specialist,Junior,2024-10-27,,Remote,Remote,Full-time,4,47200.0
+752,Charles,Lawson,Male,9,Junior Sales Development Specialist,Junior,2024-10-02,,Remote,Remote,Full-time,266,42600.0
+753,Richard,Johnson,Male,18,"Lead, Talent Acquisition",Lead,2024-10-18,2026-06-05,Munich,Germany,Full-time,35,110300.0
+754,Andrea,Osborne,Female,5,Junior Product Management Specialist,Junior,2024-10-04,,Munich,Germany,Full-time,10,50200.0
+755,Holly,Reyes,Female,7,"Lead, Enterprise Sales",Lead,2024-10-19,,Dubai,UAE,Full-time,470,115300.0
+756,Latoya,Jacobs,Female,10,Junior Growth Marketing Specialist,Junior,2024-10-27,2025-11-29,Dubai,UAE,Full-time,19,44200.0
+757,Michael,Rush,Male,15,Junior IT Specialist,Junior,2024-10-26,,London,UK,Full-time,149,59600.0
+758,Jacob,Hines,Male,4,Senior QA Specialist,Senior,2024-11-22,,Bremen,Germany,Full-time,588,90200.0
+759,Laura,Moreno,Female,17,Senior FP&A Specialist,Senior,2024-11-20,,Cairo,Egypt,Full-time,298,90000.0
+760,Jennifer,Banks,Female,7,Mid Enterprise Sales Specialist,Mid,2024-11-25,,Dubai,UAE,Full-time,210,62500.0
+761,David,Wilson,Male,15,"Director, IT",Director,2024-11-08,,Cairo,Egypt,Full-time,,138800.0
+762,Nancy,Porter,Female,13,Senior Onboarding Specialist,Senior,2024-11-27,,Dubai,UAE,Full-time,89,81300.0
+763,Jasmine,Hoffman,Female,8,"Director, SMB Sales",Director,2024-11-04,,Bremen,Germany,Full-time,,124900.0
+764,Deborah,Green,Female,10,Mid Growth Marketing Specialist,Mid,2024-11-09,,Remote,Remote,Full-time,281,70200.0
+765,Jill,Davies,Female,14,Junior Facilities Specialist,Junior,2024-12-14,,London,UK,Full-time,76,51600.0
+766,Dustin,Hendricks,Male,8,"Director, SMB Sales",Director,2024-12-19,,London,UK,Full-time,,178400.0
+767,John,Martinez,Male,15,Senior IT Specialist,Senior,2024-12-27,,Bremen,Germany,Full-time,761,84800.0
+768,Samuel,Hayes,Male,18,Senior Talent Acquisition Specialist,Senior,2024-12-12,,Bremen,Germany,Full-time,35,83600.0
+769,Stephanie,Wallace,Female,7,Junior Enterprise Sales Specialist,Junior,2024-12-22,,Remote,Remote,Full-time,698,43400.0
+770,Anita,Fleming,Female,1,Mid Backend Specialist,Mid,2024-12-18,,Cairo,Egypt,Full-time,2,60300.0
+771,Ryan,Flores,Male,15,Senior IT Specialist,Senior,2024-12-08,2026-06-06,Dubai,UAE,Full-time,191,86200.0
+772,Gregory,Brown,Male,8,"Lead, SMB Sales",Lead,2024-12-22,,Bremen,Germany,Full-time,509,122400.0
+773,Kimberly,Vance,Female,19,"Lead, HR Business Partners",Lead,2024-12-08,,Remote,Remote,Full-time,37,102800.0
+774,Sarah,Joseph,Female,5,Mid Product Management Specialist,Mid,2024-12-21,,Dubai,UAE,Part-time,712,68100.0
+775,Timothy,Little,Male,15,Junior IT Specialist,Junior,2025-01-14,2026-01-24,Remote,Remote,Full-time,149,57000.0
+776,Rebecca,Hicks,Female,14,Senior Facilities Specialist,Senior,2025-01-22,,Bremen,Germany,Full-time,76,79500.0
+777,Barbara,Harris,Female,10,Junior Growth Marketing Specialist,Junior,2025-01-28,,Remote,Remote,Full-time,685,52100.0
+778,Charles,Tyler,Male,8,Mid SMB Sales Specialist,Mid,2025-01-05,,Munich,Germany,Full-time,749,68000.0
+779,Allison,Spencer,Female,9,"Manager, Sales Development",Manager,2025-01-30,,Munich,Germany,Full-time,256,111500.0
+780,Jacob,Lara,Male,1,Junior Backend Specialist,Junior,2025-01-17,,Dubai,UAE,Full-time,2,57100.0
+781,Juan,Salazar,Male,12,Mid Support Specialist,Mid,2025-01-30,,Bremen,Germany,Full-time,24,67600.0
+782,Brandon,Parker,Male,17,Senior FP&A Specialist,Senior,2025-01-28,,Bremen,Germany,Full-time,298,94000.0
+783,Zachary,Higgins,Male,9,"Lead, Sales Development",Lead,2025-01-16,,Remote,Remote,Full-time,490,92900.0
+784,Joseph,Hammond,Male,11,"Lead, Brand Marketing",Lead,2025-01-18,2025-08-20,Remote,Remote,Full-time,535,94700.0
+785,Rodney,Jones,Male,1,Mid Backend Specialist,Mid,2025-01-08,,Cairo,Egypt,Full-time,750,70400.0
+786,William,Day,Male,7,"Manager, Enterprise Sales",Manager,2025-01-22,,Remote,Remote,Full-time,190,123300.0
+787,Jerry,Frazier,Male,8,Senior SMB Sales Specialist,Senior,2025-01-13,,Munich,Germany,Full-time,401,87000.0
+788,Gregory,Humphrey,Male,8,"Lead, SMB Sales",Lead,2025-01-30,,Berlin,Germany,Part-time,681,100800.0
+789,Penny,Bowman,Female,10,Senior Growth Marketing Specialist,Senior,2025-01-28,,Dubai,UAE,Contract,685,90700.0
+790,Christopher,Burch,Male,9,"Manager, Sales Development",Manager,2025-01-08,,Munich,Germany,Full-time,728,109600.0
+791,Jessica,Bartlett,Female,11,"Lead, Brand Marketing",Lead,2025-01-16,2025-06-01,Bremen,Germany,Full-time,729,115200.0
+792,Amy,Martinez,Female,3,Senior Platform Specialist,Senior,2025-01-30,2025-01-28,Munich,Germany,Full-time,743,87100.0
+793,Christian,Martin,Male,9,Junior Sales Development Specialist,Junior,2025-01-05,,Munich,Germany,Full-time,294,45500.0
+794,Erica,Fletcher,Female,7,Junior Enterprise Sales Specialist,Junior,2025-01-25,,Berlin,Germany,Part-time,84,47500.0
+795,Gregory,Everett,Male,4,Mid QA Specialist,Mid,2025-01-08,2026-04-04,Remote,Remote,Full-time,588,59500.0
+796,Steven,Singleton,Male,4,Mid QA Specialist,Mid,2025-01-05,,Dubai,UAE,Full-time,240,56300.0
+797,David,Reid,Male,7,Mid Enterprise Sales Specialist,Mid,2025-01-12,,Bremen,Germany,Full-time,84,70500.0
+798,Juan,Martinez,Male,5,Mid Product Management Specialist,Mid,2025-01-10,,Cairo,Egypt,Full-time,576,59700.0
+799,Elizabeth,Ferguson,Female,9,Senior Sales Development Specialist,Senior,2025-01-30,2025-12-11,London,UK,Full-time,17,75400.0
+800,Kathryn,Jackson,Female,17,"Manager, FP&A",Manager,2025-01-06,,London,UK,Full-time,33,134600.0
+801,Todd,Moore,Male,11,Mid Brand Marketing Specialist,Mid,2025-01-30,,Munich,Germany,Full-time,267,68800.0
+802,Matthew,Le,Male,12,Junior Support Specialist,Junior,2025-01-14,,Dubai,UAE,Part-time,161,57200.0
+803,Lisa,Kirby,Female,8,Senior SMB Sales Specialist,Senior,2025-01-07,,Munich,Germany,Full-time,508,87600.0
+804,Kristy,Bryan,Female,9,Senior Sales Development Specialist,Senior,2025-01-24,,Dubai,UAE,Full-time,733,92500.0
+805,Alyssa,Williams,Female,8,Mid SMB Sales Specialist,Mid,2025-01-31,,Dubai,UAE,Full-time,772,59400.0
+806,Margaret,Ray,Female,17,"Manager, FP&A",Manager,2025-01-03,,Berlin,Germany,Full-time,181,106100.0
+807,Marilyn,Wang,Female,8,"Manager, SMB Sales",Manager,2025-01-16,,Dubai,UAE,Full-time,92,99600.0
+808,Jennifer,Fowler,Female,12,"Lead, Support",Lead,2025-02-17,,Bremen,Germany,Full-time,24,120400.0
+809,Jonathan,Burton,Male,8,Mid SMB Sales Specialist,Mid,2025-02-14,,Berlin,Germany,Full-time,384,79800.0
+810,Dylan,Frye,Male,15,Mid IT Specialist,Mid,2025-02-21,,Dubai,UAE,Full-time,708,63100.0
+811,John,Ballard,Male,8,Senior SMB Sales Specialist,Senior,2025-02-15,,Dubai,UAE,Full-time,533,84600.0
+812,Melinda,Evans,Female,7,Mid Enterprise Sales Specialist,Mid,2025-02-15,,Dubai,UAE,Full-time,470,59400.0
+813,Angel,Brown,Female,7,Senior Enterprise Sales Specialist,Senior,2025-02-13,2025-09-02,Cairo,Egypt,Part-time,84,104400.0
+814,Jessica,Washington,Female,3,Junior Platform Specialist,Junior,2025-02-01,,Remote,Remote,Full-time,743,48400.0
+815,Christina,Lawson,Female,12,Mid Support Specialist,Mid,2025-02-18,,Bremen,Germany,Full-time,291,66700.0
+816,Emily,Higgins,Female,2,Senior Frontend Specialist,Senior,2025-02-15,2025-09-30,Bremen,Germany,Full-time,557,92200.0
+817,Morgan,Valencia,Female,12,"Lead, Support",Lead,2025-02-03,,Bremen,Germany,Contract,23,101500.0
+818,Vanessa,Anderson,Female,8,Junior SMB Sales Specialist,Junior,2025-02-23,,London,UK,Full-time,766,58300.0
+819,Jacqueline,Hoffman,Female,5,Mid Product Management Specialist,Mid,2025-02-16,,London,UK,Full-time,576,75100.0
+820,Francis,Owens,Male,19,Mid HR Business Partners Specialist,Mid,2025-02-19,2026-03-05,Cairo,Egypt,Full-time,133,61400.0
+821,Debra,Wright,Female,19,Junior HR Business Partners Specialist,Junior,2025-02-03,,Bremen,Germany,Full-time,37,54100.0
+822,Anne,Roberts,Female,13,Mid Onboarding Specialist,Mid,2025-02-01,2026-06-05,Munich,Germany,Full-time,657,79200.0
+823,James,Gilbert,Male,3,Junior Platform Specialist,Junior,2025-02-22,,Munich,Germany,Full-time,688,53800.0
+824,David,Grimes,Male,6,Mid Product Design Specialist,Mid,2025-02-20,,London,UK,Full-time,75,66800.0
+825,Christopher,Murphy,Male,11,Mid Brand Marketing Specialist,Mid,2025-02-02,,Munich,Germany,Full-time,784,56900.0
+826,Laura,Edwards,Female,17,Mid FP&A Specialist,Mid,2025-02-07,,Remote,Remote,Full-time,497,67900.0
+827,Phillip,Jimenez,Male,9,Senior Sales Development Specialist,Senior,2025-02-24,2025-09-18,Remote,Remote,Full-time,722,101800.0
+828,Jose,Jimenez,Male,9,"Lead, Sales Development",Lead,2025-02-02,,Cairo,Egypt,Full-time,722,109400.0
+829,Eric,Johnson,Male,2,"Lead, Frontend",Lead,2025-02-27,,Berlin,Germany,Full-time,3,103300.0
+830,Theresa,Wagner,Female,9,Senior Sales Development Specialist,Senior,2025-02-19,,Berlin,Germany,Full-time,381,77900.0
+831,Tracy,Lewis,Female,17,Senior FP&A Specialist,Senior,2025-02-03,,London,UK,Full-time,800,83900.0
+832,Harry,Williams,Male,11,Senior Brand Marketing Specialist,Senior,2025-02-17,,Cairo,Egypt,Full-time,95,80300.0
+833,Johnny,Khan,Male,9,Junior Sales Development Specialist,Junior,2025-02-07,2025-02-03,London,UK,Full-time,828,51000.0
+834,Martha,Ruiz,Female,4,Mid QA Specialist,Mid,2025-02-28,,Munich,Germany,Full-time,240,65500.0
+835,Joshua,Boone,Male,9,"Lead, Sales Development",Lead,2025-02-06,,Remote,Remote,Full-time,201,101000.0
+836,Jeffrey,Khan,Male,19,Senior HR Business Partners Specialist,Senior,2025-02-09,,Dubai,UAE,Full-time,37,79000.0
+837,Nicholas,Gallagher,Male,9,"Manager, Sales Development",Manager,2025-02-18,2026-08-22,Remote,Remote,Full-time,194,117000.0
+838,Holly,Morales,Female,9,Mid Sales Development Specialist,Mid,2025-02-26,,Cairo,Egypt,Full-time,266,69100.0
+839,Laura,Lee,Female,7,Mid Enterprise Sales Specialist,Mid,2025-03-10,,Dubai,UAE,Full-time,584,67200.0
+840,Kristen,Jones,Female,8,Mid SMB Sales Specialist,Mid,2025-03-26,,London,UK,Contract,16,75700.0
+841,Jonathan,Duran,Male,10,Junior Growth Marketing Specialist,Junior,2025-03-17,,Berlin,Germany,Full-time,19,46200.0
+842,Diana,Hays,Female,7,"Lead, Enterprise Sales",Lead,2025-03-07,2025-09-03,Remote,Remote,Full-time,529,119200.0
+843,Michael,Wilson,Male,11,Mid Brand Marketing Specialist,Mid,2025-03-10,,Dubai,UAE,Full-time,22,69200.0
+844,Vanessa,Long,Female,9,Mid Sales Development Specialist,Mid,2025-03-01,,Cairo,Egypt,Full-time,727,70400.0
+845,Robert,Morgan,Male,7,Mid Enterprise Sales Specialist,Mid,2025-03-29,2025-04-22,Cairo,Egypt,Full-time,170,61800.0
+846,Teresa,Fischer,Female,9,Junior Sales Development Specialist,Junior,2025-03-01,,Munich,Germany,Part-time,256,48800.0
+847,Curtis,Hicks,Male,9,"Manager, Sales Development",Manager,2025-03-30,,Dubai,UAE,Full-time,779,132500.0
+848,Kathryn,Williams,Female,16,Mid Accounting Specialist,Mid,2025-03-10,,Munich,Germany,Full-time,32,60100.0
+849,Breanna,Cook,Female,9,"Manager, Sales Development",Manager,2025-03-28,2025-07-04,Remote,Remote,Full-time,256,113300.0
+850,John,Bryant,Male,18,Mid Talent Acquisition Specialist,Mid,2025-03-17,,Berlin,Germany,Full-time,604,68400.0
+851,Larry,Robertson,Male,8,Mid SMB Sales Specialist,Mid,2025-03-17,,Bremen,Germany,Full-time,158,78400.0
+852,Erin,Austin,Female,8,"Manager, SMB Sales",Manager,2025-03-03,,Dubai,UAE,Full-time,533,99500.0
+853,Christopher,Ewing,Male,12,Mid Support Specialist,Mid,2025-03-16,,Berlin,Germany,Full-time,817,58300.0
+854,Patrick,Evans,Male,7,Mid Enterprise Sales Specialist,Mid,2025-03-07,,London,UK,Full-time,104,64900.0
+855,George,Clayton,Male,10,Junior Growth Marketing Specialist,Junior,2025-03-27,2026-08-31,Remote,Remote,Part-time,484,54000.0
+856,Joseph,Erickson,Male,2,"Director, Frontend",Director,2025-03-24,,Munich,Germany,Part-time,,143600.0
+857,Elijah,Cabrera,Male,14,"Manager, Facilities",Manager,2025-03-29,,London,UK,Full-time,27,104900.0
+858,Jacob,Nunez,Male,14,Senior Facilities Specialist,Senior,2025-03-14,2026-07-03,Dubai,UAE,Full-time,143,96500.0
+859,William,Silva,Male,10,"Director, Growth Marketing",Director,2025-03-10,2025-11-26,Cairo,Egypt,Part-time,,146800.0
+860,Rebecca,Swanson,Female,6,Senior Product Design Specialist,Senior,2025-03-06,2025-03-28,London,UK,Full-time,382,75700.0
+861,Melissa,Johnson,Female,1,Mid Backend Specialist,Mid,2025-03-28,,Berlin,Germany,Part-time,287,74200.0
+862,Karen,Coffey,Female,8,Mid SMB Sales Specialist,Mid,2025-03-02,,London,UK,Full-time,421,71900.0
+863,Rachel,Parsons,Female,16,Senior Accounting Specialist,Senior,2025-03-08,,London,UK,Part-time,635,74700.0
+864,Laura,Griffith,Female,9,Mid Sales Development Specialist,Mid,2025-03-08,,Munich,Germany,Full-time,728,74300.0
+865,Kevin,Jackson,Male,8,Junior SMB Sales Specialist,Junior,2025-03-07,2026-06-05,Remote,Remote,Full-time,421,55100.0
+866,Mark,Harvey,Male,5,Mid Product Management Specialist,Mid,2025-03-25,2025-04-22,Dubai,UAE,Full-time,418,61200.0
+867,Ryan,Hernandez,Male,19,Senior HR Business Partners Specialist,Senior,2025-03-11,,Munich,Germany,Full-time,616,80600.0
+868,Melanie,Johnson,Female,9,Junior Sales Development Specialist,Junior,2025-03-21,2025-10-27,Munich,Germany,Part-time,409,53900.0
+869,Travis,Rodriguez,Male,12,Senior Support Specialist,Senior,2025-03-05,2026-08-18,Berlin,Germany,Part-time,23,95500.0
+870,Albert,Edwards,Male,3,"Director, Platform",Director,2025-04-28,,Berlin,Germany,Contract,,123700.0
+871,Brittany,Vaughn,Female,6,"Manager, Product Design",Manager,2025-04-22,,London,UK,Part-time,248,96000.0
+872,Jennifer,Hampton,Female,9,"Lead, Sales Development",Lead,2025-04-04,,Cairo,Egypt,Part-time,139,94800.0
+873,Thomas,Salas,Male,8,Mid SMB Sales Specialist,Mid,2025-04-30,,Remote,Remote,Full-time,583,69000.0
+874,Noah,Brown,Male,15,Senior IT Specialist,Senior,2025-04-11,,Berlin,Germany,Full-time,30,93800.0
+875,Brenda,Clark,Female,16,"Lead, Accounting",Lead,2025-04-07,,Dubai,UAE,Full-time,716,117800.0
+876,Frederick,Bates,Male,7,Mid Enterprise Sales Specialist,Mid,2025-04-28,2025-07-28,London,UK,Full-time,337,62100.0
+877,Kelly,Edwards,Female,9,Junior Sales Development Specialist,Junior,2025-04-08,,Cairo,Egypt,Full-time,872,47500.0
+878,Christopher,Barr,Male,13,Mid Onboarding Specialist,Mid,2025-04-15,,Bremen,Germany,Full-time,303,69000.0
+879,Gloria,Gomez,Female,16,Junior Accounting Specialist,Junior,2025-04-24,,London,UK,Full-time,716,45300.0
+880,Raymond,Le,Male,8,Mid SMB Sales Specialist,Mid,2025-04-28,2026-06-09,Munich,Germany,Full-time,583,68300.0
+881,Maria,Steele,Female,9,Junior Sales Development Specialist,Junior,2025-04-28,,London,UK,Full-time,614,48900.0
+882,Lisa,Lee,Female,9,Mid Sales Development Specialist,Mid,2025-04-16,,Munich,Germany,Full-time,849,59800.0
+883,David,Grant,Male,13,"Lead, Onboarding",Lead,2025-04-26,2025-05-25,Cairo,Egypt,Full-time,25,99400.0
+884,Danny,Dudley,Male,9,Senior Sales Development Specialist,Senior,2025-04-10,,Cairo,Egypt,Full-time,548,87800.0
+885,Edward,Roberts,Male,8,Senior SMB Sales Specialist,Senior,2025-04-07,,Remote,Remote,Full-time,852,81700.0
+886,Daniel,Bush,Male,17,Junior FP&A Specialist,Junior,2025-04-30,,Dubai,UAE,Full-time,596,52300.0
+887,Evan,Bailey,Male,17,Mid FP&A Specialist,Mid,2025-04-05,2025-12-23,Dubai,UAE,Full-time,800,61100.0
+888,Taylor,Pope,Female,10,Junior Growth Marketing Specialist,Junior,2025-04-09,,Bremen,Germany,Full-time,313,46400.0
+889,Donald,Martinez,Male,10,"Manager, Growth Marketing",Manager,2025-04-11,,Dubai,UAE,Full-time,20,115000.0
+890,Michael,James,Male,8,Senior SMB Sales Specialist,Senior,2025-04-30,,Dubai,UAE,Full-time,533,87500.0
+891,Veronica,Cardenas,Female,19,Senior HR Business Partners Specialist,Senior,2025-04-24,,Cairo,Egypt,Full-time,37,81600.0
+892,Tina,Ballard,Female,12,Mid Support Specialist,Mid,2025-04-18,,Bremen,Germany,Full-time,808,71900.0
+893,Donna,Roberts,Female,14,Senior Facilities Specialist,Senior,2025-04-20,2025-06-18,Remote,Remote,Full-time,143,73600.0
+894,Miguel,Reed,Male,11,Junior Brand Marketing Specialist,Junior,2025-04-03,,Remote,Remote,Full-time,152,51900.0
+895,Jeremy,Scott,Male,18,"Lead, Talent Acquisition",Lead,2025-05-25,2026-04-30,Remote,Remote,Full-time,416,108900.0
+896,John,Harris,Male,9,Junior Sales Development Specialist,Junior,2025-05-05,,Remote,Remote,Full-time,745,50300.0
+897,Joshua,Fitzpatrick,Male,9,Mid Sales Development Specialist,Mid,2025-05-02,,Cairo,Egypt,Full-time,728,63400.0
+898,Melissa,Taylor,Female,7,Junior Enterprise Sales Specialist,Junior,2025-05-06,,London,UK,Full-time,212,51100.0
+899,Lisa,Matthews,Female,15,"Lead, IT",Lead,2025-05-15,,London,UK,Full-time,708,100500.0
+900,Dana,Santiago,Female,7,"Director, Enterprise Sales",Director,2025-05-28,,Cairo,Egypt,Full-time,,133600.0
+901,Kiara,Little,Female,3,Junior Platform Specialist,Junior,2025-05-23,2026-06-28,Berlin,Germany,Full-time,6,52700.0
+902,Anthony,Gutierrez,Male,1,Mid Backend Specialist,Mid,2025-05-12,2025-12-08,Munich,Germany,Full-time,316,63900.0
+903,Michelle,Garcia,Female,8,Junior SMB Sales Specialist,Junior,2025-05-11,,Dubai,UAE,Full-time,384,53500.0
+904,Patricia,Smith,Female,2,"Manager, Frontend",Manager,2025-05-15,,London,UK,Full-time,4,123300.0
+905,Krista,Hickman,Female,17,"Director, FP&A",Director,2025-05-14,,London,UK,Full-time,,189200.0
+906,Jason,Donovan,Male,17,Mid FP&A Specialist,Mid,2025-05-18,,Bremen,Germany,Part-time,559,68400.0
+907,Sherry,Woods,Female,12,Senior Support Specialist,Senior,2025-05-20,,Remote,Remote,Full-time,817,90900.0
+908,Christina,Maynard,Female,8,"Manager, SMB Sales",Manager,2025-05-23,,Dubai,UAE,Part-time,749,115000.0
+909,Frank,Brewer,Male,9,Mid Sales Development Specialist,Mid,2025-05-19,2025-05-09,Dubai,UAE,Part-time,779,64600.0
+910,Terry,Davis,Male,11,"Lead, Brand Marketing",Lead,2025-05-30,,Remote,Remote,Full-time,784,91500.0
+911,Laura,Nichols,Female,5,Senior Product Management Specialist,Senior,2025-05-31,,Bremen,Germany,Full-time,10,102800.0
+912,Nathaniel,Zuniga,Male,7,Senior Enterprise Sales Specialist,Senior,2025-05-12,,Berlin,Germany,Contract,786,91000.0
+913,Thomas,Thompson,Male,1,Mid Backend Specialist,Mid,2025-05-13,2026-04-26,Berlin,Germany,Full-time,255,65700.0
+914,Stephen,Thompson,Male,5,Mid Product Management Specialist,Mid,2025-05-05,,Berlin,Germany,Contract,10,66500.0
+915,Thomas,Osborn,Male,7,Senior Enterprise Sales Specialist,Senior,2025-05-28,,Bremen,Germany,Full-time,900,94100.0
+916,James,Simpson,Male,13,Junior Onboarding Specialist,Junior,2025-05-12,,Munich,Germany,Full-time,89,48900.0
+917,Timothy,Hayden,Male,10,Senior Growth Marketing Specialist,Senior,2025-05-29,,Bremen,Germany,Full-time,281,83500.0
+918,Tammy,Mcdowell,Female,9,Senior Sales Development Specialist,Senior,2025-05-22,,London,UK,Full-time,847,79600.0
+919,Adam,Bradley,Male,10,Mid Growth Marketing Specialist,Mid,2025-05-08,,Munich,Germany,Full-time,372,59400.0
+920,Ashley,Bird,Female,7,Senior Enterprise Sales Specialist,Senior,2025-05-10,,Munich,Germany,Full-time,81,82800.0
+921,Dominique,Hays,Female,17,Senior FP&A Specialist,Senior,2025-05-08,,Cairo,Egypt,Full-time,536,85000.0
+922,Joshua,Snyder,Male,18,Junior Talent Acquisition Specialist,Junior,2025-05-04,,Remote,Remote,Full-time,895,53100.0
+923,Todd,Rosales,Male,16,"Director, Accounting",Director,2025-05-18,,Cairo,Egypt,Full-time,,134000.0
+924,Julie,Lee,Female,17,Junior FP&A Specialist,Junior,2025-05-19,,Cairo,Egypt,Full-time,806,53200.0
+925,Brian,Martin,Male,4,"Manager, QA",Manager,2025-06-30,,Dubai,UAE,Full-time,8,130900.0
+926,Judy,Scott,Female,7,Junior Enterprise Sales Specialist,Junior,2025-06-16,,Berlin,Germany,Full-time,212,52100.0
+927,Charlotte,Doyle,Female,11,Senior Brand Marketing Specialist,Senior,2025-06-07,,Munich,Germany,Full-time,791,88700.0
+928,Richard,Bradley,Male,8,Mid SMB Sales Specialist,Mid,2025-06-18,2026-03-29,Berlin,Germany,Contract,401,70600.0
+929,Nicole,Thompson,Female,15,Junior IT Specialist,Junior,2025-06-21,,London,UK,Full-time,444,48100.0
+930,Savannah,Prince,Female,7,Mid Enterprise Sales Specialist,Mid,2025-06-24,,Munich,Germany,Full-time,210,57100.0
+931,Ronald,Robertson,Male,8,Senior SMB Sales Specialist,Senior,2025-06-26,,Dubai,UAE,Full-time,450,85100.0
+932,Angie,Caldwell,Female,14,Junior Facilities Specialist,Junior,2025-06-01,2025-07-23,London,UK,Full-time,76,44800.0
+933,Cathy,Taylor,Female,7,Junior Enterprise Sales Specialist,Junior,2025-06-05,,Berlin,Germany,Full-time,84,60500.0
+934,Erica,Wright,Female,17,Mid FP&A Specialist,Mid,2025-06-21,,Dubai,UAE,Full-time,181,72200.0
+935,Debbie,Young,Female,4,Mid QA Specialist,Mid,2025-06-14,,Berlin,Germany,Full-time,925,65500.0
+936,Nicole,Finley,Female,5,Junior Product Management Specialist,Junior,2025-06-18,,Cairo,Egypt,Full-time,361,52100.0
+937,Elizabeth,Sharp,Female,4,Senior QA Specialist,Senior,2025-06-20,,Bremen,Germany,Full-time,588,88500.0
+938,Adam,Valdez,Male,15,Senior IT Specialist,Senior,2025-06-22,,Berlin,Germany,Full-time,579,89400.0
+939,Melissa,Brown,Female,8,Senior SMB Sales Specialist,Senior,2025-06-22,,Dubai,UAE,Full-time,401,92000.0
+940,Bailey,Parker,Female,7,Mid Enterprise Sales Specialist,Mid,2025-06-18,,London,UK,Full-time,529,71500.0
+941,Jared,Shaw,Male,13,Senior Onboarding Specialist,Senior,2025-06-29,,Munich,Germany,Full-time,552,85300.0
+942,Stephanie,Padilla,Female,8,"Lead, SMB Sales",Lead,2025-06-19,,Berlin,Germany,Full-time,772,116600.0
+943,Eric,Wilson,Male,7,Senior Enterprise Sales Specialist,Senior,2025-06-10,,Cairo,Egypt,Full-time,470,90900.0
+944,Sydney,Phillips,Female,5,Senior Product Management Specialist,Senior,2025-06-25,2026-06-23,Munich,Germany,Full-time,418,86700.0
+945,Lisa,Robinson,Female,9,Mid Sales Development Specialist,Mid,2025-06-24,,Dubai,UAE,Full-time,530,69800.0
+946,Casey,Hernandez,Male,19,"Director, HR Business Partners",Director,2025-06-09,,Bremen,Germany,Full-time,,150200.0
+947,Paul,Obrien,Male,9,Senior Sales Development Specialist,Senior,2025-06-14,,Dubai,UAE,Full-time,362,90400.0
+948,Jennifer,Dunn,Female,11,Junior Brand Marketing Specialist,Junior,2025-06-28,,Cairo,Egypt,Full-time,301,44800.0
+949,Kaitlin,Medina,Female,2,Senior Frontend Specialist,Senior,2025-06-05,,Dubai,UAE,Contract,829,94200.0
+950,Mary,Robinson,Female,14,Junior Facilities Specialist,Junior,2025-06-29,,Bremen,Germany,Full-time,27,52100.0
+951,Danielle,Fischer,Female,4,Junior QA Specialist,Junior,2025-06-19,,Berlin,Germany,Full-time,240,43000.0
+952,Shelley,Miller,Female,2,Junior Frontend Specialist,Junior,2025-06-25,2026-01-21,Bremen,Germany,Full-time,3,44200.0
+953,Jeremy,Padilla,Male,7,Senior Enterprise Sales Specialist,Senior,2025-07-23,,Berlin,Germany,Full-time,84,74200.0
+954,Blake,Elliott,Male,8,"Director, SMB Sales",Director,2025-07-13,2025-11-23,London,UK,Full-time,,120200.0
+955,Antonio,Kelley,Male,19,Senior HR Business Partners Specialist,Senior,2025-07-04,,Cairo,Egypt,Full-time,616,81900.0
+956,Kathy,Armstrong,Female,8,Junior SMB Sales Specialist,Junior,2025-07-22,,Berlin,Germany,Full-time,522,54700.0
+957,Chris,Murphy,Male,6,"Lead, Product Design",Lead,2025-07-25,,Munich,Germany,Full-time,223,101300.0
+958,Joseph,Wilson,Male,1,Mid Backend Specialist,Mid,2025-07-24,,Dubai,UAE,Full-time,200,57900.0
+959,Christine,Aguilar,Female,9,Mid Sales Development Specialist,Mid,2025-07-26,,Berlin,Germany,Part-time,447,73900.0
+960,Brandon,Dixon,Male,5,Mid Product Management Specialist,Mid,2025-07-30,,Cairo,Egypt,Full-time,418,57600.0
+961,Robert,Chavez,Male,5,Mid Product Management Specialist,Mid,2025-07-22,,Bremen,Germany,Full-time,699,67500.0
+962,Jose,Bryant,Male,16,Mid Accounting Specialist,Mid,2025-07-07,2025-08-02,Cairo,Egypt,Full-time,32,60700.0
+963,Anthony,Ford,Male,14,"Lead, Facilities",Lead,2025-07-09,2025-10-08,Cairo,Egypt,Full-time,27,102900.0
+964,Renee,Cummings,Female,5,Mid Product Management Specialist,Mid,2025-07-09,,Dubai,UAE,Full-time,418,68100.0
+965,James,Velasquez,Male,7,Junior Enterprise Sales Specialist,Junior,2025-07-26,2026-03-15,Remote,Remote,Full-time,698,47800.0
+966,Patrick,Lane,Male,7,Junior Enterprise Sales Specialist,Junior,2025-07-23,,Bremen,Germany,Full-time,344,54200.0
+967,Amber,Cooper,Female,8,"Manager, SMB Sales",Manager,2025-07-26,,Remote,Remote,Full-time,450,98400.0
+968,Arthur,Mcknight,Male,13,"Lead, Onboarding",Lead,2025-07-17,2026-06-15,Cairo,Egypt,Full-time,25,100800.0
+969,Timothy,Jones,Male,4,Junior QA Specialist,Junior,2025-07-01,,London,UK,Contract,605,52900.0
+970,Taylor,Johnson,Female,13,Mid Onboarding Specialist,Mid,2025-07-02,,Munich,Germany,Full-time,883,79000.0
+971,Jennifer,Mack,Female,5,"Lead, Product Management",Lead,2025-07-04,,Bremen,Germany,Full-time,418,98200.0
+972,Ralph,Good,Male,2,"Manager, Frontend",Manager,2025-07-30,,Dubai,UAE,Full-time,592,132800.0
+973,Maria,Fisher,Female,12,Mid Support Specialist,Mid,2025-07-24,,Dubai,UAE,Full-time,23,75900.0
+974,Wendy,Reyes,Female,17,Mid FP&A Specialist,Mid,2025-07-24,,Remote,Remote,Full-time,33,62100.0
+975,Sergio,Knox,Male,13,"Lead, Onboarding",Lead,2025-07-09,,Dubai,UAE,Full-time,552,109400.0
+976,Jaime,Vega,Female,9,"Manager, Sales Development",Manager,2025-07-28,2025-08-03,Berlin,Germany,Full-time,733,95600.0
+977,Matthew,Ryan,Male,8,Junior SMB Sales Specialist,Junior,2025-08-07,,Remote,Remote,Full-time,942,45700.0
+978,Matthew,Bailey,Male,6,Junior Product Design Specialist,Junior,2025-08-26,2026-02-09,Berlin,Germany,Full-time,12,53800.0
+979,Cassandra,Medina,Female,10,"Lead, Growth Marketing",Lead,2025-08-16,,Berlin,Germany,Part-time,97,108100.0
+980,Joseph,Luna,Male,3,Mid Platform Specialist,Mid,2025-08-01,2025-11-04,Munich,Germany,Full-time,5,69700.0
+981,Courtney,Smith,Female,8,Mid SMB Sales Specialist,Mid,2025-08-25,,Munich,Germany,Full-time,577,56600.0
+982,Alexander,Evans,Male,18,Senior Talent Acquisition Specialist,Senior,2025-08-24,,Remote,Remote,Contract,416,87200.0
+983,Michael,Stephens,Male,10,"Lead, Growth Marketing",Lead,2025-08-31,2026-07-15,Dubai,UAE,Full-time,97,102900.0
+984,Kim,Morrow,Female,16,Junior Accounting Specialist,Junior,2025-08-10,,Cairo,Egypt,Full-time,875,45300.0
+985,David,Reed,Male,9,Senior Sales Development Specialist,Senior,2025-08-16,,London,UK,Part-time,976,77100.0
+986,Donald,Pineda,Male,6,Junior Product Design Specialist,Junior,2025-08-20,,Berlin,Germany,Full-time,359,46700.0
+987,Molly,Rodriguez,Female,8,Junior SMB Sales Specialist,Junior,2025-08-11,,London,UK,Full-time,763,52500.0
+988,Robert,Barnes,Male,7,Mid Enterprise Sales Specialist,Mid,2025-08-02,,Berlin,Germany,Full-time,438,68600.0
+989,Pamela,Stephenson,Female,15,Mid IT Specialist,Mid,2025-08-28,,Remote,Remote,Full-time,708,73100.0
+990,Alan,Harris,Male,11,Senior Brand Marketing Specialist,Senior,2025-08-26,,Remote,Remote,Full-time,910,82900.0
+991,Ashlee,Johnson,Female,9,Mid Sales Development Specialist,Mid,2025-08-17,,London,UK,Contract,251,65900.0
+992,Kyle,Warner,Male,12,Senior Support Specialist,Senior,2025-08-23,,Dubai,UAE,Full-time,291,99300.0
+993,Anthony,Yang,Male,19,Mid HR Business Partners Specialist,Mid,2025-08-19,,Berlin,Germany,Full-time,38,67200.0
+994,Jennifer,Young,Female,7,Senior Enterprise Sales Specialist,Senior,2025-08-26,,Bremen,Germany,Full-time,210,96100.0
+995,Claudia,Shields,Female,2,Mid Frontend Specialist,Mid,2025-08-20,,Dubai,UAE,Full-time,592,69600.0
+996,Anthony,Gordon,Male,7,Senior Enterprise Sales Specialist,Senior,2025-08-31,2026-07-02,London,UK,Full-time,58,82700.0
+997,Donna,Cabrera,Female,1,Senior Backend Specialist,Senior,2025-08-18,,Bremen,Germany,Full-time,2,90100.0
+998,Nicholas,Flores,Male,8,Mid SMB Sales Specialist,Mid,2025-08-02,,Bremen,Germany,Full-time,681,60500.0
+999,Linda,Chambers,Female,12,Junior Support Specialist,Junior,2025-08-15,,London,UK,Full-time,23,53000.0
+1000,Frank,Turner,Male,7,Junior Enterprise Sales Specialist,Junior,2025-08-22,,London,UK,Full-time,230,53900.0
+1001,Charles,Keller,Male,5,"Manager, Product Management",Manager,2025-08-02,,Bremen,Germany,Full-time,699,106400.0
+1002,Connie,Turner,Female,6,Mid Product Design Specialist,Mid,2025-08-30,,Munich,Germany,Full-time,248,58900.0
+1003,Antonio,Fry,Male,18,"Manager, Talent Acquisition",Manager,2025-09-28,,London,UK,Full-time,164,98600.0
+1004,Sheryl,Buck,Female,6,Junior Product Design Specialist,Junior,2025-09-24,,London,UK,Full-time,359,42700.0
+1005,Mark,Simmons,Male,16,"Manager, Accounting",Manager,2025-09-09,,London,UK,Full-time,32,118300.0
+1006,Jon,Compton,Male,8,Mid SMB Sales Specialist,Mid,2025-09-30,,Berlin,Germany,Full-time,908,69600.0
+1007,Teresa,Powers,Female,16,Senior Accounting Specialist,Senior,2025-09-02,,London,UK,Full-time,635,85900.0
+1008,Rachel,Flores,Female,11,Mid Brand Marketing Specialist,Mid,2025-09-07,,Remote,Remote,Full-time,267,71800.0
+1009,Jennifer,Hernandez,Female,8,"Director, SMB Sales",Director,2025-09-24,,Remote,Remote,Part-time,,138600.0
+1010,Jamie,Webster,Female,16,Senior Accounting Specialist,Senior,2025-09-23,,Cairo,Egypt,Full-time,80,87100.0
+1011,John,Atkinson,Male,13,Mid Onboarding Specialist,Mid,2025-09-13,,London,UK,Full-time,552,56000.0
+1012,Eric,Zimmerman,Male,3,Senior Platform Specialist,Senior,2025-09-06,2025-10-19,Cairo,Egypt,Full-time,6,89600.0
+1013,Renee,Melendez,Female,2,Senior Frontend Specialist,Senior,2025-09-05,2026-07-20,Remote,Remote,Full-time,4,88000.0
+1014,Kristina,Faulkner,Female,15,Junior IT Specialist,Junior,2025-09-14,,Berlin,Germany,Full-time,579,47600.0
+1015,Kristin,Anderson,Female,3,"Lead, Platform",Lead,2025-09-05,,Cairo,Egypt,Full-time,870,104400.0
+1016,David,Harris,Male,13,Mid Onboarding Specialist,Mid,2025-09-16,,Munich,Germany,Full-time,63,69500.0
+1017,Maria,Nielsen,Female,9,Mid Sales Development Specialist,Mid,2025-09-18,,Remote,Remote,Full-time,553,71800.0
+1018,Sarah,Davis,Female,14,Junior Facilities Specialist,Junior,2025-09-23,,Remote,Remote,Full-time,28,45100.0
+1019,Nathaniel,Lee,Male,8,Junior SMB Sales Specialist,Junior,2025-09-29,2026-06-01,Munich,Germany,Full-time,421,48300.0
+1020,Debra,Nunez,Female,8,Mid SMB Sales Specialist,Mid,2025-09-22,,Dubai,UAE,Full-time,513,73600.0
+1021,Lindsey,Russo,Female,18,Senior Talent Acquisition Specialist,Senior,2025-09-24,,Cairo,Egypt,Full-time,416,83000.0
+1022,Chelsea,Gill,Female,3,Mid Platform Specialist,Mid,2025-09-01,,Bremen,Germany,Full-time,743,59400.0
+1023,Nathaniel,Hansen,Male,9,Mid Sales Development Specialist,Mid,2025-09-09,,Bremen,Germany,Full-time,614,67900.0
+1024,John,Booth,Male,5,"Lead, Product Management",Lead,2025-09-13,,Dubai,UAE,Part-time,213,105300.0
+1025,Felicia,Krueger,Female,7,Mid Enterprise Sales Specialist,Mid,2025-09-19,,Berlin,Germany,Part-time,438,71200.0
+1026,Adrian,Giles,Male,9,"Manager, Sales Development",Manager,2025-09-20,,Bremen,Germany,Full-time,667,99500.0
+1027,Tonya,Wilson,Female,7,Junior Enterprise Sales Specialist,Junior,2025-09-11,,Bremen,Germany,Full-time,13,54100.0
+1028,Zachary,Mendoza,Male,13,Senior Onboarding Specialist,Senior,2025-09-01,,Berlin,Germany,Full-time,303,85700.0
+1029,David,Munoz,Male,8,Senior SMB Sales Specialist,Senior,2025-09-19,2026-05-13,Cairo,Egypt,Full-time,245,74600.0
+1030,Daniel,Herman,Male,8,Senior SMB Sales Specialist,Senior,2025-09-07,,Cairo,Egypt,Full-time,583,82400.0
+1031,Kristen,Rowe,Female,19,Mid HR Business Partners Specialist,Mid,2025-10-30,,Remote,Remote,Full-time,38,66100.0
+1032,Jamie,Ferguson,Female,14,"Director, Facilities",Director,2025-10-08,2025-12-04,Berlin,Germany,Full-time,,127900.0
+1033,Heather,Green,Female,9,"Lead, Sales Development",Lead,2025-10-21,,London,UK,Full-time,17,101400.0
+1034,Jose,Crawford,Male,1,Junior Backend Specialist,Junior,2025-10-01,2026-08-19,Berlin,Germany,Part-time,732,52100.0
+1035,Brett,Zavala,Male,2,Senior Frontend Specialist,Senior,2025-10-16,2026-05-20,Bremen,Germany,Full-time,622,89000.0
+1036,Julie,Franco,Female,6,Junior Product Design Specialist,Junior,2025-10-17,,Dubai,UAE,Full-time,11,44500.0
+1037,Thomas,Wood,Male,5,Junior Product Management Specialist,Junior,2025-10-28,,Bremen,Germany,Contract,1001,43200.0
+1038,Jennifer,Hart,Female,2,Mid Frontend Specialist,Mid,2025-10-22,,Cairo,Egypt,Full-time,592,66800.0
+1039,Connie,Thomas,Female,8,"Manager, SMB Sales",Manager,2025-10-17,,Cairo,Egypt,Full-time,158,111200.0
+1040,Dean,Donovan,Male,1,"Manager, Backend",Manager,2025-10-25,,Remote,Remote,Full-time,732,114800.0
+1041,Kerry,Butler,Male,13,Mid Onboarding Specialist,Mid,2025-10-06,,Dubai,UAE,Full-time,25,67000.0
+1042,Christian,Rivera,Male,10,Senior Growth Marketing Specialist,Senior,2025-10-04,,Cairo,Egypt,Full-time,178,85700.0
+1043,James,Whitaker,Male,9,Senior Sales Development Specialist,Senior,2025-10-01,,London,UK,Contract,722,77900.0
+1044,Jonathan,Pena,Male,7,Mid Enterprise Sales Specialist,Mid,2025-10-09,,Cairo,Egypt,Full-time,697,61400.0
+1045,Melinda,Scott,Female,5,Junior Product Management Specialist,Junior,2025-10-07,,Dubai,UAE,Full-time,971,61100.0
+1046,Roberto,Levy,Male,12,Senior Support Specialist,Senior,2025-10-08,,London,UK,Full-time,817,90400.0
+1047,Maria,Henry,Female,18,Mid Talent Acquisition Specialist,Mid,2025-10-08,,Dubai,UAE,Full-time,693,67500.0
+1048,Carol,Norton,Female,14,Mid Facilities Specialist,Mid,2025-10-11,,Berlin,Germany,Full-time,143,81300.0
+1049,Caroline,Cortez,Female,16,Mid Accounting Specialist,Mid,2025-10-22,,Munich,Germany,Full-time,1005,70300.0
+1050,Katherine,Stark,Female,9,Junior Sales Development Specialist,Junior,2025-10-18,,London,UK,Full-time,449,52500.0
+1051,Joshua,May,Male,1,"Lead, Backend",Lead,2025-10-10,,Cairo,Egypt,Full-time,462,95500.0
+1052,Amy,Johnson,Female,8,"Director, SMB Sales",Director,2025-10-14,,Bremen,Germany,Full-time,,152700.0
+1053,Ryan,Landry,Male,10,"Manager, Growth Marketing",Manager,2025-10-11,,Berlin,Germany,Full-time,619,112900.0
+1054,Michael,Duran,Male,10,Junior Growth Marketing Specialist,Junior,2025-10-15,,Dubai,UAE,Full-time,19,50000.0
+1055,Jennifer,Kirby,Female,6,Mid Product Design Specialist,Mid,2025-10-06,,Cairo,Egypt,Full-time,382,61900.0
+1056,Crystal,Mann,Female,11,Senior Brand Marketing Specialist,Senior,2025-10-20,,Berlin,Germany,Full-time,910,80200.0
+1057,Alexa,Wagner,Female,9,Mid Sales Development Specialist,Mid,2025-10-29,,Bremen,Germany,Full-time,530,63900.0
+1058,Jake,Williamson,Male,12,Mid Support Specialist,Mid,2025-11-23,,Remote,Remote,Full-time,808,63000.0
+1059,Mary,Jensen,Female,18,Senior Talent Acquisition Specialist,Senior,2025-11-18,,Cairo,Egypt,Full-time,753,85100.0
+1060,John,Freeman,Male,19,Mid HR Business Partners Specialist,Mid,2025-11-17,,Cairo,Egypt,Full-time,133,62500.0
+1061,Adriana,Arnold,Female,16,Mid Accounting Specialist,Mid,2025-11-11,2025-12-21,Cairo,Egypt,Full-time,322,62600.0
+1062,Adam,Moreno,Male,10,"Lead, Growth Marketing",Lead,2025-11-19,,Dubai,UAE,Full-time,859,105100.0
+1063,Donald,Madden,Male,16,Senior Accounting Specialist,Senior,2025-11-06,2026-01-07,London,UK,Part-time,322,82800.0
+1064,Alicia,Li,Female,9,Mid Sales Development Specialist,Mid,2025-11-27,,London,UK,Full-time,667,57200.0
+1065,Megan,Drake,Female,8,Senior SMB Sales Specialist,Senior,2025-11-29,,Dubai,UAE,Full-time,508,94600.0
+1066,Susan,Rodriguez,Female,7,Junior Enterprise Sales Specialist,Junior,2025-11-16,,Bremen,Germany,Full-time,529,43900.0
+1067,Anne,Hernandez,Female,10,Mid Growth Marketing Specialist,Mid,2025-11-19,,Bremen,Germany,Full-time,20,56100.0
+1068,Corey,Fox,Male,12,Junior Support Specialist,Junior,2025-11-21,,Cairo,Egypt,Part-time,161,56900.0
+1069,Robin,Adams,Female,11,Mid Brand Marketing Specialist,Mid,2025-11-09,,Dubai,UAE,Full-time,152,82100.0
+1070,Jennifer,Watson,Female,19,Junior HR Business Partners Specialist,Junior,2025-11-23,,Bremen,Germany,Full-time,428,54400.0
+1071,Jennifer,Cunningham,Female,10,Mid Growth Marketing Specialist,Mid,2025-11-17,2026-07-20,Munich,Germany,Full-time,20,57700.0
+1072,William,Perez,Male,7,"Manager, Enterprise Sales",Manager,2025-12-21,2026-06-22,London,UK,Full-time,529,103300.0
+1073,Michael,Abbott,Male,15,Mid IT Specialist,Mid,2025-12-08,2026-02-19,Remote,Remote,Full-time,708,67400.0
+1074,Martha,Garrison,Female,19,"Director, HR Business Partners",Director,2025-12-27,,London,UK,Full-time,,168300.0
+1075,Olivia,Davis,Female,5,Junior Product Management Specialist,Junior,2025-12-25,,Munich,Germany,Full-time,213,51400.0
+1076,Jamie,Tran,Female,14,Junior Facilities Specialist,Junior,2025-12-28,,Berlin,Germany,Full-time,1032,55000.0
+1077,Anthony,Smith,Male,15,Senior IT Specialist,Senior,2025-12-25,,Remote,Remote,Full-time,444,88400.0
+1078,Carolyn,Porter,Female,16,"Lead, Accounting",Lead,2025-12-05,,Bremen,Germany,Full-time,635,101300.0
+1079,Jessica,Mueller,Female,18,Mid Talent Acquisition Specialist,Mid,2025-12-22,,Cairo,Egypt,Full-time,35,68000.0
+1080,Kylie,Hodge,Female,17,Senior FP&A Specialist,Senior,2025-12-17,,Bremen,Germany,Full-time,298,75800.0
+1081,Brandon,Rice,Male,8,Senior SMB Sales Specialist,Senior,2025-12-11,,Dubai,UAE,Full-time,297,74900.0
+1082,Andrew,Lewis,Male,9,Junior Sales Development Specialist,Junior,2025-12-29,,Dubai,UAE,Part-time,362,53700.0
+1083,Shawna,Clay,Female,9,Senior Sales Development Specialist,Senior,2025-12-27,,Bremen,Germany,Full-time,1026,72300.0
+1084,Karen,Williams,Female,8,"Lead, SMB Sales",Lead,2025-12-24,,Munich,Germany,Full-time,513,106400.0
+1085,Benjamin,Frost,Male,13,"Manager, Onboarding",Manager,2026-01-24,,Munich,Germany,Full-time,883,103400.0
+1086,Steven,Elliott,Male,10,Mid Growth Marketing Specialist,Mid,2026-01-09,,Berlin,Germany,Full-time,1062,61400.0
+1087,Amanda,Mcfarland,Female,8,Senior SMB Sales Specialist,Senior,2026-01-21,,London,UK,Full-time,401,75700.0
+1088,Emily,Ali,Female,7,Senior Enterprise Sales Specialist,Senior,2026-01-04,,London,UK,Full-time,14,78000.0
+1089,Kevin,Goodwin,Male,3,"Manager, Platform",Manager,2026-01-12,,Berlin,Germany,Full-time,123,113000.0
+1090,Michelle,Sanders,Female,6,Junior Product Design Specialist,Junior,2026-01-01,2026-07-04,Bremen,Germany,Full-time,208,45700.0
+1091,Angela,Martin,Female,11,Senior Brand Marketing Specialist,Senior,2026-01-17,,Remote,Remote,Part-time,729,80500.0
+1092,Cynthia,Davenport,Female,1,Junior Backend Specialist,Junior,2026-01-22,,London,UK,Full-time,594,49500.0
+1093,James,Mosley,Male,5,Senior Product Management Specialist,Senior,2026-01-13,,London,UK,Full-time,10,98400.0
+1094,Gary,Campos,Male,8,Senior SMB Sales Specialist,Senior,2026-01-10,,Dubai,UAE,Full-time,908,91700.0
+1095,Brenda,Hinton,Female,1,Mid Backend Specialist,Mid,2026-01-02,,Cairo,Egypt,Full-time,594,69700.0
+1096,Misty,Mason,Female,5,Junior Product Management Specialist,Junior,2026-01-02,,Remote,Remote,Full-time,576,56800.0
+1097,Valerie,Brown,Female,18,"Manager, Talent Acquisition",Manager,2026-01-12,2026-08-03,Berlin,Germany,Full-time,45,123400.0
+1098,Jessica,Roberson,Female,6,"Manager, Product Design",Manager,2026-01-14,,Dubai,UAE,Full-time,957,119600.0
+1099,Gina,Mack,Female,9,Mid Sales Development Specialist,Mid,2026-01-02,,Cairo,Egypt,Full-time,849,71900.0
+1100,Tina,Sanders,Female,9,Mid Sales Development Specialist,Mid,2026-01-29,,Cairo,Egypt,Full-time,294,56000.0
+1101,Raymond,Johnson,Male,5,Junior Product Management Specialist,Junior,2026-01-10,,Remote,Remote,Full-time,1024,44300.0
+1102,Donald,Riddle,Male,8,"Lead, SMB Sales",Lead,2026-01-19,,Bremen,Germany,Full-time,942,106200.0
+1103,John,Kelly,Male,11,Senior Brand Marketing Specialist,Senior,2026-01-12,,London,UK,Contract,910,73500.0
+1104,Todd,Reynolds,Male,2,Senior Frontend Specialist,Senior,2026-01-05,,Remote,Remote,Full-time,557,83700.0
+1105,Meghan,Guerrero,Female,15,Mid IT Specialist,Mid,2026-01-13,,Munich,Germany,Full-time,899,60300.0
+1106,Angelica,Montgomery,Female,9,Junior Sales Development Specialist,Junior,2026-01-14,,London,UK,Full-time,614,48400.0
+1107,Robert,Marquez,Male,9,"Director, Sales Development",Director,2026-01-15,,Munich,Germany,Full-time,,154500.0
+1108,Angela,Moore,Female,10,Senior Growth Marketing Specialist,Senior,2026-01-04,,Munich,Germany,Full-time,859,81600.0
+1109,Michael,Walters,Male,10,Senior Growth Marketing Specialist,Senior,2026-01-28,,London,UK,Full-time,1053,82100.0
+1110,Patrick,Stewart,Male,17,Junior FP&A Specialist,Junior,2026-01-21,,London,UK,Contract,298,50300.0
+1111,Ashley,Smith,Female,5,"Manager, Product Management",Manager,2026-01-25,,Berlin,Germany,Full-time,361,106800.0
+1112,Eric,Ward,Male,8,Mid SMB Sales Specialist,Mid,2026-01-05,,Munich,Germany,Full-time,421,60800.0
+1113,Derrick,Anderson,Male,9,Mid Sales Development Specialist,Mid,2026-01-14,,Munich,Germany,Full-time,1026,70500.0
+1114,Chelsea,Cole,Female,9,"Lead, Sales Development",Lead,2026-01-05,,Berlin,Germany,Full-time,391,92500.0
+1115,Kristen,Russell,Female,8,Mid SMB Sales Specialist,Mid,2026-01-13,,Remote,Remote,Full-time,297,69900.0
+1116,Allison,Gomez,Female,8,Mid SMB Sales Specialist,Mid,2026-01-31,,Munich,Germany,Full-time,1102,55600.0
+1117,Anna,George,Female,13,Junior Onboarding Specialist,Junior,2026-01-20,,Bremen,Germany,Full-time,25,46900.0
+1118,Frederick,Cruz,Male,3,"Lead, Platform",Lead,2026-01-24,,Cairo,Egypt,Full-time,135,100400.0
+1119,Dorothy,Hughes,Female,17,Junior FP&A Specialist,Junior,2026-01-03,,Remote,Remote,Full-time,905,42400.0
+1120,Bradley,Santana,Male,8,Mid SMB Sales Specialist,Mid,2026-01-02,,Berlin,Germany,Full-time,423,59200.0
+1121,Susan,Spence,Female,4,Mid QA Specialist,Mid,2026-01-13,,Cairo,Egypt,Full-time,605,61900.0
+1122,Kenneth,Jackson,Male,4,Senior QA Specialist,Senior,2026-02-07,,Berlin,Germany,Full-time,925,75400.0
+1123,James,Taylor,Male,11,Junior Brand Marketing Specialist,Junior,2026-02-21,,Cairo,Egypt,Full-time,301,55600.0
+1124,Eric,Snyder,Male,5,Mid Product Management Specialist,Mid,2026-02-04,,Munich,Germany,Full-time,154,65700.0
+1125,Amy,Hamilton,Female,4,Senior QA Specialist,Senior,2026-02-10,,London,UK,Full-time,7,80900.0
+1126,Jason,Washington,Male,19,Mid HR Business Partners Specialist,Mid,2026-02-28,,Munich,Germany,Full-time,1074,60000.0
+1127,Angela,King,Female,5,Mid Product Management Specialist,Mid,2026-02-22,2026-05-31,Munich,Germany,Full-time,361,55200.0
+1128,David,Weber,Male,19,Mid HR Business Partners Specialist,Mid,2026-02-09,,Remote,Remote,Full-time,704,60500.0
+1129,Kirk,Gonzalez,Male,3,Junior Platform Specialist,Junior,2026-02-19,,Munich,Germany,Full-time,870,54800.0
+1130,Brian,Torres,Male,2,Junior Frontend Specialist,Junior,2026-02-04,,Cairo,Egypt,Full-time,225,46400.0
+1131,Travis,Cook,Male,14,Junior Facilities Specialist,Junior,2026-02-19,,Berlin,Germany,Part-time,28,51900.0
+1132,Manuel,Brock,Male,9,Senior Sales Development Specialist,Senior,2026-02-03,,Remote,Remote,Full-time,516,91800.0
+1133,Gary,Cook,Male,4,"Manager, QA",Manager,2026-02-09,,Remote,Remote,Full-time,240,108000.0
+1134,Robin,Villarreal,Female,19,Junior HR Business Partners Specialist,Junior,2026-02-10,,London,UK,Full-time,428,56200.0
+1135,William,Taylor,Male,15,Junior IT Specialist,Junior,2026-02-19,,Dubai,UAE,Full-time,444,48800.0
+1136,Erica,Valentine,Female,9,Mid Sales Development Specialist,Mid,2026-02-14,,Bremen,Germany,Full-time,1114,55800.0
+1137,Curtis,Edwards,Male,8,Junior SMB Sales Specialist,Junior,2026-02-27,,Remote,Remote,Full-time,401,42100.0
+1138,Vincent,Novak,Male,7,Junior Enterprise Sales Specialist,Junior,2026-02-22,,Munich,Germany,Full-time,93,47800.0
+1139,Eddie,Neal,Male,4,"Director, QA",Director,2026-02-14,,Remote,Remote,Full-time,,142800.0
+1140,John,Johnston,Male,7,"Lead, Enterprise Sales",Lead,2026-02-24,,London,UK,Full-time,337,110700.0
+1141,David,Bennett,Male,14,Junior Facilities Specialist,Junior,2026-02-17,,Cairo,Egypt,Part-time,963,48500.0
+1142,Rose,Long,Female,14,"Lead, Facilities",Lead,2026-02-27,,Munich,Germany,Full-time,28,90400.0
+1143,Ashley,Elliott,Female,14,"Lead, Facilities",Lead,2026-02-11,,Dubai,UAE,Full-time,857,97200.0
+1144,Leslie,Gardner,Female,12,Mid Support Specialist,Mid,2026-02-23,,Berlin,Germany,Contract,161,56700.0
+1145,Melanie,Pierce,Female,8,Senior SMB Sales Specialist,Senior,2026-02-28,,Cairo,Egypt,Full-time,908,103300.0
+1146,Troy,Murray,Male,15,"Lead, IT",Lead,2026-02-25,,Bremen,Germany,Full-time,149,106900.0
+1147,Michelle,Gonzales,Female,6,Mid Product Design Specialist,Mid,2026-02-19,,London,UK,Full-time,359,71200.0
+1148,Doris,Schwartz,Female,13,Junior Onboarding Specialist,Junior,2026-02-16,,Cairo,Egypt,Full-time,63,47300.0
+1149,Robert,Flynn,Male,12,Mid Support Specialist,Mid,2026-02-18,,Munich,Germany,Full-time,23,70700.0
+1150,Jason,Porter,Male,19,"Manager, HR Business Partners",Manager,2026-02-15,2026-06-05,London,UK,Full-time,616,116900.0
+1151,Madeline,Allen,Female,9,Junior Sales Development Specialist,Junior,2026-02-13,,Berlin,Germany,Contract,391,44600.0
+1152,Mary,Espinoza,Female,3,Mid Platform Specialist,Mid,2026-02-10,,London,UK,Full-time,1118,59600.0
+1153,Richard,Jones,Male,8,"Director, SMB Sales",Director,2026-03-07,,Berlin,Germany,Full-time,,129100.0
+1154,William,Mendoza,Male,6,Junior Product Design Specialist,Junior,2026-03-26,,Munich,Germany,Full-time,12,53500.0
+1155,Jennifer,Hunter,Female,18,Mid Talent Acquisition Specialist,Mid,2026-03-21,,Munich,Germany,Full-time,604,63200.0
+1156,Tami,Holt,Female,11,Mid Brand Marketing Specialist,Mid,2026-03-02,,Cairo,Egypt,Part-time,535,71100.0
+1157,Joshua,Gibbs,Male,18,Mid Talent Acquisition Specialist,Mid,2026-03-30,,Bremen,Germany,Full-time,416,66500.0
+1158,Heather,Woodard,Female,13,"Manager, Onboarding",Manager,2026-03-12,,Bremen,Germany,Full-time,552,118000.0
+1159,Kimberly,Little,Female,18,Mid Talent Acquisition Specialist,Mid,2026-03-31,,Dubai,UAE,Full-time,146,62900.0
+1160,Angela,Mack,Female,7,Mid Enterprise Sales Specialist,Mid,2026-03-08,,Dubai,UAE,Full-time,755,67800.0
+1161,Matthew,Kelly,Male,9,Mid Sales Development Specialist,Mid,2026-03-09,,Cairo,Egypt,Contract,490,67800.0
+1162,Maria,Williams,Female,15,Mid IT Specialist,Mid,2026-03-20,,London,UK,Full-time,655,66700.0
+1163,Victoria,Byrd,Female,19,Junior HR Business Partners Specialist,Junior,2026-03-28,,Cairo,Egypt,Full-time,1074,54100.0
+1164,James,Goodwin,Male,8,Senior SMB Sales Specialist,Senior,2026-03-15,,Munich,Germany,Full-time,1084,89100.0
+1165,Tracie,Jordan,Female,17,Junior FP&A Specialist,Junior,2026-03-29,,London,UK,Full-time,181,46700.0
+1166,Alexandra,Green,Female,7,Junior Enterprise Sales Specialist,Junior,2026-03-27,,Munich,Germany,Full-time,344,53700.0
+1167,Jorge,Stone,Male,16,Mid Accounting Specialist,Mid,2026-03-16,,Dubai,UAE,Full-time,1005,62100.0
+1168,Kevin,Johnston,Male,7,"Lead, Enterprise Sales",Lead,2026-03-22,,Dubai,UAE,Full-time,584,93900.0
+1169,Jill,Myers,Female,9,Junior Sales Development Specialist,Junior,2026-03-17,2026-05-07,Berlin,Germany,Contract,783,43900.0
+1170,Raymond,Chapman,Male,18,Senior Talent Acquisition Specialist,Senior,2026-03-18,,Cairo,Egypt,Full-time,753,85300.0
+1171,Kathryn,Cooper,Female,18,"Lead, Talent Acquisition",Lead,2026-03-23,,Berlin,Germany,Full-time,895,96700.0
+1172,Allison,Garcia,Female,8,Mid SMB Sales Specialist,Mid,2026-03-06,,Bremen,Germany,Contract,374,62800.0
+1173,Jennifer,Nixon,Female,7,Mid Enterprise Sales Specialist,Mid,2026-03-25,,Cairo,Egypt,Full-time,698,59600.0
+1174,Brian,Shepard,Male,14,Senior Facilities Specialist,Senior,2026-03-05,,Berlin,Germany,Full-time,27,90000.0
+1175,Brenda,Collins,Female,7,Senior Enterprise Sales Specialist,Senior,2026-03-23,,Dubai,UAE,Part-time,470,93800.0
+1176,Jesse,Clark,Male,4,Mid QA Specialist,Mid,2026-03-03,,London,UK,Full-time,7,69800.0
+1177,John,Alvarez,Male,17,"Manager, FP&A",Manager,2026-03-18,,Dubai,UAE,Full-time,283,101500.0
+1178,Jeffrey,Horton,Male,9,Senior Sales Development Specialist,Senior,2026-04-12,2026-06-01,Dubai,UAE,Full-time,294,85000.0
+1179,Emma,Evans,Female,8,Senior SMB Sales Specialist,Senior,2026-04-11,,Dubai,UAE,Full-time,852,72300.0
+1180,Rhonda,Wilson,Female,8,Senior SMB Sales Specialist,Senior,2026-04-04,2026-04-17,Remote,Remote,Full-time,967,75200.0
+1181,Samuel,Wong,Male,8,"Director, SMB Sales",Director,2026-04-07,,Cairo,Egypt,Full-time,,151800.0
+1182,Michael,Martin,Male,4,"Manager, QA",Manager,2026-04-15,,Berlin,Germany,Full-time,240,107600.0
+1183,Victoria,Sanchez,Female,8,Mid SMB Sales Specialist,Mid,2026-04-03,,Munich,Germany,Full-time,136,61500.0
+1184,Christopher,Moore,Male,11,Mid Brand Marketing Specialist,Mid,2026-04-02,,London,UK,Full-time,535,72000.0
+1185,Kristin,Mullen,Female,19,"Director, HR Business Partners",Director,2026-04-09,,Cairo,Egypt,Full-time,,157800.0
+1186,Crystal,Sullivan,Female,10,"Manager, Growth Marketing",Manager,2026-04-06,,London,UK,Full-time,619,118800.0
+1187,Cathy,Davidson,Female,8,Mid SMB Sales Specialist,Mid,2026-04-05,,Remote,Remote,Full-time,15,61300.0
+1188,Jessica,Johnson,Female,8,Junior SMB Sales Specialist,Junior,2026-04-28,2026-07-27,Munich,Germany,Full-time,788,42700.0
+1189,Lucas,Gonzalez,Male,1,Senior Backend Specialist,Senior,2026-04-12,,London,UK,Full-time,594,88500.0
+1190,Kevin,Price,Male,9,Senior Sales Development Specialist,Senior,2026-04-08,2026-04-20,Dubai,UAE,Full-time,620,78100.0
+1191,Michael,Harris,Male,5,Junior Product Management Specialist,Junior,2026-04-28,,Remote,Remote,Full-time,699,53000.0
+1192,Paul,Stokes,Male,2,"Lead, Frontend",Lead,2026-04-25,,Berlin,Germany,Full-time,856,102100.0
+1193,Amy,Garcia,Female,8,"Lead, SMB Sales",Lead,2026-04-14,,Berlin,Germany,Contract,450,99700.0
+1194,Shelby,Lopez,Female,1,"Director, Backend",Director,2026-04-29,,Bremen,Germany,Full-time,,159900.0
+1195,Erika,Ellis,Female,7,"Lead, Enterprise Sales",Lead,2026-04-07,,Cairo,Egypt,Full-time,205,98900.0
+1196,Dennis,Huffman,Male,14,"Lead, Facilities",Lead,2026-04-02,,Cairo,Egypt,Full-time,27,90800.0
+1197,Joseph,Fowler,Male,13,Junior Onboarding Specialist,Junior,2026-04-18,,Remote,Remote,Part-time,25,46800.0
+1198,Linda,Carr,Female,9,"Lead, Sales Development",Lead,2026-05-03,,Dubai,UAE,Full-time,837,92500.0
+1199,Kevin,Bailey,Male,14,Senior Facilities Specialist,Senior,2026-05-10,,Munich,Germany,Full-time,1142,92500.0
+1200,Ryan,Williamson,Male,13,Junior Onboarding Specialist,Junior,2026-05-16,,Remote,Remote,Full-time,303,52000.0
+1201,Robin,Mccarthy,Female,7,Mid Enterprise Sales Specialist,Mid,2026-05-14,,Cairo,Egypt,Part-time,786,59300.0
+1202,Edward,Mendez,Male,5,Mid Product Management Specialist,Mid,2026-05-01,,Berlin,Germany,Full-time,576,64500.0
+1203,Angela,Anderson,Female,16,Mid Accounting Specialist,Mid,2026-05-13,,Bremen,Germany,Full-time,1005,66500.0
+1204,Autumn,Torres,Female,7,Senior Enterprise Sales Specialist,Senior,2026-05-11,,London,UK,Full-time,1140,92500.0
+1205,Clayton,Steele,Male,5,Junior Product Management Specialist,Junior,2026-05-08,,Bremen,Germany,Part-time,213,46100.0
+1206,Jorge,Barnes,Male,6,"Manager, Product Design",Manager,2026-05-03,,London,UK,Full-time,12,101400.0
+1207,Brenda,Reyes,Female,15,"Manager, IT",Manager,2026-05-06,,Munich,Germany,Full-time,30,116400.0
+1208,Charlene,Reid,Female,11,Junior Brand Marketing Specialist,Junior,2026-05-13,,Dubai,UAE,Full-time,479,44600.0
+1209,Melissa,Brewer,Female,2,Mid Frontend Specialist,Mid,2026-05-30,,Munich,Germany,Full-time,972,58000.0
+1210,Zoe,Peters,Female,8,Mid SMB Sales Specialist,Mid,2026-05-13,,Remote,Remote,Full-time,852,61700.0
+1211,Katherine,Taylor,Female,9,"Lead, Sales Development",Lead,2026-05-04,,Munich,Germany,Full-time,1107,91300.0
+1212,Emily,Hayes,Female,18,"Lead, Talent Acquisition",Lead,2026-05-09,,London,UK,Full-time,121,106400.0
+1213,Anthony,Howard,Male,19,"Lead, HR Business Partners",Lead,2026-05-24,,Bremen,Germany,Part-time,704,109000.0
+1214,Alexandra,Taylor,Female,13,Mid Onboarding Specialist,Mid,2026-06-05,,Bremen,Germany,Full-time,650,70000.0
+1215,Robin,Maynard,Female,6,"Director, Product Design",Director,2026-06-30,,Munich,Germany,Full-time,,134600.0
+1216,Kathy,Simpson,Female,4,Senior QA Specialist,Senior,2026-06-23,,Dubai,UAE,Full-time,8,86300.0
+1217,Melinda,Perry,Female,6,Mid Product Design Specialist,Mid,2026-06-23,,Berlin,Germany,Full-time,223,67400.0
+1218,Sara,Burns,Female,12,"Lead, Support",Lead,2026-06-18,,London,UK,Full-time,161,107200.0
+1219,Bradley,Johnson,Male,18,Senior Talent Acquisition Specialist,Senior,2026-06-30,,Bremen,Germany,Full-time,604,78100.0
+1220,Paige,Carter,Female,5,Senior Product Management Specialist,Senior,2026-06-22,,Bremen,Germany,Full-time,154,84300.0
+1221,Denise,Medina,Female,5,Senior Product Management Specialist,Senior,2026-06-05,,Berlin,Germany,Full-time,1024,84000.0
+1222,Carol,Ellis,Female,4,Junior QA Specialist,Junior,2026-06-23,,Berlin,Germany,Full-time,683,45300.0
+1223,Natalie,Cannon,Female,13,Mid Onboarding Specialist,Mid,2026-06-06,,Munich,Germany,Part-time,63,60800.0
+1224,Joshua,Wilson,Male,7,Mid Enterprise Sales Specialist,Mid,2026-06-01,,Munich,Germany,Full-time,900,66800.0
+1225,Ashley,Hampton,Female,7,Mid Enterprise Sales Specialist,Mid,2026-06-19,,Dubai,UAE,Full-time,212,66800.0
+1226,Samantha,Richardson,Female,4,"Lead, QA",Lead,2026-06-10,,Munich,Germany,Full-time,8,104500.0
+1227,Rodney,Williams,Male,10,Senior Growth Marketing Specialist,Senior,2026-07-10,,Cairo,Egypt,Full-time,859,88000.0
+1228,Michelle,Payne,Female,15,Mid IT Specialist,Mid,2026-07-24,,Cairo,Egypt,Full-time,461,61600.0
+1229,William,Garcia,Male,6,Senior Product Design Specialist,Senior,2026-07-17,,Bremen,Germany,Full-time,248,81100.0
+1230,Ronald,Potter,Male,15,Junior IT Specialist,Junior,2026-07-20,,Munich,Germany,Full-time,444,51500.0
+1231,Edward,Kidd,Male,1,Senior Backend Specialist,Senior,2026-07-12,,London,UK,Part-time,2,85200.0
+1232,Jerry,Bailey,Male,8,"Director, SMB Sales",Director,2026-07-09,,Munich,Germany,Full-time,,123800.0
+1233,Ruth,Gonzales,Female,17,Mid FP&A Specialist,Mid,2026-07-15,,Munich,Germany,Full-time,536,56700.0
+1234,Xavier,Rowe,Male,7,Mid Enterprise Sales Specialist,Mid,2026-07-20,,Bremen,Germany,Full-time,205,60700.0
+1235,David,Cochran,Male,8,Senior SMB Sales Specialist,Senior,2026-07-11,,Dubai,UAE,Full-time,766,94600.0
+1236,Kevin,Bell,Male,17,Junior FP&A Specialist,Junior,2026-07-22,,Munich,Germany,Full-time,800,43300.0
+1237,Michelle,Chen,Female,9,Senior Sales Development Specialist,Senior,2026-07-12,,Remote,Remote,Full-time,779,78600.0
+1238,Carol,Taylor,Female,11,Senior Brand Marketing Specialist,Senior,2026-07-06,,Bremen,Germany,Full-time,22,89500.0
+1239,Daniel,Clark,Male,12,"Lead, Support",Lead,2026-07-29,,Cairo,Egypt,Full-time,1218,109700.0
+1240,Anthony,Bell,Male,2,"Director, Frontend",Director,2026-07-03,,Cairo,Egypt,Full-time,,130100.0
+1241,Douglas,Ryan,Male,11,Senior Brand Marketing Specialist,Senior,2026-08-19,,Berlin,Germany,Full-time,791,81200.0
+1242,Erica,Padilla,Female,9,Mid Sales Development Specialist,Mid,2026-08-14,,Munich,Germany,Full-time,1033,70800.0
+1243,Donna,Adams,Female,1,Mid Backend Specialist,Mid,2026-08-07,,Remote,Remote,Full-time,287,69200.0
+1244,Scott,Duke,Male,9,Mid Sales Development Specialist,Mid,2026-08-17,,Dubai,UAE,Full-time,835,71100.0
+1245,Meghan,Davis,Female,12,Junior Support Specialist,Junior,2026-08-10,,Bremen,Germany,Full-time,808,43900.0
+1246,Tonya,Floyd,Female,2,Junior Frontend Specialist,Junior,2026-08-13,,Berlin,Germany,Full-time,592,46300.0
+1247,Thomas,Riddle,Male,16,"Lead, Accounting",Lead,2026-08-17,,Bremen,Germany,Full-time,875,104100.0
+1248,Sean,Martinez,Male,13,Mid Onboarding Specialist,Mid,2026-08-30,,Bremen,Germany,Full-time,25,67600.0
+1249,Sean,Wright,Male,9,Mid Sales Development Specialist,Mid,2026-08-09,,Dubai,UAE,Full-time,207,67300.0
+1250,Michael,Poole,Male,19,Senior HR Business Partners Specialist,Senior,2026-08-15,,Berlin,Germany,Full-time,556,88900.0
+1251,Pam,Lowe,Female,6,"Manager, Product Design",Manager,2026-08-13,,Berlin,Germany,Full-time,11,104500.0
+1252,John,Ray,Male,10,Mid Growth Marketing Specialist,Mid,2026-08-24,,Berlin,Germany,Full-time,372,69700.0
+1253,Derrick,Perry,Male,6,Mid Product Design Specialist,Mid,2026-08-03,,Munich,Germany,Full-time,11,64100.0

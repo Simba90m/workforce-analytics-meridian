@@ -1,0 +1,20 @@
+department_id,department_name,division
+1,Backend,Engineering
+2,Frontend,Engineering
+3,Platform,Engineering
+4,QA,Engineering
+5,Product Management,Product
+6,Product Design,Product
+7,Enterprise Sales,Sales
+8,SMB Sales,Sales
+9,Sales Development,Sales
+10,Growth Marketing,Marketing
+11,Brand Marketing,Marketing
+12,Support,Customer Success
+13,Onboarding,Customer Success
+14,Facilities,Operations
+15,IT,Operations
+16,Accounting,Finance
+17,FP&A,Finance
+18,Talent Acquisition,People
+19,HR Business Partners,People

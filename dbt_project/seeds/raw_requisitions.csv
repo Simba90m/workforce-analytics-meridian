@@ -1,0 +1,1134 @@
+requisition_id,department_id,job_title,opened_date,closed_date,status,source_channel
+1,18,"Lead, Talent Acquisition",2022-01-22,2022-02-26,Filled,Agency
+2,5,Senior Product Management Specialist,2022-01-06,2022-02-10,Filled,Employee Referral
+3,3,"Manager, Platform",2021-12-03,2022-02-02,Filled,Agency
+4,15,Junior IT Specialist,2022-01-21,2022-02-19,Filled,Career Site
+5,15,Mid IT Specialist,2021-12-26,2022-02-03,Filled,Employee Referral
+6,7,Mid Enterprise Sales Specialist,2022-02-23,2022-03-25,Filled,Employee Referral
+7,8,Junior SMB Sales Specialist,2022-02-11,2022-03-02,Filled,Career Site
+8,4,Junior QA Specialist,2022-02-21,2022-03-18,Filled,Job Board
+9,18,Mid Talent Acquisition Specialist,2022-01-16,2022-03-10,Filled,LinkedIn
+10,9,Junior Sales Development Specialist,2022-02-07,2022-03-29,Filled,LinkedIn
+11,13,Senior Onboarding Specialist,2022-02-02,2022-03-27,Filled,Job Board
+12,18,Junior Talent Acquisition Specialist,2022-01-22,2022-03-28,Filled,Employee Referral
+13,19,"Lead, HR Business Partners",2022-01-30,2022-03-26,Filled,LinkedIn
+14,3,Mid Platform Specialist,2022-02-24,2022-03-30,Filled,LinkedIn
+15,3,"Lead, Platform",2022-02-19,2022-03-11,Filled,Job Board
+16,8,"Manager, SMB Sales",2022-03-24,2022-04-26,Filled,Job Board
+17,9,Mid Sales Development Specialist,2022-03-16,2022-04-06,Filled,Job Board
+18,7,Senior Enterprise Sales Specialist,2022-02-21,2022-04-18,Filled,Agency
+19,9,"Manager, Sales Development",2022-02-01,2022-04-05,Filled,Career Site
+20,8,Mid SMB Sales Specialist,2022-03-12,2022-04-26,Filled,Employee Referral
+21,7,Mid Enterprise Sales Specialist,2022-03-02,2022-04-07,Filled,Agency
+22,14,Senior Facilities Specialist,2022-03-16,2022-04-27,Filled,LinkedIn
+23,14,"Manager, Facilities",2022-03-11,2022-04-26,Filled,Job Board
+24,9,"Director, Sales Development",2022-02-15,2022-04-10,Filled,Career Site
+25,14,Senior Facilities Specialist,2022-03-27,2022-04-17,Filled,Job Board
+26,18,"Lead, Talent Acquisition",2022-03-04,2022-04-23,Filled,LinkedIn
+27,7,Senior Enterprise Sales Specialist,2022-04-05,2022-05-12,Filled,LinkedIn
+28,12,Senior Support Specialist,2022-03-30,2022-05-23,Filled,Job Board
+29,15,"Lead, IT",2022-04-15,2022-05-31,Filled,Job Board
+30,6,Mid Product Design Specialist,2022-04-15,2022-05-18,Filled,LinkedIn
+31,6,Mid Product Design Specialist,2022-03-12,2022-05-04,Filled,Career Site
+32,11,"Manager, Brand Marketing",2022-03-31,2022-05-29,Filled,LinkedIn
+33,9,Senior Sales Development Specialist,2022-04-28,2022-05-18,Filled,Career Site
+34,5,"Director, Product Management",2022-04-30,2022-05-24,Filled,Career Site
+35,8,Senior SMB Sales Specialist,2022-04-26,2022-05-21,Filled,LinkedIn
+36,7,Junior Enterprise Sales Specialist,2022-04-07,2022-05-06,Filled,Job Board
+37,9,Mid Sales Development Specialist,2022-03-31,2022-05-03,Filled,LinkedIn
+38,8,"Manager, SMB Sales",2022-03-29,2022-05-09,Filled,Job Board
+39,3,Junior Platform Specialist,2022-04-08,2022-05-10,Filled,LinkedIn
+40,4,"Director, QA",2022-04-02,2022-05-24,Filled,Agency
+41,12,"Manager, Support",2022-03-27,2022-05-20,Filled,LinkedIn
+42,9,Mid Sales Development Specialist,2022-03-17,2022-05-06,Filled,Employee Referral
+43,4,Mid QA Specialist,2022-04-01,2022-05-14,Filled,LinkedIn
+44,18,"Director, Talent Acquisition",2022-05-08,2022-06-03,Filled,Job Board
+45,19,Mid HR Business Partners Specialist,2022-05-18,2022-06-13,Filled,Job Board
+46,5,Mid Product Management Specialist,2022-05-12,2022-06-18,Filled,Employee Referral
+47,8,Mid SMB Sales Specialist,2022-04-09,2022-06-08,Filled,Employee Referral
+48,6,Senior Product Design Specialist,2022-05-15,2022-06-04,Filled,Employee Referral
+49,6,"Lead, Product Design",2022-04-25,2022-06-28,Filled,Employee Referral
+50,7,"Director, Enterprise Sales",2022-04-11,2022-06-05,Filled,Agency
+51,11,Mid Brand Marketing Specialist,2022-05-05,2022-06-18,Filled,LinkedIn
+52,13,Mid Onboarding Specialist,2022-05-26,2022-06-16,Filled,Employee Referral
+53,9,Mid Sales Development Specialist,2022-05-21,2022-06-13,Filled,Employee Referral
+54,7,Senior Enterprise Sales Specialist,2022-05-14,2022-06-22,Filled,LinkedIn
+55,18,Junior Talent Acquisition Specialist,2022-05-22,2022-06-24,Filled,Employee Referral
+56,8,Mid SMB Sales Specialist,2022-04-18,2022-06-21,Filled,Employee Referral
+57,11,Junior Brand Marketing Specialist,2022-06-21,2022-07-22,Filled,Job Board
+58,10,"Lead, Growth Marketing",2022-06-03,2022-07-15,Filled,Employee Referral
+59,14,Mid Facilities Specialist,2022-05-07,2022-07-08,Filled,LinkedIn
+60,9,Junior Sales Development Specialist,2022-06-22,2022-07-17,Filled,LinkedIn
+61,17,"Director, FP&A",2022-05-18,2022-07-01,Filled,Employee Referral
+62,18,Junior Talent Acquisition Specialist,2022-06-12,2022-07-25,Filled,Employee Referral
+63,12,Senior Support Specialist,2022-06-02,2022-07-03,Filled,Career Site
+64,7,Senior Enterprise Sales Specialist,2022-06-26,2022-07-19,Filled,Career Site
+65,10,Mid Growth Marketing Specialist,2022-06-04,2022-07-02,Filled,Employee Referral
+66,9,Senior Sales Development Specialist,2022-07-02,2022-07-27,Filled,Job Board
+67,15,Senior IT Specialist,2022-05-23,2022-07-09,Filled,Employee Referral
+68,16,Mid Accounting Specialist,2022-06-11,2022-07-06,Filled,LinkedIn
+69,16,Mid Accounting Specialist,2022-06-11,2022-07-01,Filled,Employee Referral
+70,7,"Manager, Enterprise Sales",2022-05-14,2022-07-14,Filled,Career Site
+71,15,"Manager, IT",2022-05-10,2022-07-02,Filled,Employee Referral
+72,7,Mid Enterprise Sales Specialist,2022-06-26,2022-07-26,Filled,Job Board
+73,1,Junior Backend Specialist,2022-06-26,2022-07-14,Filled,Job Board
+74,9,"Manager, Sales Development",2022-06-26,2022-08-23,Filled,Agency
+75,9,Senior Sales Development Specialist,2022-07-02,2022-08-14,Filled,Job Board
+76,8,Junior SMB Sales Specialist,2022-07-15,2022-08-08,Filled,LinkedIn
+77,8,Mid SMB Sales Specialist,2022-07-26,2022-08-18,Filled,LinkedIn
+78,12,Junior Support Specialist,2022-06-20,2022-08-02,Filled,Employee Referral
+79,15,Junior IT Specialist,2022-07-13,2022-08-06,Filled,Agency
+80,1,"Lead, Backend",2022-06-30,2022-08-27,Filled,Career Site
+81,9,"Lead, Sales Development",2022-08-04,2022-08-30,Filled,LinkedIn
+82,2,Junior Frontend Specialist,2022-06-15,2022-08-15,Filled,Employee Referral
+83,17,Mid FP&A Specialist,2022-06-21,2022-08-09,Filled,Employee Referral
+84,3,Junior Platform Specialist,2022-06-22,2022-08-13,Filled,Job Board
+85,7,"Lead, Enterprise Sales",2022-07-30,2022-08-18,Filled,LinkedIn
+86,17,Mid FP&A Specialist,2022-08-01,2022-08-25,Filled,LinkedIn
+87,9,"Manager, Sales Development",2022-07-15,2022-08-26,Filled,Employee Referral
+88,6,"Lead, Product Design",2022-06-18,2022-08-11,Filled,LinkedIn
+89,9,Mid Sales Development Specialist,2022-06-19,2022-08-06,Filled,LinkedIn
+90,7,"Manager, Enterprise Sales",2022-07-10,2022-08-06,Filled,Job Board
+91,8,Senior SMB Sales Specialist,2022-06-28,2022-08-31,Filled,Career Site
+92,7,"Director, Enterprise Sales",2022-07-12,2022-08-23,Filled,LinkedIn
+93,5,"Manager, Product Management",2022-06-06,2022-08-01,Filled,LinkedIn
+94,9,Mid Sales Development Specialist,2022-08-02,2022-08-30,Filled,Job Board
+95,11,"Manager, Brand Marketing",2022-07-15,2022-08-24,Filled,LinkedIn
+96,14,Senior Facilities Specialist,2022-08-12,2022-09-19,Filled,LinkedIn
+97,7,Mid Enterprise Sales Specialist,2022-08-03,2022-09-29,Filled,Agency
+98,18,Senior Talent Acquisition Specialist,2022-08-07,2022-09-06,Filled,Employee Referral
+99,7,Junior Enterprise Sales Specialist,2022-07-29,2022-09-08,Filled,LinkedIn
+100,15,Senior IT Specialist,2022-08-29,2022-09-21,Filled,Employee Referral
+101,14,Mid Facilities Specialist,2022-08-05,2022-09-16,Filled,Employee Referral
+102,7,Mid Enterprise Sales Specialist,2022-08-23,2022-09-15,Filled,Job Board
+103,6,"Lead, Product Design",2022-07-31,2022-09-02,Filled,Employee Referral
+104,17,Junior FP&A Specialist,2022-08-26,2022-09-23,Filled,Career Site
+105,2,"Director, Frontend",2022-07-09,2022-09-03,Filled,LinkedIn
+106,8,Senior SMB Sales Specialist,2022-07-18,2022-09-13,Filled,Employee Referral
+107,8,Senior SMB Sales Specialist,2022-07-15,2022-09-05,Filled,Agency
+108,8,Senior SMB Sales Specialist,2022-07-22,2022-09-16,Filled,Job Board
+109,8,Mid SMB Sales Specialist,2022-09-10,2022-09-29,Filled,LinkedIn
+110,7,"Lead, Enterprise Sales",2022-08-01,2022-09-16,Filled,Job Board
+111,13,Senior Onboarding Specialist,2022-07-31,2022-09-20,Filled,Agency
+112,14,Mid Facilities Specialist,2022-08-04,2022-09-03,Filled,Agency
+113,8,Mid SMB Sales Specialist,2022-08-03,2022-09-30,Filled,Career Site
+114,4,Mid QA Specialist,2022-09-05,2022-10-21,Filled,LinkedIn
+115,9,Senior Sales Development Specialist,2022-09-17,2022-10-19,Filled,Job Board
+116,16,Senior Accounting Specialist,2022-08-17,2022-10-05,Filled,Employee Referral
+117,10,Mid Growth Marketing Specialist,2022-10-08,2022-10-27,Filled,Agency
+118,9,Senior Sales Development Specialist,2022-09-28,2022-10-25,Filled,Employee Referral
+119,13,Junior Onboarding Specialist,2022-08-14,2022-10-10,Filled,Job Board
+120,4,"Manager, QA",2022-08-31,2022-10-19,Filled,LinkedIn
+121,6,Junior Product Design Specialist,2022-10-02,2022-10-22,Filled,Career Site
+122,12,Senior Support Specialist,2022-09-18,2022-10-17,Filled,Employee Referral
+123,9,"Lead, Sales Development",2022-09-19,2022-10-29,Filled,Agency
+124,14,Senior Facilities Specialist,2022-09-24,2022-10-29,Filled,LinkedIn
+125,8,"Lead, SMB Sales",2022-09-05,2022-10-23,Filled,Employee Referral
+126,15,Mid IT Specialist,2022-09-11,2022-10-01,Filled,Agency
+127,5,Junior Product Management Specialist,2022-08-27,2022-10-30,Filled,Job Board
+128,6,"Director, Product Design",2022-09-23,2022-10-20,Filled,Job Board
+129,11,Junior Brand Marketing Specialist,2022-08-28,2022-10-09,Filled,LinkedIn
+130,9,Mid Sales Development Specialist,2022-09-03,2022-10-30,Filled,Employee Referral
+131,9,"Manager, Sales Development",2022-08-25,2022-10-05,Filled,Agency
+132,7,"Lead, Enterprise Sales",2022-09-26,2022-11-09,Filled,Employee Referral
+133,7,Senior Enterprise Sales Specialist,2022-10-05,2022-11-20,Filled,Job Board
+134,18,Junior Talent Acquisition Specialist,2022-10-18,2022-11-08,Filled,LinkedIn
+135,1,"Lead, Backend",2022-10-02,2022-11-23,Filled,LinkedIn
+136,9,"Director, Sales Development",2022-11-04,2022-11-24,Filled,LinkedIn
+137,6,Senior Product Design Specialist,2022-09-24,2022-11-23,Filled,LinkedIn
+138,5,"Director, Product Management",2022-11-08,2022-12-17,Filled,Employee Referral
+139,7,Mid Enterprise Sales Specialist,2022-11-21,2022-12-12,Filled,Job Board
+140,18,Mid Talent Acquisition Specialist,2022-10-28,2022-12-31,Filled,Employee Referral
+141,7,Mid Enterprise Sales Specialist,2022-10-07,2022-12-05,Filled,LinkedIn
+142,7,"Manager, Enterprise Sales",2022-10-30,2022-12-23,Filled,Career Site
+143,9,Senior Sales Development Specialist,2022-11-23,2022-12-31,Filled,Agency
+144,7,"Manager, Enterprise Sales",2022-12-05,2022-12-24,Filled,Job Board
+145,13,Junior Onboarding Specialist,2022-12-14,2023-01-05,Filled,Job Board
+146,9,"Lead, Sales Development",2023-01-07,2023-01-27,Filled,Employee Referral
+147,11,"Manager, Brand Marketing",2022-12-19,2023-01-15,Filled,Employee Referral
+148,17,Junior FP&A Specialist,2022-12-27,2023-01-20,Filled,Employee Referral
+149,2,Junior Frontend Specialist,2022-12-28,2023-01-27,Filled,Employee Referral
+150,4,Senior QA Specialist,2022-11-28,2023-01-22,Filled,LinkedIn
+151,7,Mid Enterprise Sales Specialist,2023-01-05,2023-01-25,Filled,LinkedIn
+152,1,Junior Backend Specialist,2022-11-29,2023-01-16,Filled,Job Board
+153,10,Mid Growth Marketing Specialist,2022-11-15,2023-01-17,Filled,Employee Referral
+154,15,Mid IT Specialist,2022-12-17,2023-01-10,Filled,Job Board
+155,14,Junior Facilities Specialist,2022-12-05,2023-01-22,Filled,Employee Referral
+156,18,Senior Talent Acquisition Specialist,2022-11-16,2023-01-02,Filled,LinkedIn
+157,5,Junior Product Management Specialist,2022-12-19,2023-01-26,Filled,Employee Referral
+158,14,Mid Facilities Specialist,2022-12-10,2023-01-11,Filled,LinkedIn
+159,17,Junior FP&A Specialist,2022-12-06,2023-01-05,Filled,Job Board
+160,7,Senior Enterprise Sales Specialist,2022-12-05,2023-01-02,Filled,Job Board
+161,10,"Lead, Growth Marketing",2022-12-06,2023-01-26,Filled,Employee Referral
+162,8,Mid SMB Sales Specialist,2022-11-21,2023-01-15,Filled,LinkedIn
+163,17,"Director, FP&A",2022-11-30,2023-01-14,Filled,Employee Referral
+164,15,Mid IT Specialist,2022-12-20,2023-01-15,Filled,Employee Referral
+165,19,Mid HR Business Partners Specialist,2022-12-13,2023-01-01,Filled,Career Site
+166,16,Junior Accounting Specialist,2022-11-16,2023-01-13,Filled,LinkedIn
+167,1,"Lead, Backend",2022-12-24,2023-01-14,Filled,Employee Referral
+168,3,Mid Platform Specialist,2022-11-20,2023-01-12,Filled,Job Board
+169,19,Senior HR Business Partners Specialist,2022-11-07,2023-01-08,Filled,LinkedIn
+170,7,Mid Enterprise Sales Specialist,2022-11-21,2023-01-09,Filled,Employee Referral
+171,12,"Lead, Support",2022-12-31,2023-01-22,Filled,LinkedIn
+172,3,Junior Platform Specialist,2022-12-11,2023-01-29,Filled,LinkedIn
+173,11,Mid Brand Marketing Specialist,2023-01-05,2023-02-11,Filled,LinkedIn
+174,9,"Lead, Sales Development",2022-12-15,2023-02-10,Filled,Career Site
+175,19,Senior HR Business Partners Specialist,2023-01-04,2023-02-27,Filled,LinkedIn
+176,5,Senior Product Management Specialist,2023-01-21,2023-02-18,Filled,Employee Referral
+177,8,"Lead, SMB Sales",2022-12-28,2023-02-16,Filled,LinkedIn
+178,17,"Director, FP&A",2023-01-10,2023-02-25,Filled,LinkedIn
+179,8,Junior SMB Sales Specialist,2022-12-18,2023-02-02,Filled,Employee Referral
+180,10,Senior Growth Marketing Specialist,2023-01-15,2023-02-07,Filled,Employee Referral
+181,11,"Director, Brand Marketing",2022-12-15,2023-02-03,Filled,Career Site
+182,4,Mid QA Specialist,2023-01-13,2023-02-28,Filled,Agency
+183,13,"Lead, Onboarding",2023-01-01,2023-02-15,Filled,Job Board
+184,15,Junior IT Specialist,2022-12-27,2023-02-20,Filled,Job Board
+185,8,Mid SMB Sales Specialist,2022-12-29,2023-02-09,Filled,LinkedIn
+186,15,"Lead, IT",2023-01-23,2023-02-10,Filled,LinkedIn
+187,15,Junior IT Specialist,2023-01-12,2023-02-16,Filled,Employee Referral
+188,13,Mid Onboarding Specialist,2023-01-25,2023-02-19,Filled,Employee Referral
+189,5,Junior Product Management Specialist,2022-12-23,2023-02-02,Filled,Employee Referral
+190,7,Senior Enterprise Sales Specialist,2022-12-23,2023-02-17,Filled,Job Board
+191,15,"Lead, IT",2022-12-29,2023-02-22,Filled,Employee Referral
+192,4,Mid QA Specialist,2023-01-14,2023-02-10,Filled,Employee Referral
+193,10,"Manager, Growth Marketing",2023-02-01,2023-02-27,Filled,Career Site
+194,7,Junior Enterprise Sales Specialist,2023-01-06,2023-02-12,Filled,LinkedIn
+195,4,Junior QA Specialist,2023-01-09,2023-02-23,Filled,Job Board
+196,1,"Lead, Backend",2022-12-30,2023-02-16,Filled,LinkedIn
+197,2,Junior Frontend Specialist,2023-01-23,2023-02-22,Filled,LinkedIn
+198,3,"Lead, Platform",2022-12-26,2023-02-28,Filled,Job Board
+199,15,Junior IT Specialist,2023-01-04,2023-02-25,Filled,LinkedIn
+200,4,Mid QA Specialist,2023-02-12,2023-03-04,Filled,LinkedIn
+201,8,Senior SMB Sales Specialist,2023-01-30,2023-03-15,Filled,LinkedIn
+202,16,"Lead, Accounting",2023-02-08,2023-03-29,Filled,Job Board
+203,9,Junior Sales Development Specialist,2023-01-16,2023-03-22,Filled,Career Site
+204,8,Mid SMB Sales Specialist,2023-01-31,2023-03-07,Filled,Job Board
+205,18,Mid Talent Acquisition Specialist,2023-02-16,2023-03-12,Filled,LinkedIn
+206,6,Junior Product Design Specialist,2023-03-12,2023-03-31,Filled,Career Site
+207,11,Mid Brand Marketing Specialist,2023-01-15,2023-03-05,Filled,Job Board
+208,11,Mid Brand Marketing Specialist,2023-02-24,2023-03-16,Filled,Career Site
+209,8,Mid SMB Sales Specialist,2023-02-19,2023-03-28,Filled,Agency
+210,8,Senior SMB Sales Specialist,2023-01-16,2023-03-10,Filled,Job Board
+211,9,Mid Sales Development Specialist,2023-01-25,2023-03-06,Filled,Job Board
+212,2,Junior Frontend Specialist,2023-01-20,2023-03-19,Filled,LinkedIn
+213,7,Mid Enterprise Sales Specialist,2023-01-16,2023-03-12,Filled,LinkedIn
+214,3,Junior Platform Specialist,2023-01-21,2023-03-06,Filled,LinkedIn
+215,1,Mid Backend Specialist,2023-01-09,2023-03-11,Filled,LinkedIn
+216,15,Mid IT Specialist,2023-02-28,2023-03-22,Filled,Agency
+217,7,"Director, Enterprise Sales",2023-02-15,2023-03-10,Filled,Job Board
+218,7,Senior Enterprise Sales Specialist,2023-01-25,2023-03-03,Filled,Employee Referral
+219,11,Junior Brand Marketing Specialist,2023-01-17,2023-03-11,Filled,LinkedIn
+220,12,Junior Support Specialist,2023-01-29,2023-03-28,Filled,Employee Referral
+221,7,Senior Enterprise Sales Specialist,2023-03-09,2023-04-25,Filled,Career Site
+222,17,Senior FP&A Specialist,2023-02-20,2023-04-05,Filled,Employee Referral
+223,9,"Manager, Sales Development",2023-04-01,2023-04-26,Filled,Employee Referral
+224,7,"Lead, Enterprise Sales",2023-03-05,2023-04-06,Filled,Job Board
+225,18,Junior Talent Acquisition Specialist,2023-03-02,2023-04-12,Filled,LinkedIn
+226,12,Junior Support Specialist,2023-03-08,2023-04-07,Filled,Job Board
+227,9,Junior Sales Development Specialist,2023-03-20,2023-04-24,Filled,LinkedIn
+228,11,Mid Brand Marketing Specialist,2023-02-20,2023-04-20,Filled,LinkedIn
+229,16,Mid Accounting Specialist,2023-03-13,2023-04-14,Filled,LinkedIn
+230,8,Mid SMB Sales Specialist,2023-01-26,2023-04-01,Filled,LinkedIn
+231,17,Junior FP&A Specialist,2023-02-21,2023-04-07,Filled,Agency
+232,7,Mid Enterprise Sales Specialist,2023-03-14,2023-04-16,Filled,Career Site
+233,10,Junior Growth Marketing Specialist,2023-03-24,2023-04-19,Filled,LinkedIn
+234,7,Mid Enterprise Sales Specialist,2023-03-10,2023-04-21,Filled,Employee Referral
+235,16,Senior Accounting Specialist,2023-02-28,2023-04-26,Filled,LinkedIn
+236,9,Junior Sales Development Specialist,2023-03-20,2023-04-19,Filled,Career Site
+237,9,Mid Sales Development Specialist,2023-03-17,2023-04-12,Filled,LinkedIn
+238,18,Mid Talent Acquisition Specialist,2023-03-15,2023-04-25,Filled,Career Site
+239,6,"Lead, Product Design",2023-03-28,2023-04-27,Filled,Job Board
+240,11,Senior Brand Marketing Specialist,2023-03-15,2023-04-23,Filled,Job Board
+241,5,"Manager, Product Management",2023-02-12,2023-04-15,Filled,LinkedIn
+242,9,"Manager, Sales Development",2023-04-07,2023-04-25,Filled,Employee Referral
+243,1,Junior Backend Specialist,2023-03-16,2023-04-04,Filled,LinkedIn
+244,6,Senior Product Design Specialist,2023-03-11,2023-04-09,Filled,Agency
+245,19,Mid HR Business Partners Specialist,2023-04-01,2023-05-08,Filled,Employee Referral
+246,9,Senior Sales Development Specialist,2023-04-25,2023-05-23,Filled,LinkedIn
+247,7,Senior Enterprise Sales Specialist,2023-04-04,2023-05-24,Filled,Job Board
+248,8,Mid SMB Sales Specialist,2023-03-22,2023-05-24,Filled,Employee Referral
+249,14,Mid Facilities Specialist,2023-04-24,2023-05-17,Filled,Career Site
+250,16,Junior Accounting Specialist,2023-04-15,2023-05-21,Filled,Employee Referral
+251,19,Senior HR Business Partners Specialist,2023-03-23,2023-05-14,Filled,Job Board
+252,10,"Lead, Growth Marketing",2023-04-27,2023-05-30,Filled,Career Site
+253,8,Senior SMB Sales Specialist,2023-03-27,2023-05-06,Filled,Career Site
+254,8,"Director, SMB Sales",2023-04-17,2023-05-12,Filled,LinkedIn
+255,7,Senior Enterprise Sales Specialist,2023-04-11,2023-05-01,Filled,Career Site
+256,7,Mid Enterprise Sales Specialist,2023-04-21,2023-05-20,Filled,Employee Referral
+257,8,Junior SMB Sales Specialist,2023-03-08,2023-05-07,Filled,LinkedIn
+258,8,Mid SMB Sales Specialist,2023-03-13,2023-05-12,Filled,Agency
+259,7,Junior Enterprise Sales Specialist,2023-03-31,2023-05-14,Filled,Job Board
+260,11,Mid Brand Marketing Specialist,2023-03-31,2023-05-31,Filled,Job Board
+261,9,"Lead, Sales Development",2023-05-04,2023-05-30,Filled,LinkedIn
+262,6,"Lead, Product Design",2023-04-16,2023-05-22,Filled,Employee Referral
+263,10,Mid Growth Marketing Specialist,2023-03-23,2023-05-24,Filled,LinkedIn
+264,8,"Lead, SMB Sales",2023-04-30,2023-05-26,Filled,Employee Referral
+265,18,Junior Talent Acquisition Specialist,2023-04-07,2023-05-14,Filled,Job Board
+266,13,Mid Onboarding Specialist,2023-04-19,2023-06-07,Filled,Employee Referral
+267,3,Senior Platform Specialist,2023-04-07,2023-06-01,Filled,Employee Referral
+268,11,Senior Brand Marketing Specialist,2023-05-18,2023-06-07,Filled,Employee Referral
+269,12,Junior Support Specialist,2023-06-03,2023-06-30,Filled,LinkedIn
+270,9,"Manager, Sales Development",2023-05-18,2023-06-09,Filled,Employee Referral
+271,9,"Director, Sales Development",2023-04-22,2023-06-23,Filled,LinkedIn
+272,12,Mid Support Specialist,2023-05-17,2023-06-28,Filled,Employee Referral
+273,5,Senior Product Management Specialist,2023-04-16,2023-06-06,Filled,LinkedIn
+274,12,Junior Support Specialist,2023-05-22,2023-06-18,Filled,Career Site
+275,7,Junior Enterprise Sales Specialist,2023-05-17,2023-06-26,Filled,Job Board
+276,3,"Manager, Platform",2023-06-02,2023-06-23,Filled,Job Board
+277,6,Junior Product Design Specialist,2023-04-08,2023-06-09,Filled,Employee Referral
+278,10,Junior Growth Marketing Specialist,2023-05-06,2023-06-18,Filled,LinkedIn
+279,13,Junior Onboarding Specialist,2023-05-14,2023-06-12,Filled,LinkedIn
+280,5,Junior Product Management Specialist,2023-05-19,2023-06-10,Filled,LinkedIn
+281,8,"Director, SMB Sales",2023-06-03,2023-06-21,Filled,Job Board
+282,1,Junior Backend Specialist,2023-04-30,2023-06-27,Filled,Employee Referral
+283,9,Mid Sales Development Specialist,2023-05-21,2023-06-27,Filled,LinkedIn
+284,2,Mid Frontend Specialist,2023-05-30,2023-06-23,Filled,Employee Referral
+285,1,Junior Backend Specialist,2023-04-08,2023-06-08,Filled,Employee Referral
+286,5,Mid Product Management Specialist,2023-05-12,2023-06-04,Filled,Agency
+287,8,Senior SMB Sales Specialist,2023-05-06,2023-06-11,Filled,LinkedIn
+288,17,Mid FP&A Specialist,2023-05-26,2023-06-22,Filled,Job Board
+289,9,"Lead, Sales Development",2023-06-15,2023-07-07,Filled,Employee Referral
+290,9,"Lead, Sales Development",2023-05-14,2023-07-05,Filled,LinkedIn
+291,18,Mid Talent Acquisition Specialist,2023-06-17,2023-07-09,Filled,Employee Referral
+292,18,Mid Talent Acquisition Specialist,2023-06-13,2023-07-17,Filled,Job Board
+293,8,Mid SMB Sales Specialist,2023-05-08,2023-07-07,Filled,Career Site
+294,9,"Manager, Sales Development",2023-05-30,2023-07-26,Filled,Career Site
+295,7,Junior Enterprise Sales Specialist,2023-05-26,2023-07-02,Filled,Job Board
+296,18,"Lead, Talent Acquisition",2023-04-27,2023-07-01,Filled,LinkedIn
+297,8,Senior SMB Sales Specialist,2023-06-18,2023-07-13,Filled,Agency
+298,5,"Manager, Product Management",2023-05-10,2023-07-14,Filled,Job Board
+299,16,"Lead, Accounting",2023-05-31,2023-07-08,Filled,LinkedIn
+300,4,Mid QA Specialist,2023-06-12,2023-07-13,Filled,Employee Referral
+301,8,"Manager, SMB Sales",2023-06-02,2023-07-10,Filled,Job Board
+302,7,Senior Enterprise Sales Specialist,2023-05-24,2023-07-14,Filled,LinkedIn
+303,8,"Lead, SMB Sales",2023-07-02,2023-07-27,Filled,LinkedIn
+304,7,Mid Enterprise Sales Specialist,2023-06-01,2023-07-13,Filled,Employee Referral
+305,6,Senior Product Design Specialist,2023-06-17,2023-07-06,Filled,Career Site
+306,15,Junior IT Specialist,2023-06-04,2023-07-19,Filled,Job Board
+307,9,Senior Sales Development Specialist,2023-06-07,2023-07-31,Filled,Job Board
+308,19,"Lead, HR Business Partners",2023-06-10,2023-07-15,Filled,LinkedIn
+309,7,Mid Enterprise Sales Specialist,2023-05-24,2023-07-19,Filled,LinkedIn
+310,11,Mid Brand Marketing Specialist,2023-07-07,2023-07-27,Filled,Career Site
+311,6,Senior Product Design Specialist,2023-08-11,2023-08-31,Filled,Job Board
+312,2,Junior Frontend Specialist,2023-06-15,2023-08-15,Filled,Employee Referral
+313,4,Senior QA Specialist,2023-07-06,2023-08-11,Filled,Job Board
+314,2,Junior Frontend Specialist,2023-06-26,2023-08-30,Filled,Employee Referral
+315,8,Junior SMB Sales Specialist,2023-07-28,2023-08-19,Filled,Career Site
+316,9,Senior Sales Development Specialist,2023-06-24,2023-08-19,Filled,Employee Referral
+317,7,Senior Enterprise Sales Specialist,2023-07-20,2023-08-27,Filled,Job Board
+318,7,"Manager, Enterprise Sales",2023-07-14,2023-08-24,Filled,Job Board
+319,14,Senior Facilities Specialist,2023-06-09,2023-08-08,Filled,LinkedIn
+320,7,Junior Enterprise Sales Specialist,2023-07-05,2023-08-04,Filled,Agency
+321,5,Mid Product Management Specialist,2023-06-30,2023-08-14,Filled,LinkedIn
+322,4,Senior QA Specialist,2023-07-26,2023-08-28,Filled,Job Board
+323,17,Mid FP&A Specialist,2023-07-14,2023-08-29,Filled,Career Site
+324,15,"Lead, IT",2023-06-21,2023-08-10,Filled,LinkedIn
+325,9,Senior Sales Development Specialist,2023-07-18,2023-08-22,Filled,Career Site
+326,7,Junior Enterprise Sales Specialist,2023-07-15,2023-08-11,Filled,LinkedIn
+327,9,"Manager, Sales Development",2023-07-15,2023-08-19,Filled,Employee Referral
+328,7,Mid Enterprise Sales Specialist,2023-07-08,2023-08-30,Filled,Agency
+329,9,"Manager, Sales Development",2023-06-27,2023-08-02,Filled,Career Site
+330,8,"Lead, SMB Sales",2023-06-21,2023-08-05,Filled,Employee Referral
+331,19,Senior HR Business Partners Specialist,2023-07-17,2023-08-24,Filled,LinkedIn
+332,8,Mid SMB Sales Specialist,2023-06-22,2023-08-24,Filled,Job Board
+333,10,Junior Growth Marketing Specialist,2023-08-21,2023-09-23,Filled,Job Board
+334,11,"Manager, Brand Marketing",2023-07-25,2023-09-06,Filled,Employee Referral
+335,3,"Director, Platform",2023-07-06,2023-09-04,Filled,Employee Referral
+336,18,Junior Talent Acquisition Specialist,2023-08-04,2023-09-22,Filled,Job Board
+337,7,Junior Enterprise Sales Specialist,2023-08-10,2023-09-17,Filled,Employee Referral
+338,8,Junior SMB Sales Specialist,2023-08-24,2023-09-30,Filled,Employee Referral
+339,16,Junior Accounting Specialist,2023-08-30,2023-09-18,Filled,Career Site
+340,3,Mid Platform Specialist,2023-08-03,2023-09-23,Filled,LinkedIn
+341,15,"Lead, IT",2023-08-13,2023-09-13,Filled,Employee Referral
+342,1,"Lead, Backend",2023-07-27,2023-09-01,Filled,LinkedIn
+343,14,Junior Facilities Specialist,2023-07-05,2023-09-08,Filled,Agency
+344,2,Senior Frontend Specialist,2023-08-28,2023-09-24,Filled,LinkedIn
+345,15,Mid IT Specialist,2023-08-12,2023-09-28,Filled,LinkedIn
+346,9,Mid Sales Development Specialist,2023-08-08,2023-09-13,Filled,Career Site
+347,1,Senior Backend Specialist,2023-07-24,2023-09-16,Filled,Career Site
+348,8,Senior SMB Sales Specialist,2023-08-23,2023-09-16,Filled,Employee Referral
+349,9,Junior Sales Development Specialist,2023-08-13,2023-09-03,Filled,Job Board
+350,7,"Lead, Enterprise Sales",2023-08-07,2023-09-11,Filled,Job Board
+351,9,Mid Sales Development Specialist,2023-07-19,2023-09-21,Filled,LinkedIn
+352,12,Junior Support Specialist,2023-07-29,2023-09-13,Filled,Agency
+353,17,Junior FP&A Specialist,2023-08-29,2023-09-16,Filled,LinkedIn
+354,16,Senior Accounting Specialist,2023-09-12,2023-10-25,Filled,LinkedIn
+355,8,Senior SMB Sales Specialist,2023-08-29,2023-10-05,Filled,LinkedIn
+356,13,Junior Onboarding Specialist,2023-09-07,2023-10-05,Filled,Job Board
+357,5,Mid Product Management Specialist,2023-08-23,2023-10-27,Filled,Employee Referral
+358,8,Mid SMB Sales Specialist,2023-09-28,2023-10-22,Filled,Job Board
+359,11,"Lead, Brand Marketing",2023-09-20,2023-10-10,Filled,Employee Referral
+360,10,Senior Growth Marketing Specialist,2023-08-11,2023-10-14,Filled,Job Board
+361,16,Mid Accounting Specialist,2023-09-17,2023-10-22,Filled,Agency
+362,11,Mid Brand Marketing Specialist,2023-08-23,2023-10-11,Filled,LinkedIn
+363,9,Mid Sales Development Specialist,2023-09-01,2023-10-22,Filled,Agency
+364,10,"Lead, Growth Marketing",2023-08-25,2023-10-19,Filled,Job Board
+365,12,Mid Support Specialist,2023-08-05,2023-10-02,Filled,Job Board
+366,17,Senior FP&A Specialist,2023-08-24,2023-10-07,Filled,Agency
+367,7,Mid Enterprise Sales Specialist,2023-08-21,2023-10-22,Filled,Career Site
+368,6,"Manager, Product Design",2023-09-26,2023-10-25,Filled,Agency
+369,7,Senior Enterprise Sales Specialist,2023-09-25,2023-10-18,Filled,Job Board
+370,9,"Lead, Sales Development",2023-08-21,2023-10-06,Filled,Agency
+371,7,Junior Enterprise Sales Specialist,2023-08-12,2023-10-04,Filled,Employee Referral
+372,17,Senior FP&A Specialist,2023-10-12,2023-11-21,Filled,LinkedIn
+373,13,Junior Onboarding Specialist,2023-10-07,2023-11-25,Filled,Job Board
+374,7,Junior Enterprise Sales Specialist,2023-09-16,2023-11-03,Filled,LinkedIn
+375,14,Mid Facilities Specialist,2023-09-28,2023-11-28,Filled,Job Board
+376,9,Mid Sales Development Specialist,2023-10-12,2023-11-15,Filled,Employee Referral
+377,17,"Lead, FP&A",2023-10-14,2023-11-10,Filled,Career Site
+378,9,Junior Sales Development Specialist,2023-09-30,2023-11-08,Filled,Agency
+379,12,Senior Support Specialist,2023-10-01,2023-11-26,Filled,Employee Referral
+380,8,Mid SMB Sales Specialist,2023-10-19,2023-11-23,Filled,Employee Referral
+381,2,"Manager, Frontend",2023-10-14,2023-11-09,Filled,LinkedIn
+382,3,Mid Platform Specialist,2023-11-19,2023-12-22,Filled,Agency
+383,11,Mid Brand Marketing Specialist,2023-11-24,2023-12-16,Filled,LinkedIn
+384,4,Junior QA Specialist,2023-11-14,2023-12-25,Filled,Career Site
+385,2,Junior Frontend Specialist,2023-11-03,2023-12-14,Filled,Employee Referral
+386,17,Senior FP&A Specialist,2023-10-21,2023-12-16,Filled,Employee Referral
+387,8,Mid SMB Sales Specialist,2023-11-11,2023-12-01,Filled,Employee Referral
+388,8,"Director, SMB Sales",2023-11-19,2023-12-26,Filled,Agency
+389,8,"Lead, SMB Sales",2023-12-26,2024-01-14,Filled,Job Board
+390,7,Mid Enterprise Sales Specialist,2023-12-28,2024-01-23,Filled,Employee Referral
+391,12,Mid Support Specialist,2023-12-02,2024-01-02,Filled,Career Site
+392,15,Senior IT Specialist,2023-12-17,2024-01-09,Filled,LinkedIn
+393,8,"Lead, SMB Sales",2023-12-02,2024-01-29,Filled,Job Board
+394,4,Mid QA Specialist,2023-12-29,2024-01-21,Filled,Career Site
+395,19,Mid HR Business Partners Specialist,2023-12-06,2024-01-04,Filled,LinkedIn
+396,9,"Lead, Sales Development",2023-12-24,2024-01-11,Filled,LinkedIn
+397,8,Mid SMB Sales Specialist,2023-12-10,2024-01-23,Filled,Career Site
+398,8,Mid SMB Sales Specialist,2023-12-06,2024-01-26,Filled,Job Board
+399,9,Mid Sales Development Specialist,2023-11-25,2024-01-08,Filled,LinkedIn
+400,10,Junior Growth Marketing Specialist,2023-12-25,2024-01-17,Filled,LinkedIn
+401,13,Mid Onboarding Specialist,2023-12-16,2024-01-24,Filled,LinkedIn
+402,8,"Lead, SMB Sales",2024-01-07,2024-01-26,Filled,Career Site
+403,9,Mid Sales Development Specialist,2023-12-11,2024-01-07,Filled,Job Board
+404,18,Junior Talent Acquisition Specialist,2023-11-23,2024-01-07,Filled,Employee Referral
+405,9,Senior Sales Development Specialist,2023-11-20,2024-01-16,Filled,LinkedIn
+406,13,Junior Onboarding Specialist,2023-12-03,2024-01-02,Filled,LinkedIn
+407,16,Senior Accounting Specialist,2023-12-04,2024-01-30,Filled,Job Board
+408,11,Senior Brand Marketing Specialist,2023-11-22,2024-01-15,Filled,Employee Referral
+409,7,"Manager, Enterprise Sales",2023-11-11,2024-01-06,Filled,Job Board
+410,9,"Manager, Sales Development",2023-11-09,2024-01-13,Filled,Job Board
+411,17,Junior FP&A Specialist,2023-12-02,2024-01-10,Filled,Employee Referral
+412,14,Mid Facilities Specialist,2023-12-28,2024-01-29,Filled,LinkedIn
+413,8,"Director, SMB Sales",2023-11-26,2024-01-18,Filled,Employee Referral
+414,3,Mid Platform Specialist,2023-11-22,2024-01-25,Filled,LinkedIn
+415,11,"Manager, Brand Marketing",2023-12-15,2024-01-20,Filled,Agency
+416,17,"Director, FP&A",2023-12-08,2024-01-04,Filled,Employee Referral
+417,11,Senior Brand Marketing Specialist,2023-12-01,2024-01-14,Filled,Job Board
+418,9,Mid Sales Development Specialist,2023-12-18,2024-01-26,Filled,Career Site
+419,9,Junior Sales Development Specialist,2024-01-12,2024-02-03,Filled,Employee Referral
+420,11,Mid Brand Marketing Specialist,2024-01-05,2024-02-03,Filled,Agency
+421,18,Mid Talent Acquisition Specialist,2024-01-17,2024-02-21,Filled,LinkedIn
+422,8,Mid SMB Sales Specialist,2023-12-28,2024-02-10,Filled,Job Board
+423,1,Junior Backend Specialist,2024-02-05,2024-02-26,Filled,Career Site
+424,1,Senior Backend Specialist,2024-01-16,2024-02-17,Filled,LinkedIn
+425,7,Junior Enterprise Sales Specialist,2024-01-06,2024-02-06,Filled,Agency
+426,3,Junior Platform Specialist,2024-01-01,2024-02-20,Filled,Career Site
+427,8,Senior SMB Sales Specialist,2023-12-20,2024-02-18,Filled,Employee Referral
+428,9,"Director, Sales Development",2024-01-05,2024-02-24,Filled,LinkedIn
+429,7,Mid Enterprise Sales Specialist,2023-12-12,2024-02-02,Filled,LinkedIn
+430,13,Senior Onboarding Specialist,2023-12-29,2024-02-16,Filled,Agency
+431,10,Mid Growth Marketing Specialist,2023-12-22,2024-02-09,Filled,Job Board
+432,13,"Lead, Onboarding",2024-01-21,2024-02-28,Filled,Employee Referral
+433,9,"Manager, Sales Development",2023-12-19,2024-02-15,Filled,Employee Referral
+434,8,Mid SMB Sales Specialist,2024-01-06,2024-02-02,Filled,Agency
+435,14,Senior Facilities Specialist,2024-01-04,2024-02-13,Filled,LinkedIn
+436,19,"Manager, HR Business Partners",2023-12-23,2024-02-22,Filled,LinkedIn
+437,2,"Lead, Frontend",2024-01-09,2024-02-21,Filled,Career Site
+438,9,Senior Sales Development Specialist,2024-01-04,2024-02-25,Filled,Agency
+439,17,"Lead, FP&A",2023-12-12,2024-02-02,Filled,Employee Referral
+440,19,Junior HR Business Partners Specialist,2024-01-30,2024-02-21,Filled,Job Board
+441,8,Mid SMB Sales Specialist,2024-01-20,2024-02-18,Filled,LinkedIn
+442,8,Senior SMB Sales Specialist,2024-01-16,2024-02-07,Filled,Career Site
+443,10,Mid Growth Marketing Specialist,2023-12-14,2024-02-15,Filled,Agency
+444,9,Mid Sales Development Specialist,2024-01-20,2024-02-07,Filled,Employee Referral
+445,10,Mid Growth Marketing Specialist,2023-12-28,2024-02-08,Filled,Employee Referral
+446,8,Junior SMB Sales Specialist,2023-11-29,2024-02-02,Filled,LinkedIn
+447,5,Mid Product Management Specialist,2024-01-31,2024-03-25,Filled,LinkedIn
+448,6,Senior Product Design Specialist,2024-01-14,2024-03-17,Filled,Employee Referral
+449,18,Mid Talent Acquisition Specialist,2024-01-27,2024-03-16,Filled,Job Board
+450,6,Mid Product Design Specialist,2024-02-11,2024-03-07,Filled,Career Site
+451,2,"Lead, Frontend",2024-02-05,2024-03-17,Filled,LinkedIn
+452,7,Junior Enterprise Sales Specialist,2024-02-13,2024-03-15,Filled,Agency
+453,16,Junior Accounting Specialist,2024-01-20,2024-03-17,Filled,LinkedIn
+454,16,Junior Accounting Specialist,2024-01-29,2024-03-26,Filled,Employee Referral
+455,9,Senior Sales Development Specialist,2024-02-12,2024-03-16,Filled,Agency
+456,5,"Manager, Product Management",2024-01-10,2024-03-05,Filled,Employee Referral
+457,8,"Manager, SMB Sales",2024-01-05,2024-03-10,Filled,Agency
+458,10,Senior Growth Marketing Specialist,2024-02-27,2024-03-24,Filled,LinkedIn
+459,15,"Director, IT",2024-02-23,2024-03-14,Filled,LinkedIn
+460,10,Senior Growth Marketing Specialist,2024-02-23,2024-03-19,Filled,Job Board
+461,6,Mid Product Design Specialist,2024-02-11,2024-03-11,Filled,Job Board
+462,7,Senior Enterprise Sales Specialist,2024-01-15,2024-03-17,Filled,Career Site
+463,8,"Lead, SMB Sales",2024-01-31,2024-03-21,Filled,Career Site
+464,7,"Manager, Enterprise Sales",2024-03-07,2024-03-31,Filled,Job Board
+465,4,Junior QA Specialist,2024-01-15,2024-03-20,Filled,LinkedIn
+466,7,Mid Enterprise Sales Specialist,2024-02-10,2024-03-09,Filled,Job Board
+467,12,Mid Support Specialist,2024-02-10,2024-03-22,Filled,Employee Referral
+468,4,"Manager, QA",2024-01-05,2024-03-05,Filled,Job Board
+469,9,Junior Sales Development Specialist,2024-02-28,2024-03-24,Filled,Job Board
+470,8,Junior SMB Sales Specialist,2024-02-17,2024-03-07,Filled,LinkedIn
+471,6,Mid Product Design Specialist,2024-03-14,2024-04-01,Filled,LinkedIn
+472,2,"Director, Frontend",2024-03-02,2024-04-07,Filled,LinkedIn
+473,9,Junior Sales Development Specialist,2024-03-28,2024-04-21,Filled,LinkedIn
+474,1,"Manager, Backend",2024-03-08,2024-04-29,Filled,Employee Referral
+475,7,Junior Enterprise Sales Specialist,2024-03-06,2024-04-01,Filled,Job Board
+476,17,"Manager, FP&A",2024-02-19,2024-04-11,Filled,Employee Referral
+477,5,Senior Product Management Specialist,2024-03-22,2024-04-24,Filled,Employee Referral
+478,17,Mid FP&A Specialist,2024-02-18,2024-04-05,Filled,Agency
+479,17,Junior FP&A Specialist,2024-03-05,2024-04-04,Filled,Employee Referral
+480,11,Senior Brand Marketing Specialist,2024-02-29,2024-04-20,Filled,Employee Referral
+481,1,Senior Backend Specialist,2024-03-02,2024-04-12,Filled,LinkedIn
+482,9,Senior Sales Development Specialist,2024-03-18,2024-04-11,Filled,Employee Referral
+483,2,Mid Frontend Specialist,2024-03-25,2024-04-25,Filled,LinkedIn
+484,18,"Manager, Talent Acquisition",2024-03-11,2024-04-17,Filled,Agency
+485,4,"Lead, QA",2024-03-19,2024-04-24,Filled,Employee Referral
+486,11,Junior Brand Marketing Specialist,2024-02-01,2024-04-05,Filled,LinkedIn
+487,8,Senior SMB Sales Specialist,2024-02-07,2024-04-12,Filled,LinkedIn
+488,6,Mid Product Design Specialist,2024-02-13,2024-04-02,Filled,Employee Referral
+489,16,Mid Accounting Specialist,2024-02-24,2024-04-08,Filled,LinkedIn
+490,7,Junior Enterprise Sales Specialist,2024-02-21,2024-04-07,Filled,Employee Referral
+491,17,Senior FP&A Specialist,2024-02-08,2024-04-04,Filled,LinkedIn
+492,7,Senior Enterprise Sales Specialist,2024-04-09,2024-04-28,Filled,LinkedIn
+493,10,Junior Growth Marketing Specialist,2024-03-26,2024-04-13,Filled,Employee Referral
+494,9,"Director, Sales Development",2024-03-23,2024-04-12,Filled,Employee Referral
+495,3,"Lead, Platform",2024-03-14,2024-04-17,Filled,LinkedIn
+496,19,"Director, HR Business Partners",2024-02-19,2024-04-13,Filled,Employee Referral
+497,11,Junior Brand Marketing Specialist,2024-03-19,2024-04-13,Filled,LinkedIn
+498,6,Senior Product Design Specialist,2024-03-18,2024-04-14,Filled,LinkedIn
+499,10,"Manager, Growth Marketing",2024-04-19,2024-05-30,Filled,LinkedIn
+500,9,"Lead, Sales Development",2024-03-19,2024-05-08,Filled,Employee Referral
+501,8,Junior SMB Sales Specialist,2024-03-20,2024-05-24,Filled,LinkedIn
+502,2,"Manager, Frontend",2024-03-10,2024-05-08,Filled,Agency
+503,7,Junior Enterprise Sales Specialist,2024-03-25,2024-05-14,Filled,Job Board
+504,7,Junior Enterprise Sales Specialist,2024-04-20,2024-05-29,Filled,Career Site
+505,8,Junior SMB Sales Specialist,2024-03-18,2024-05-13,Filled,Employee Referral
+506,7,Senior Enterprise Sales Specialist,2024-04-11,2024-05-26,Filled,LinkedIn
+507,11,Senior Brand Marketing Specialist,2024-04-04,2024-05-03,Filled,Employee Referral
+508,8,Mid SMB Sales Specialist,2024-03-21,2024-05-08,Filled,Employee Referral
+509,16,Senior Accounting Specialist,2024-03-28,2024-05-18,Filled,LinkedIn
+510,2,Senior Frontend Specialist,2024-04-15,2024-05-23,Filled,Job Board
+511,9,Senior Sales Development Specialist,2024-05-02,2024-05-27,Filled,LinkedIn
+512,9,Junior Sales Development Specialist,2024-03-18,2024-05-07,Filled,Agency
+513,7,Mid Enterprise Sales Specialist,2024-03-16,2024-05-09,Filled,Employee Referral
+514,9,Senior Sales Development Specialist,2024-04-04,2024-05-09,Filled,Career Site
+515,16,"Director, Accounting",2024-04-16,2024-05-25,Filled,Employee Referral
+516,16,Mid Accounting Specialist,2024-03-12,2024-05-04,Filled,Career Site
+517,15,Mid IT Specialist,2024-04-06,2024-05-27,Filled,Career Site
+518,9,Senior Sales Development Specialist,2024-04-09,2024-05-15,Filled,Job Board
+519,15,Mid IT Specialist,2024-03-25,2024-05-04,Filled,LinkedIn
+520,5,Mid Product Management Specialist,2024-04-13,2024-05-05,Filled,Job Board
+521,17,Junior FP&A Specialist,2024-04-15,2024-05-20,Filled,LinkedIn
+522,12,Senior Support Specialist,2024-04-20,2024-05-23,Filled,Agency
+523,10,Senior Growth Marketing Specialist,2024-04-01,2024-05-23,Filled,Career Site
+524,13,Mid Onboarding Specialist,2024-04-19,2024-05-18,Filled,LinkedIn
+525,9,Mid Sales Development Specialist,2024-05-19,2024-06-07,Filled,LinkedIn
+526,4,Senior QA Specialist,2024-06-03,2024-06-26,Filled,LinkedIn
+527,8,Junior SMB Sales Specialist,2024-04-17,2024-06-06,Filled,Employee Referral
+528,8,Junior SMB Sales Specialist,2024-04-03,2024-06-05,Filled,Job Board
+529,19,Senior HR Business Partners Specialist,2024-05-02,2024-06-04,Filled,Employee Referral
+530,13,"Lead, Onboarding",2024-05-23,2024-06-10,Filled,LinkedIn
+531,17,"Lead, FP&A",2024-05-03,2024-06-09,Filled,Job Board
+532,17,Senior FP&A Specialist,2024-05-06,2024-06-13,Filled,LinkedIn
+533,8,Mid SMB Sales Specialist,2024-05-12,2024-06-21,Filled,Agency
+534,9,Mid Sales Development Specialist,2024-04-13,2024-06-04,Filled,Employee Referral
+535,15,"Manager, IT",2024-05-15,2024-06-18,Filled,Employee Referral
+536,11,Junior Brand Marketing Specialist,2024-04-29,2024-06-05,Filled,Employee Referral
+537,13,"Lead, Onboarding",2024-04-19,2024-06-15,Filled,Agency
+538,8,Junior SMB Sales Specialist,2024-04-25,2024-06-02,Filled,Career Site
+539,7,Mid Enterprise Sales Specialist,2024-04-24,2024-06-14,Filled,Employee Referral
+540,5,"Lead, Product Management",2024-05-05,2024-06-23,Filled,Job Board
+541,7,Junior Enterprise Sales Specialist,2024-04-19,2024-06-11,Filled,Employee Referral
+542,13,Mid Onboarding Specialist,2024-05-19,2024-06-13,Filled,Employee Referral
+543,9,"Lead, Sales Development",2024-05-26,2024-06-28,Filled,LinkedIn
+544,6,Junior Product Design Specialist,2024-05-17,2024-07-02,Filled,LinkedIn
+545,9,Mid Sales Development Specialist,2024-06-09,2024-07-01,Filled,Career Site
+546,15,Mid IT Specialist,2024-05-13,2024-07-14,Filled,Employee Referral
+547,9,"Director, Sales Development",2024-06-03,2024-07-08,Filled,Employee Referral
+548,1,Junior Backend Specialist,2024-07-04,2024-07-27,Filled,Job Board
+549,17,Mid FP&A Specialist,2024-06-02,2024-07-15,Filled,LinkedIn
+550,1,Junior Backend Specialist,2024-06-03,2024-07-10,Filled,LinkedIn
+551,19,Senior HR Business Partners Specialist,2024-06-07,2024-07-08,Filled,Employee Referral
+552,14,Senior Facilities Specialist,2024-06-19,2024-07-24,Filled,Job Board
+553,8,Junior SMB Sales Specialist,2024-06-06,2024-07-18,Filled,LinkedIn
+554,10,Junior Growth Marketing Specialist,2024-06-28,2024-07-28,Filled,Job Board
+555,7,Mid Enterprise Sales Specialist,2024-05-12,2024-07-01,Filled,Job Board
+556,9,"Director, Sales Development",2024-04-29,2024-07-02,Filled,Agency
+557,2,Senior Frontend Specialist,2024-05-16,2024-07-07,Filled,LinkedIn
+558,2,"Lead, Frontend",2024-05-24,2024-07-06,Filled,LinkedIn
+559,11,Junior Brand Marketing Specialist,2024-05-19,2024-07-06,Filled,Employee Referral
+560,12,Mid Support Specialist,2024-06-10,2024-07-10,Filled,LinkedIn
+561,8,"Lead, SMB Sales",2024-05-15,2024-07-03,Filled,Agency
+562,16,Mid Accounting Specialist,2024-05-25,2024-07-06,Filled,LinkedIn
+563,4,"Lead, QA",2024-06-25,2024-07-16,Filled,LinkedIn
+564,6,Mid Product Design Specialist,2024-05-23,2024-07-13,Filled,Agency
+565,10,"Lead, Growth Marketing",2024-06-11,2024-07-09,Filled,LinkedIn
+566,12,Mid Support Specialist,2024-07-08,2024-08-20,Filled,Career Site
+567,9,Mid Sales Development Specialist,2024-07-09,2024-08-22,Filled,Employee Referral
+568,3,"Lead, Platform",2024-06-29,2024-08-14,Filled,Agency
+569,17,Junior FP&A Specialist,2024-07-03,2024-08-13,Filled,LinkedIn
+570,12,Mid Support Specialist,2024-07-13,2024-08-03,Filled,LinkedIn
+571,2,Junior Frontend Specialist,2024-06-12,2024-08-05,Filled,LinkedIn
+572,13,Junior Onboarding Specialist,2024-07-05,2024-08-12,Filled,Job Board
+573,18,"Lead, Talent Acquisition",2024-06-21,2024-08-03,Filled,Employee Referral
+574,8,Senior SMB Sales Specialist,2024-06-05,2024-08-04,Filled,Employee Referral
+575,18,Senior Talent Acquisition Specialist,2024-06-11,2024-08-12,Filled,Employee Referral
+576,3,Mid Platform Specialist,2024-07-21,2024-08-09,Filled,Job Board
+577,7,"Lead, Enterprise Sales",2024-06-07,2024-08-07,Filled,LinkedIn
+578,7,"Manager, Enterprise Sales",2024-06-20,2024-08-06,Filled,Employee Referral
+579,5,"Manager, Product Management",2024-07-27,2024-08-16,Filled,LinkedIn
+580,9,Senior Sales Development Specialist,2024-07-11,2024-08-09,Filled,Employee Referral
+581,6,Mid Product Design Specialist,2024-07-23,2024-08-10,Filled,Job Board
+582,15,Junior IT Specialist,2024-07-13,2024-08-28,Filled,LinkedIn
+583,9,Junior Sales Development Specialist,2024-07-08,2024-08-08,Filled,Job Board
+584,19,"Lead, HR Business Partners",2024-08-02,2024-08-24,Filled,Employee Referral
+585,8,Senior SMB Sales Specialist,2024-07-20,2024-08-10,Filled,LinkedIn
+586,10,Senior Growth Marketing Specialist,2024-07-17,2024-08-06,Filled,Job Board
+587,2,Mid Frontend Specialist,2024-07-19,2024-08-29,Filled,Employee Referral
+588,15,"Manager, IT",2024-08-06,2024-09-01,Filled,LinkedIn
+589,7,Junior Enterprise Sales Specialist,2024-07-23,2024-09-13,Filled,Agency
+590,16,Mid Accounting Specialist,2024-08-17,2024-09-04,Filled,Job Board
+591,8,Senior SMB Sales Specialist,2024-07-23,2024-09-24,Filled,Career Site
+592,5,"Manager, Product Management",2024-07-29,2024-09-29,Filled,Employee Referral
+593,6,Senior Product Design Specialist,2024-08-12,2024-09-17,Filled,LinkedIn
+594,12,Junior Support Specialist,2024-07-21,2024-09-24,Filled,Career Site
+595,1,Mid Backend Specialist,2024-08-11,2024-09-22,Filled,LinkedIn
+596,16,"Manager, Accounting",2024-08-07,2024-09-28,Filled,LinkedIn
+597,3,Junior Platform Specialist,2024-07-14,2024-09-13,Filled,Employee Referral
+598,9,Senior Sales Development Specialist,2024-08-21,2024-09-30,Filled,LinkedIn
+599,8,Junior SMB Sales Specialist,2024-07-27,2024-09-09,Filled,Agency
+600,12,Junior Support Specialist,2024-08-09,2024-09-12,Filled,Agency
+601,14,Senior Facilities Specialist,2024-08-06,2024-09-19,Filled,Career Site
+602,9,"Lead, Sales Development",2024-08-06,2024-09-08,Filled,Employee Referral
+603,7,Mid Enterprise Sales Specialist,2024-07-30,2024-09-30,Filled,LinkedIn
+604,10,Mid Growth Marketing Specialist,2024-08-31,2024-09-18,Filled,Employee Referral
+605,2,Mid Frontend Specialist,2024-08-16,2024-09-20,Filled,LinkedIn
+606,7,Mid Enterprise Sales Specialist,2024-07-22,2024-09-07,Filled,LinkedIn
+607,9,"Director, Sales Development",2024-08-16,2024-09-17,Filled,Employee Referral
+608,9,"Lead, Sales Development",2024-07-20,2024-09-21,Filled,Job Board
+609,11,"Lead, Brand Marketing",2024-08-31,2024-09-26,Filled,LinkedIn
+610,16,Mid Accounting Specialist,2024-07-17,2024-09-01,Filled,Job Board
+611,9,Mid Sales Development Specialist,2024-08-01,2024-09-15,Filled,Job Board
+612,1,"Lead, Backend",2024-08-13,2024-09-17,Filled,LinkedIn
+613,9,"Lead, Sales Development",2024-09-19,2024-10-09,Filled,Agency
+614,9,Junior Sales Development Specialist,2024-08-28,2024-10-22,Filled,LinkedIn
+615,6,Mid Product Design Specialist,2024-08-07,2024-10-05,Filled,Job Board
+616,7,"Lead, Enterprise Sales",2024-09-21,2024-10-14,Filled,Career Site
+617,1,Senior Backend Specialist,2024-09-14,2024-10-02,Filled,Agency
+618,19,Senior HR Business Partners Specialist,2024-08-15,2024-10-06,Filled,Agency
+619,12,Senior Support Specialist,2024-09-27,2024-10-20,Filled,LinkedIn
+620,5,Senior Product Management Specialist,2024-09-09,2024-10-30,Filled,LinkedIn
+621,17,"Lead, FP&A",2024-09-16,2024-10-09,Filled,LinkedIn
+622,9,Senior Sales Development Specialist,2024-09-07,2024-10-07,Filled,Job Board
+623,3,"Director, Platform",2024-09-01,2024-10-19,Filled,Career Site
+624,1,Junior Backend Specialist,2024-09-06,2024-10-24,Filled,Employee Referral
+625,9,"Manager, Sales Development",2024-08-27,2024-10-26,Filled,Employee Referral
+626,11,"Lead, Brand Marketing",2024-09-30,2024-10-29,Filled,Employee Referral
+627,9,Mid Sales Development Specialist,2024-09-15,2024-10-23,Filled,LinkedIn
+628,7,Mid Enterprise Sales Specialist,2024-08-23,2024-10-19,Filled,Employee Referral
+629,8,"Lead, SMB Sales",2024-09-09,2024-10-20,Filled,Career Site
+630,1,"Manager, Backend",2024-08-22,2024-10-03,Filled,LinkedIn
+631,2,Junior Frontend Specialist,2024-09-11,2024-10-27,Filled,LinkedIn
+632,9,Junior Sales Development Specialist,2024-08-07,2024-10-02,Filled,Job Board
+633,18,"Lead, Talent Acquisition",2024-08-20,2024-10-18,Filled,LinkedIn
+634,5,Junior Product Management Specialist,2024-08-22,2024-10-04,Filled,Agency
+635,7,"Lead, Enterprise Sales",2024-09-20,2024-10-19,Filled,LinkedIn
+636,10,Junior Growth Marketing Specialist,2024-09-08,2024-10-27,Filled,Job Board
+637,15,Junior IT Specialist,2024-09-02,2024-10-26,Filled,Employee Referral
+638,4,Senior QA Specialist,2024-10-14,2024-11-22,Filled,LinkedIn
+639,17,Senior FP&A Specialist,2024-10-03,2024-11-20,Filled,LinkedIn
+640,7,Mid Enterprise Sales Specialist,2024-09-29,2024-11-25,Filled,LinkedIn
+641,15,"Director, IT",2024-09-30,2024-11-08,Filled,Agency
+642,13,Senior Onboarding Specialist,2024-11-02,2024-11-27,Filled,LinkedIn
+643,8,"Director, SMB Sales",2024-10-01,2024-11-04,Filled,Employee Referral
+644,10,Mid Growth Marketing Specialist,2024-09-22,2024-11-09,Filled,LinkedIn
+645,14,Junior Facilities Specialist,2024-11-07,2024-12-14,Filled,LinkedIn
+646,8,"Director, SMB Sales",2024-10-31,2024-12-19,Filled,Job Board
+647,15,Senior IT Specialist,2024-11-18,2024-12-27,Filled,Career Site
+648,18,Senior Talent Acquisition Specialist,2024-10-31,2024-12-12,Filled,LinkedIn
+649,7,Junior Enterprise Sales Specialist,2024-11-10,2024-12-22,Filled,Employee Referral
+650,1,Mid Backend Specialist,2024-10-16,2024-12-18,Filled,LinkedIn
+651,15,Senior IT Specialist,2024-11-08,2024-12-08,Filled,Job Board
+652,8,"Lead, SMB Sales",2024-10-31,2024-12-22,Filled,Employee Referral
+653,19,"Lead, HR Business Partners",2024-11-08,2024-12-08,Filled,LinkedIn
+654,5,Mid Product Management Specialist,2024-11-13,2024-12-21,Filled,Employee Referral
+655,15,Junior IT Specialist,2024-12-13,2025-01-14,Filled,Employee Referral
+656,14,Senior Facilities Specialist,2024-12-07,2025-01-22,Filled,LinkedIn
+657,10,Junior Growth Marketing Specialist,2024-12-27,2025-01-28,Filled,LinkedIn
+658,8,Mid SMB Sales Specialist,2024-11-24,2025-01-05,Filled,LinkedIn
+659,9,"Manager, Sales Development",2024-12-30,2025-01-30,Filled,LinkedIn
+660,1,Junior Backend Specialist,2024-11-28,2025-01-17,Filled,Job Board
+661,12,Mid Support Specialist,2024-12-07,2025-01-30,Filled,Job Board
+662,17,Senior FP&A Specialist,2025-01-07,2025-01-28,Filled,Career Site
+663,9,"Lead, Sales Development",2024-11-24,2025-01-16,Filled,Agency
+664,11,"Lead, Brand Marketing",2024-11-17,2025-01-18,Filled,LinkedIn
+665,1,Mid Backend Specialist,2024-11-05,2025-01-08,Filled,Job Board
+666,7,"Manager, Enterprise Sales",2025-01-02,2025-01-22,Filled,Employee Referral
+667,8,Senior SMB Sales Specialist,2024-12-04,2025-01-13,Filled,Career Site
+668,8,"Lead, SMB Sales",2024-12-30,2025-01-30,Filled,Career Site
+669,10,Senior Growth Marketing Specialist,2024-12-18,2025-01-28,Filled,Employee Referral
+670,9,"Manager, Sales Development",2024-11-21,2025-01-08,Filled,Employee Referral
+671,11,"Lead, Brand Marketing",2024-11-16,2025-01-16,Filled,Agency
+672,3,Senior Platform Specialist,2024-12-12,2025-01-30,Filled,Employee Referral
+673,9,Junior Sales Development Specialist,2024-11-11,2025-01-05,Filled,Job Board
+674,7,Junior Enterprise Sales Specialist,2024-11-25,2025-01-25,Filled,Agency
+675,4,Mid QA Specialist,2024-12-05,2025-01-08,Filled,Employee Referral
+676,4,Mid QA Specialist,2024-11-27,2025-01-05,Filled,Agency
+677,7,Mid Enterprise Sales Specialist,2024-11-29,2025-01-12,Filled,LinkedIn
+678,5,Mid Product Management Specialist,2024-12-16,2025-01-10,Filled,Job Board
+679,9,Senior Sales Development Specialist,2024-12-23,2025-01-30,Filled,LinkedIn
+680,17,"Manager, FP&A",2024-12-01,2025-01-06,Filled,LinkedIn
+681,11,Mid Brand Marketing Specialist,2025-01-09,2025-01-30,Filled,LinkedIn
+682,12,Junior Support Specialist,2024-12-14,2025-01-14,Filled,LinkedIn
+683,8,Senior SMB Sales Specialist,2024-11-17,2025-01-07,Filled,LinkedIn
+684,9,Senior Sales Development Specialist,2024-11-24,2025-01-24,Filled,LinkedIn
+685,8,Mid SMB Sales Specialist,2024-12-17,2025-01-31,Filled,Job Board
+686,17,"Manager, FP&A",2024-12-03,2025-01-03,Filled,LinkedIn
+687,8,"Manager, SMB Sales",2024-12-17,2025-01-16,Filled,Job Board
+688,12,"Lead, Support",2024-12-25,2025-02-17,Filled,Employee Referral
+689,8,Mid SMB Sales Specialist,2025-01-27,2025-02-14,Filled,Agency
+690,15,Mid IT Specialist,2025-01-13,2025-02-21,Filled,LinkedIn
+691,8,Senior SMB Sales Specialist,2024-12-31,2025-02-15,Filled,LinkedIn
+692,7,Mid Enterprise Sales Specialist,2024-12-21,2025-02-15,Filled,Employee Referral
+693,7,Senior Enterprise Sales Specialist,2024-12-14,2025-02-13,Filled,Job Board
+694,3,Junior Platform Specialist,2024-12-18,2025-02-01,Filled,LinkedIn
+695,12,Mid Support Specialist,2025-01-01,2025-02-18,Filled,Career Site
+696,2,Senior Frontend Specialist,2024-12-16,2025-02-15,Filled,Employee Referral
+697,12,"Lead, Support",2024-12-12,2025-02-03,Filled,Job Board
+698,8,Junior SMB Sales Specialist,2025-01-05,2025-02-23,Filled,Agency
+699,5,Mid Product Management Specialist,2025-01-26,2025-02-16,Filled,LinkedIn
+700,19,Mid HR Business Partners Specialist,2025-01-14,2025-02-19,Filled,Employee Referral
+701,19,Junior HR Business Partners Specialist,2024-12-16,2025-02-03,Filled,Employee Referral
+702,13,Mid Onboarding Specialist,2024-12-05,2025-02-01,Filled,LinkedIn
+703,3,Junior Platform Specialist,2024-12-25,2025-02-22,Filled,Employee Referral
+704,6,Mid Product Design Specialist,2025-01-09,2025-02-20,Filled,Job Board
+705,11,Mid Brand Marketing Specialist,2024-12-18,2025-02-02,Filled,LinkedIn
+706,17,Mid FP&A Specialist,2024-12-26,2025-02-07,Filled,Job Board
+707,9,Senior Sales Development Specialist,2025-01-06,2025-02-24,Filled,Job Board
+708,9,"Lead, Sales Development",2024-12-29,2025-02-02,Filled,LinkedIn
+709,2,"Lead, Frontend",2025-01-12,2025-02-27,Filled,LinkedIn
+710,9,Senior Sales Development Specialist,2025-01-04,2025-02-19,Filled,Job Board
+711,17,Senior FP&A Specialist,2025-01-12,2025-02-03,Filled,Career Site
+712,11,Senior Brand Marketing Specialist,2025-01-08,2025-02-17,Filled,Agency
+713,9,Junior Sales Development Specialist,2024-12-17,2025-02-07,Filled,LinkedIn
+714,4,Mid QA Specialist,2025-02-02,2025-02-28,Filled,LinkedIn
+715,9,"Lead, Sales Development",2025-01-10,2025-02-06,Filled,Career Site
+716,19,Senior HR Business Partners Specialist,2024-12-16,2025-02-09,Filled,LinkedIn
+717,9,"Manager, Sales Development",2025-01-26,2025-02-18,Filled,Employee Referral
+718,9,Mid Sales Development Specialist,2025-01-12,2025-02-26,Filled,Job Board
+719,7,Mid Enterprise Sales Specialist,2025-02-13,2025-03-10,Filled,Career Site
+720,8,Mid SMB Sales Specialist,2025-02-07,2025-03-26,Filled,LinkedIn
+721,10,Junior Growth Marketing Specialist,2025-02-19,2025-03-17,Filled,Employee Referral
+722,7,"Lead, Enterprise Sales",2025-01-17,2025-03-07,Filled,LinkedIn
+723,11,Mid Brand Marketing Specialist,2025-02-14,2025-03-10,Filled,LinkedIn
+724,9,Mid Sales Development Specialist,2025-02-08,2025-03-01,Filled,Career Site
+725,7,Mid Enterprise Sales Specialist,2025-02-19,2025-03-29,Filled,Job Board
+726,9,Junior Sales Development Specialist,2025-01-09,2025-03-01,Filled,Job Board
+727,9,"Manager, Sales Development",2025-02-21,2025-03-30,Filled,LinkedIn
+728,16,Mid Accounting Specialist,2025-02-06,2025-03-10,Filled,Agency
+729,9,"Manager, Sales Development",2025-02-28,2025-03-28,Filled,Career Site
+730,18,Mid Talent Acquisition Specialist,2025-02-19,2025-03-17,Filled,Employee Referral
+731,8,Mid SMB Sales Specialist,2025-01-28,2025-03-17,Filled,Employee Referral
+732,8,"Manager, SMB Sales",2025-01-30,2025-03-03,Filled,LinkedIn
+733,12,Mid Support Specialist,2025-01-29,2025-03-16,Filled,Employee Referral
+734,7,Mid Enterprise Sales Specialist,2025-02-09,2025-03-07,Filled,Job Board
+735,10,Junior Growth Marketing Specialist,2025-03-08,2025-03-27,Filled,LinkedIn
+736,2,"Director, Frontend",2025-02-01,2025-03-24,Filled,Job Board
+737,14,"Manager, Facilities",2025-02-09,2025-03-29,Filled,Career Site
+738,14,Senior Facilities Specialist,2025-01-30,2025-03-14,Filled,Agency
+739,10,"Director, Growth Marketing",2025-01-04,2025-03-10,Filled,Job Board
+740,6,Senior Product Design Specialist,2025-01-25,2025-03-06,Filled,Employee Referral
+741,1,Mid Backend Specialist,2025-02-01,2025-03-28,Filled,Agency
+742,8,Mid SMB Sales Specialist,2025-02-07,2025-03-02,Filled,LinkedIn
+743,16,Senior Accounting Specialist,2025-01-18,2025-03-08,Filled,LinkedIn
+744,9,Mid Sales Development Specialist,2025-02-14,2025-03-08,Filled,LinkedIn
+745,8,Junior SMB Sales Specialist,2025-02-16,2025-03-07,Filled,LinkedIn
+746,5,Mid Product Management Specialist,2025-02-12,2025-03-25,Filled,Employee Referral
+747,19,Senior HR Business Partners Specialist,2025-01-11,2025-03-11,Filled,LinkedIn
+748,9,Junior Sales Development Specialist,2025-01-27,2025-03-21,Filled,LinkedIn
+749,12,Senior Support Specialist,2025-01-04,2025-03-05,Filled,Job Board
+750,3,"Director, Platform",2025-03-21,2025-04-28,Filled,LinkedIn
+751,6,"Manager, Product Design",2025-03-27,2025-04-22,Filled,Agency
+752,9,"Lead, Sales Development",2025-02-23,2025-04-04,Filled,LinkedIn
+753,8,Mid SMB Sales Specialist,2025-03-30,2025-04-30,Filled,Employee Referral
+754,15,Senior IT Specialist,2025-03-19,2025-04-11,Filled,Employee Referral
+755,16,"Lead, Accounting",2025-02-26,2025-04-07,Filled,Agency
+756,7,Mid Enterprise Sales Specialist,2025-02-27,2025-04-28,Filled,Job Board
+757,9,Junior Sales Development Specialist,2025-02-10,2025-04-08,Filled,LinkedIn
+758,13,Mid Onboarding Specialist,2025-03-10,2025-04-15,Filled,Employee Referral
+759,16,Junior Accounting Specialist,2025-04-04,2025-04-24,Filled,LinkedIn
+760,8,Mid SMB Sales Specialist,2025-03-28,2025-04-28,Filled,Employee Referral
+761,9,Junior Sales Development Specialist,2025-03-22,2025-04-28,Filled,Employee Referral
+762,9,Mid Sales Development Specialist,2025-03-16,2025-04-16,Filled,Employee Referral
+763,13,"Lead, Onboarding",2025-04-05,2025-04-26,Filled,Job Board
+764,9,Senior Sales Development Specialist,2025-03-07,2025-04-10,Filled,Career Site
+765,8,Senior SMB Sales Specialist,2025-03-11,2025-04-07,Filled,LinkedIn
+766,17,Junior FP&A Specialist,2025-04-11,2025-04-30,Filled,Employee Referral
+767,17,Mid FP&A Specialist,2025-02-28,2025-04-05,Filled,Agency
+768,10,Junior Growth Marketing Specialist,2025-03-07,2025-04-09,Filled,Job Board
+769,10,"Manager, Growth Marketing",2025-02-17,2025-04-11,Filled,Career Site
+770,8,Senior SMB Sales Specialist,2025-03-04,2025-04-30,Filled,Employee Referral
+771,19,Senior HR Business Partners Specialist,2025-04-01,2025-04-24,Filled,Employee Referral
+772,12,Mid Support Specialist,2025-03-17,2025-04-18,Filled,LinkedIn
+773,14,Senior Facilities Specialist,2025-02-25,2025-04-20,Filled,Career Site
+774,11,Junior Brand Marketing Specialist,2025-03-11,2025-04-03,Filled,LinkedIn
+775,18,"Lead, Talent Acquisition",2025-04-21,2025-05-25,Filled,Employee Referral
+776,9,Junior Sales Development Specialist,2025-03-27,2025-05-05,Filled,Agency
+777,9,Mid Sales Development Specialist,2025-04-05,2025-05-02,Filled,Employee Referral
+778,7,Junior Enterprise Sales Specialist,2025-03-23,2025-05-06,Filled,Agency
+779,15,"Lead, IT",2025-04-24,2025-05-15,Filled,Employee Referral
+780,7,"Director, Enterprise Sales",2025-05-05,2025-05-28,Filled,LinkedIn
+781,3,Junior Platform Specialist,2025-04-28,2025-05-23,Filled,Agency
+782,1,Mid Backend Specialist,2025-03-11,2025-05-12,Filled,LinkedIn
+783,8,Junior SMB Sales Specialist,2025-03-09,2025-05-11,Filled,Career Site
+784,2,"Manager, Frontend",2025-04-06,2025-05-15,Filled,LinkedIn
+785,17,"Director, FP&A",2025-03-23,2025-05-14,Filled,Job Board
+786,17,Mid FP&A Specialist,2025-04-10,2025-05-18,Filled,Career Site
+787,12,Senior Support Specialist,2025-04-16,2025-05-20,Filled,Agency
+788,8,"Manager, SMB Sales",2025-04-17,2025-05-23,Filled,LinkedIn
+789,9,Mid Sales Development Specialist,2025-04-28,2025-05-19,Filled,LinkedIn
+790,11,"Lead, Brand Marketing",2025-04-03,2025-05-30,Filled,LinkedIn
+791,5,Senior Product Management Specialist,2025-04-20,2025-05-31,Filled,Job Board
+792,7,Senior Enterprise Sales Specialist,2025-04-07,2025-05-12,Filled,Employee Referral
+793,1,Mid Backend Specialist,2025-03-13,2025-05-13,Filled,Employee Referral
+794,5,Mid Product Management Specialist,2025-04-17,2025-05-05,Filled,LinkedIn
+795,7,Senior Enterprise Sales Specialist,2025-05-01,2025-05-28,Filled,Agency
+796,13,Junior Onboarding Specialist,2025-04-09,2025-05-12,Filled,Career Site
+797,10,Senior Growth Marketing Specialist,2025-04-29,2025-05-29,Filled,LinkedIn
+798,9,Senior Sales Development Specialist,2025-04-26,2025-05-22,Filled,Job Board
+799,10,Mid Growth Marketing Specialist,2025-04-12,2025-05-08,Filled,Employee Referral
+800,7,Senior Enterprise Sales Specialist,2025-03-29,2025-05-10,Filled,Employee Referral
+801,17,Senior FP&A Specialist,2025-04-12,2025-05-08,Filled,Career Site
+802,18,Junior Talent Acquisition Specialist,2025-04-13,2025-05-04,Filled,Employee Referral
+803,16,"Director, Accounting",2025-04-02,2025-05-18,Filled,Employee Referral
+804,17,Junior FP&A Specialist,2025-04-03,2025-05-19,Filled,Career Site
+805,4,"Manager, QA",2025-05-14,2025-06-30,Filled,Employee Referral
+806,7,Junior Enterprise Sales Specialist,2025-05-29,2025-06-16,Filled,LinkedIn
+807,11,Senior Brand Marketing Specialist,2025-04-20,2025-06-07,Filled,Career Site
+808,8,Mid SMB Sales Specialist,2025-04-20,2025-06-18,Filled,LinkedIn
+809,15,Junior IT Specialist,2025-04-22,2025-06-21,Filled,Employee Referral
+810,7,Mid Enterprise Sales Specialist,2025-05-17,2025-06-24,Filled,Career Site
+811,8,Senior SMB Sales Specialist,2025-05-03,2025-06-26,Filled,Employee Referral
+812,14,Junior Facilities Specialist,2025-04-08,2025-06-01,Filled,Agency
+813,7,Junior Enterprise Sales Specialist,2025-04-02,2025-06-05,Filled,LinkedIn
+814,17,Mid FP&A Specialist,2025-05-08,2025-06-21,Filled,LinkedIn
+815,4,Mid QA Specialist,2025-05-23,2025-06-14,Filled,LinkedIn
+816,5,Junior Product Management Specialist,2025-05-22,2025-06-18,Filled,LinkedIn
+817,4,Senior QA Specialist,2025-05-25,2025-06-20,Filled,Employee Referral
+818,15,Senior IT Specialist,2025-05-22,2025-06-22,Filled,Job Board
+819,8,Senior SMB Sales Specialist,2025-05-08,2025-06-22,Filled,Career Site
+820,7,Mid Enterprise Sales Specialist,2025-04-28,2025-06-18,Filled,Employee Referral
+821,13,Senior Onboarding Specialist,2025-05-15,2025-06-29,Filled,LinkedIn
+822,8,"Lead, SMB Sales",2025-05-04,2025-06-19,Filled,Job Board
+823,7,Senior Enterprise Sales Specialist,2025-04-23,2025-06-10,Filled,Career Site
+824,5,Senior Product Management Specialist,2025-06-01,2025-06-25,Filled,LinkedIn
+825,9,Mid Sales Development Specialist,2025-05-02,2025-06-24,Filled,Employee Referral
+826,19,"Director, HR Business Partners",2025-04-11,2025-06-09,Filled,Job Board
+827,9,Senior Sales Development Specialist,2025-05-10,2025-06-14,Filled,LinkedIn
+828,11,Junior Brand Marketing Specialist,2025-05-29,2025-06-28,Filled,LinkedIn
+829,2,Senior Frontend Specialist,2025-05-03,2025-06-05,Filled,Job Board
+830,14,Junior Facilities Specialist,2025-05-19,2025-06-29,Filled,LinkedIn
+831,4,Junior QA Specialist,2025-05-07,2025-06-19,Filled,Job Board
+832,2,Junior Frontend Specialist,2025-05-31,2025-06-25,Filled,Employee Referral
+833,7,Senior Enterprise Sales Specialist,2025-05-23,2025-07-23,Filled,LinkedIn
+834,8,"Director, SMB Sales",2025-05-16,2025-07-13,Filled,LinkedIn
+835,19,Senior HR Business Partners Specialist,2025-06-06,2025-07-04,Filled,Career Site
+836,8,Junior SMB Sales Specialist,2025-06-13,2025-07-22,Filled,Employee Referral
+837,6,"Lead, Product Design",2025-06-30,2025-07-25,Filled,LinkedIn
+838,1,Mid Backend Specialist,2025-06-13,2025-07-24,Filled,LinkedIn
+839,9,Mid Sales Development Specialist,2025-06-01,2025-07-26,Filled,Employee Referral
+840,5,Mid Product Management Specialist,2025-06-15,2025-07-30,Filled,LinkedIn
+841,5,Mid Product Management Specialist,2025-06-06,2025-07-22,Filled,Job Board
+842,16,Mid Accounting Specialist,2025-06-08,2025-07-07,Filled,Employee Referral
+843,14,"Lead, Facilities",2025-05-21,2025-07-09,Filled,Employee Referral
+844,5,Mid Product Management Specialist,2025-06-12,2025-07-09,Filled,Career Site
+845,7,Junior Enterprise Sales Specialist,2025-07-02,2025-07-26,Filled,Career Site
+846,7,Junior Enterprise Sales Specialist,2025-05-31,2025-07-23,Filled,Job Board
+847,8,"Manager, SMB Sales",2025-06-07,2025-07-26,Filled,Job Board
+848,13,"Lead, Onboarding",2025-05-19,2025-07-17,Filled,Career Site
+849,4,Junior QA Specialist,2025-05-09,2025-07-01,Filled,Agency
+850,13,Mid Onboarding Specialist,2025-05-03,2025-07-02,Filled,Employee Referral
+851,5,"Lead, Product Management",2025-05-21,2025-07-04,Filled,LinkedIn
+852,2,"Manager, Frontend",2025-07-03,2025-07-30,Filled,Employee Referral
+853,12,Mid Support Specialist,2025-06-19,2025-07-24,Filled,Job Board
+854,17,Mid FP&A Specialist,2025-06-27,2025-07-24,Filled,LinkedIn
+855,13,"Lead, Onboarding",2025-06-14,2025-07-09,Filled,Job Board
+856,9,"Manager, Sales Development",2025-07-07,2025-07-28,Filled,LinkedIn
+857,8,Junior SMB Sales Specialist,2025-07-10,2025-08-07,Filled,LinkedIn
+858,6,Junior Product Design Specialist,2025-06-30,2025-08-26,Filled,Job Board
+859,10,"Lead, Growth Marketing",2025-07-28,2025-08-16,Filled,LinkedIn
+860,3,Mid Platform Specialist,2025-06-20,2025-08-01,Filled,Job Board
+861,8,Mid SMB Sales Specialist,2025-06-29,2025-08-25,Filled,LinkedIn
+862,18,Senior Talent Acquisition Specialist,2025-07-01,2025-08-24,Filled,Job Board
+863,10,"Lead, Growth Marketing",2025-06-29,2025-08-31,Filled,Career Site
+864,16,Junior Accounting Specialist,2025-07-12,2025-08-10,Filled,Employee Referral
+865,9,Senior Sales Development Specialist,2025-07-20,2025-08-16,Filled,LinkedIn
+866,6,Junior Product Design Specialist,2025-07-22,2025-08-20,Filled,Employee Referral
+867,8,Junior SMB Sales Specialist,2025-07-18,2025-08-11,Filled,Career Site
+868,7,Mid Enterprise Sales Specialist,2025-05-31,2025-08-02,Filled,Job Board
+869,15,Mid IT Specialist,2025-07-20,2025-08-28,Filled,Career Site
+870,11,Senior Brand Marketing Specialist,2025-06-25,2025-08-26,Filled,Career Site
+871,9,Mid Sales Development Specialist,2025-07-10,2025-08-17,Filled,LinkedIn
+872,12,Senior Support Specialist,2025-07-03,2025-08-23,Filled,Job Board
+873,19,Mid HR Business Partners Specialist,2025-06-26,2025-08-19,Filled,LinkedIn
+874,7,Senior Enterprise Sales Specialist,2025-07-28,2025-08-26,Filled,LinkedIn
+875,2,Mid Frontend Specialist,2025-06-20,2025-08-20,Filled,LinkedIn
+876,7,Senior Enterprise Sales Specialist,2025-07-09,2025-08-31,Filled,Job Board
+877,1,Senior Backend Specialist,2025-07-20,2025-08-18,Filled,Employee Referral
+878,8,Mid SMB Sales Specialist,2025-07-09,2025-08-02,Filled,LinkedIn
+879,12,Junior Support Specialist,2025-06-18,2025-08-15,Filled,Career Site
+880,7,Junior Enterprise Sales Specialist,2025-06-20,2025-08-22,Filled,Job Board
+881,5,"Manager, Product Management",2025-05-29,2025-08-02,Filled,LinkedIn
+882,6,Mid Product Design Specialist,2025-06-30,2025-08-30,Filled,Employee Referral
+883,18,"Manager, Talent Acquisition",2025-08-13,2025-09-28,Filled,Job Board
+884,6,Junior Product Design Specialist,2025-07-24,2025-09-24,Filled,LinkedIn
+885,16,"Manager, Accounting",2025-07-29,2025-09-09,Filled,LinkedIn
+886,8,Mid SMB Sales Specialist,2025-07-30,2025-09-30,Filled,LinkedIn
+887,16,Senior Accounting Specialist,2025-07-21,2025-09-02,Filled,LinkedIn
+888,11,Mid Brand Marketing Specialist,2025-07-27,2025-09-07,Filled,LinkedIn
+889,8,"Director, SMB Sales",2025-08-31,2025-09-24,Filled,LinkedIn
+890,16,Senior Accounting Specialist,2025-07-27,2025-09-23,Filled,Agency
+891,13,Mid Onboarding Specialist,2025-07-20,2025-09-13,Filled,Employee Referral
+892,3,Senior Platform Specialist,2025-07-05,2025-09-06,Filled,Employee Referral
+893,2,Senior Frontend Specialist,2025-08-10,2025-09-05,Filled,Employee Referral
+894,15,Junior IT Specialist,2025-08-09,2025-09-14,Filled,LinkedIn
+895,3,"Lead, Platform",2025-07-26,2025-09-05,Filled,LinkedIn
+896,13,Mid Onboarding Specialist,2025-07-16,2025-09-16,Filled,Employee Referral
+897,9,Mid Sales Development Specialist,2025-07-20,2025-09-18,Filled,LinkedIn
+898,14,Junior Facilities Specialist,2025-08-08,2025-09-23,Filled,Employee Referral
+899,8,Junior SMB Sales Specialist,2025-07-31,2025-09-29,Filled,LinkedIn
+900,8,Mid SMB Sales Specialist,2025-09-04,2025-09-22,Filled,Career Site
+901,18,Senior Talent Acquisition Specialist,2025-08-15,2025-09-24,Filled,Job Board
+902,3,Mid Platform Specialist,2025-07-02,2025-09-01,Filled,Agency
+903,9,Mid Sales Development Specialist,2025-07-07,2025-09-09,Filled,Employee Referral
+904,5,"Lead, Product Management",2025-08-12,2025-09-13,Filled,LinkedIn
+905,7,Mid Enterprise Sales Specialist,2025-08-23,2025-09-19,Filled,LinkedIn
+906,9,"Manager, Sales Development",2025-07-29,2025-09-20,Filled,Agency
+907,7,Junior Enterprise Sales Specialist,2025-07-15,2025-09-11,Filled,LinkedIn
+908,13,Senior Onboarding Specialist,2025-07-08,2025-09-01,Filled,Employee Referral
+909,8,Senior SMB Sales Specialist,2025-08-13,2025-09-19,Filled,Employee Referral
+910,8,Senior SMB Sales Specialist,2025-07-13,2025-09-07,Filled,Job Board
+911,19,Mid HR Business Partners Specialist,2025-09-03,2025-10-30,Filled,Employee Referral
+912,14,"Director, Facilities",2025-09-07,2025-10-08,Filled,LinkedIn
+913,9,"Lead, Sales Development",2025-09-13,2025-10-21,Filled,LinkedIn
+914,1,Junior Backend Specialist,2025-08-20,2025-10-01,Filled,Employee Referral
+915,2,Senior Frontend Specialist,2025-08-13,2025-10-16,Filled,Employee Referral
+916,6,Junior Product Design Specialist,2025-08-27,2025-10-17,Filled,Career Site
+917,5,Junior Product Management Specialist,2025-09-06,2025-10-28,Filled,LinkedIn
+918,2,Mid Frontend Specialist,2025-10-04,2025-10-22,Filled,Employee Referral
+919,8,"Manager, SMB Sales",2025-08-26,2025-10-17,Filled,Career Site
+920,1,"Manager, Backend",2025-09-27,2025-10-25,Filled,Employee Referral
+921,13,Mid Onboarding Specialist,2025-09-14,2025-10-06,Filled,Job Board
+922,10,Senior Growth Marketing Specialist,2025-08-12,2025-10-04,Filled,LinkedIn
+923,9,Senior Sales Development Specialist,2025-08-09,2025-10-01,Filled,Employee Referral
+924,7,Mid Enterprise Sales Specialist,2025-08-05,2025-10-09,Filled,Job Board
+925,5,Junior Product Management Specialist,2025-08-31,2025-10-07,Filled,LinkedIn
+926,12,Senior Support Specialist,2025-08-18,2025-10-08,Filled,LinkedIn
+927,18,Mid Talent Acquisition Specialist,2025-09-19,2025-10-08,Filled,LinkedIn
+928,14,Mid Facilities Specialist,2025-09-19,2025-10-11,Filled,LinkedIn
+929,16,Mid Accounting Specialist,2025-08-19,2025-10-22,Filled,LinkedIn
+930,9,Junior Sales Development Specialist,2025-08-22,2025-10-18,Filled,Employee Referral
+931,1,"Lead, Backend",2025-09-22,2025-10-10,Filled,Job Board
+932,8,"Director, SMB Sales",2025-08-25,2025-10-14,Filled,Job Board
+933,10,"Manager, Growth Marketing",2025-08-29,2025-10-11,Filled,Employee Referral
+934,10,Junior Growth Marketing Specialist,2025-09-26,2025-10-15,Filled,LinkedIn
+935,6,Mid Product Design Specialist,2025-09-03,2025-10-06,Filled,Job Board
+936,11,Senior Brand Marketing Specialist,2025-08-22,2025-10-20,Filled,Employee Referral
+937,9,Mid Sales Development Specialist,2025-09-24,2025-10-29,Filled,Job Board
+938,12,Mid Support Specialist,2025-10-05,2025-11-23,Filled,Employee Referral
+939,18,Senior Talent Acquisition Specialist,2025-10-18,2025-11-18,Filled,LinkedIn
+940,19,Mid HR Business Partners Specialist,2025-09-27,2025-11-17,Filled,Career Site
+941,16,Mid Accounting Specialist,2025-10-20,2025-11-11,Filled,Employee Referral
+942,10,"Lead, Growth Marketing",2025-10-31,2025-11-19,Filled,Agency
+943,16,Senior Accounting Specialist,2025-09-21,2025-11-06,Filled,LinkedIn
+944,9,Mid Sales Development Specialist,2025-09-28,2025-11-27,Filled,Career Site
+945,8,Senior SMB Sales Specialist,2025-10-02,2025-11-29,Filled,Employee Referral
+946,7,Junior Enterprise Sales Specialist,2025-10-12,2025-11-16,Filled,LinkedIn
+947,10,Mid Growth Marketing Specialist,2025-10-07,2025-11-19,Filled,Employee Referral
+948,12,Junior Support Specialist,2025-10-07,2025-11-21,Filled,LinkedIn
+949,11,Mid Brand Marketing Specialist,2025-09-24,2025-11-09,Filled,LinkedIn
+950,19,Junior HR Business Partners Specialist,2025-11-05,2025-11-23,Filled,LinkedIn
+951,10,Mid Growth Marketing Specialist,2025-09-29,2025-11-17,Filled,LinkedIn
+952,7,"Manager, Enterprise Sales",2025-11-10,2025-12-21,Filled,Employee Referral
+953,15,Mid IT Specialist,2025-10-05,2025-12-08,Filled,Career Site
+954,19,"Director, HR Business Partners",2025-11-21,2025-12-27,Filled,Employee Referral
+955,5,Junior Product Management Specialist,2025-11-24,2025-12-25,Filled,LinkedIn
+956,14,Junior Facilities Specialist,2025-11-19,2025-12-28,Filled,LinkedIn
+957,15,Senior IT Specialist,2025-11-29,2025-12-25,Filled,LinkedIn
+958,16,"Lead, Accounting",2025-11-12,2025-12-05,Filled,Employee Referral
+959,18,Mid Talent Acquisition Specialist,2025-10-18,2025-12-22,Filled,Career Site
+960,17,Senior FP&A Specialist,2025-11-10,2025-12-17,Filled,LinkedIn
+961,8,Senior SMB Sales Specialist,2025-11-17,2025-12-11,Filled,Job Board
+962,9,Junior Sales Development Specialist,2025-12-03,2025-12-29,Filled,LinkedIn
+963,9,Senior Sales Development Specialist,2025-11-14,2025-12-27,Filled,Employee Referral
+964,8,"Lead, SMB Sales",2025-10-29,2025-12-24,Filled,Agency
+965,13,"Manager, Onboarding",2025-12-15,2026-01-24,Filled,Job Board
+966,10,Mid Growth Marketing Specialist,2025-11-17,2026-01-09,Filled,LinkedIn
+967,8,Senior SMB Sales Specialist,2025-11-23,2026-01-21,Filled,Career Site
+968,7,Senior Enterprise Sales Specialist,2025-11-26,2026-01-04,Filled,Agency
+969,3,"Manager, Platform",2025-12-22,2026-01-12,Filled,Agency
+970,6,Junior Product Design Specialist,2025-12-03,2026-01-01,Filled,LinkedIn
+971,11,Senior Brand Marketing Specialist,2025-12-22,2026-01-17,Filled,Job Board
+972,1,Junior Backend Specialist,2025-11-24,2026-01-22,Filled,Employee Referral
+973,5,Senior Product Management Specialist,2025-12-04,2026-01-13,Filled,LinkedIn
+974,8,Senior SMB Sales Specialist,2025-12-11,2026-01-10,Filled,LinkedIn
+975,1,Mid Backend Specialist,2025-11-03,2026-01-02,Filled,Career Site
+976,5,Junior Product Management Specialist,2025-12-15,2026-01-02,Filled,Job Board
+977,18,"Manager, Talent Acquisition",2025-11-20,2026-01-12,Filled,LinkedIn
+978,6,"Manager, Product Design",2025-11-15,2026-01-14,Filled,Employee Referral
+979,9,Mid Sales Development Specialist,2025-12-11,2026-01-02,Filled,Job Board
+980,9,Mid Sales Development Specialist,2025-12-22,2026-01-29,Filled,Job Board
+981,5,Junior Product Management Specialist,2025-11-21,2026-01-10,Filled,Employee Referral
+982,8,"Lead, SMB Sales",2025-12-01,2026-01-19,Filled,LinkedIn
+983,11,Senior Brand Marketing Specialist,2025-11-24,2026-01-12,Filled,Employee Referral
+984,2,Senior Frontend Specialist,2025-11-29,2026-01-05,Filled,Career Site
+985,15,Mid IT Specialist,2025-11-09,2026-01-13,Filled,Employee Referral
+986,9,Junior Sales Development Specialist,2025-12-09,2026-01-14,Filled,Agency
+987,9,"Director, Sales Development",2025-12-13,2026-01-15,Filled,Job Board
+988,10,Senior Growth Marketing Specialist,2025-12-10,2026-01-04,Filled,Agency
+989,10,Senior Growth Marketing Specialist,2026-01-09,2026-01-28,Filled,Job Board
+990,17,Junior FP&A Specialist,2026-01-02,2026-01-21,Filled,Career Site
+991,5,"Manager, Product Management",2026-01-01,2026-01-25,Filled,Job Board
+992,8,Mid SMB Sales Specialist,2025-12-12,2026-01-05,Filled,Employee Referral
+993,9,Mid Sales Development Specialist,2025-12-10,2026-01-14,Filled,LinkedIn
+994,9,"Lead, Sales Development",2025-11-22,2026-01-05,Filled,LinkedIn
+995,8,Mid SMB Sales Specialist,2025-11-24,2026-01-13,Filled,Employee Referral
+996,8,Mid SMB Sales Specialist,2026-01-03,2026-01-31,Filled,Career Site
+997,13,Junior Onboarding Specialist,2025-12-11,2026-01-20,Filled,LinkedIn
+998,3,"Lead, Platform",2025-12-29,2026-01-24,Filled,LinkedIn
+999,17,Junior FP&A Specialist,2025-12-14,2026-01-03,Filled,Employee Referral
+1000,8,Mid SMB Sales Specialist,2025-11-22,2026-01-02,Filled,LinkedIn
+1001,4,Mid QA Specialist,2025-12-04,2026-01-13,Filled,LinkedIn
+1002,4,Senior QA Specialist,2026-01-18,2026-02-07,Filled,LinkedIn
+1003,11,Junior Brand Marketing Specialist,2026-01-08,2026-02-21,Filled,LinkedIn
+1004,5,Mid Product Management Specialist,2026-01-02,2026-02-04,Filled,LinkedIn
+1005,4,Senior QA Specialist,2025-12-12,2026-02-10,Filled,Employee Referral
+1006,19,Mid HR Business Partners Specialist,2026-01-25,2026-02-28,Filled,LinkedIn
+1007,5,Mid Product Management Specialist,2026-01-25,2026-02-22,Filled,LinkedIn
+1008,19,Mid HR Business Partners Specialist,2025-12-19,2026-02-09,Filled,Job Board
+1009,3,Junior Platform Specialist,2026-01-21,2026-02-19,Filled,Job Board
+1010,2,Junior Frontend Specialist,2025-12-03,2026-02-04,Filled,LinkedIn
+1011,14,Junior Facilities Specialist,2025-12-25,2026-02-19,Filled,LinkedIn
+1012,9,Senior Sales Development Specialist,2025-12-22,2026-02-03,Filled,Employee Referral
+1013,4,"Manager, QA",2026-01-22,2026-02-09,Filled,Employee Referral
+1014,19,Junior HR Business Partners Specialist,2026-01-10,2026-02-10,Filled,Employee Referral
+1015,15,Junior IT Specialist,2026-01-31,2026-02-19,Filled,Employee Referral
+1016,9,Mid Sales Development Specialist,2026-01-04,2026-02-14,Filled,LinkedIn
+1017,8,Junior SMB Sales Specialist,2026-01-25,2026-02-27,Filled,Agency
+1018,7,Junior Enterprise Sales Specialist,2025-12-30,2026-02-22,Filled,LinkedIn
+1019,4,"Director, QA",2025-12-27,2026-02-14,Filled,Agency
+1020,7,"Lead, Enterprise Sales",2026-01-18,2026-02-24,Filled,LinkedIn
+1021,14,Junior Facilities Specialist,2026-01-04,2026-02-17,Filled,Career Site
+1022,14,"Lead, Facilities",2025-12-25,2026-02-27,Filled,LinkedIn
+1023,14,"Lead, Facilities",2025-12-24,2026-02-11,Filled,LinkedIn
+1024,12,Mid Support Specialist,2026-01-21,2026-02-23,Filled,LinkedIn
+1025,8,Senior SMB Sales Specialist,2026-02-04,2026-02-28,Filled,LinkedIn
+1026,15,"Lead, IT",2026-01-20,2026-02-25,Filled,Agency
+1027,6,Mid Product Design Specialist,2026-01-23,2026-02-19,Filled,Job Board
+1028,13,Junior Onboarding Specialist,2025-12-31,2026-02-16,Filled,LinkedIn
+1029,12,Mid Support Specialist,2026-01-18,2026-02-18,Filled,Employee Referral
+1030,19,"Manager, HR Business Partners",2025-12-22,2026-02-15,Filled,LinkedIn
+1031,9,Junior Sales Development Specialist,2025-12-21,2026-02-13,Filled,Job Board
+1032,3,Mid Platform Specialist,2026-01-14,2026-02-10,Filled,LinkedIn
+1033,8,"Director, SMB Sales",2026-02-13,2026-03-07,Filled,Job Board
+1034,6,Junior Product Design Specialist,2026-02-20,2026-03-26,Filled,Agency
+1035,18,Mid Talent Acquisition Specialist,2026-01-28,2026-03-21,Filled,Employee Referral
+1036,11,Mid Brand Marketing Specialist,2026-01-27,2026-03-02,Filled,LinkedIn
+1037,18,Mid Talent Acquisition Specialist,2026-01-28,2026-03-30,Filled,Career Site
+1038,13,"Manager, Onboarding",2026-01-27,2026-03-12,Filled,LinkedIn
+1039,18,Mid Talent Acquisition Specialist,2026-03-08,2026-03-31,Filled,Employee Referral
+1040,7,Mid Enterprise Sales Specialist,2026-02-03,2026-03-08,Filled,Employee Referral
+1041,9,Mid Sales Development Specialist,2026-02-15,2026-03-09,Filled,LinkedIn
+1042,15,Mid IT Specialist,2026-02-22,2026-03-20,Filled,Career Site
+1043,19,Junior HR Business Partners Specialist,2026-01-30,2026-03-28,Filled,Job Board
+1044,8,Senior SMB Sales Specialist,2026-02-09,2026-03-15,Filled,Employee Referral
+1045,17,Junior FP&A Specialist,2026-02-11,2026-03-29,Filled,Career Site
+1046,7,Junior Enterprise Sales Specialist,2026-02-20,2026-03-27,Filled,LinkedIn
+1047,16,Mid Accounting Specialist,2026-01-20,2026-03-16,Filled,LinkedIn
+1048,7,"Lead, Enterprise Sales",2026-02-19,2026-03-22,Filled,Employee Referral
+1049,9,Junior Sales Development Specialist,2026-01-27,2026-03-17,Filled,Employee Referral
+1050,18,Senior Talent Acquisition Specialist,2026-01-30,2026-03-18,Filled,Employee Referral
+1051,18,"Lead, Talent Acquisition",2026-02-16,2026-03-23,Filled,LinkedIn
+1052,8,Mid SMB Sales Specialist,2026-01-20,2026-03-06,Filled,Employee Referral
+1053,7,Mid Enterprise Sales Specialist,2026-02-08,2026-03-25,Filled,Job Board
+1054,14,Senior Facilities Specialist,2025-12-31,2026-03-05,Filled,Employee Referral
+1055,7,Senior Enterprise Sales Specialist,2026-02-28,2026-03-23,Filled,LinkedIn
+1056,4,Mid QA Specialist,2026-01-15,2026-03-03,Filled,Agency
+1057,17,"Manager, FP&A",2026-02-05,2026-03-18,Filled,LinkedIn
+1058,9,Senior Sales Development Specialist,2026-03-22,2026-04-12,Filled,LinkedIn
+1059,8,Senior SMB Sales Specialist,2026-02-07,2026-04-11,Filled,LinkedIn
+1060,8,Senior SMB Sales Specialist,2026-01-31,2026-04-04,Filled,Agency
+1061,8,"Director, SMB Sales",2026-02-15,2026-04-07,Filled,LinkedIn
+1062,4,"Manager, QA",2026-02-15,2026-04-15,Filled,LinkedIn
+1063,8,Mid SMB Sales Specialist,2026-03-04,2026-04-03,Filled,Job Board
+1064,11,Mid Brand Marketing Specialist,2026-02-27,2026-04-02,Filled,Job Board
+1065,19,"Director, HR Business Partners",2026-02-28,2026-04-09,Filled,Career Site
+1066,10,"Manager, Growth Marketing",2026-02-28,2026-04-06,Filled,Employee Referral
+1067,8,Mid SMB Sales Specialist,2026-02-27,2026-04-05,Filled,LinkedIn
+1068,8,Junior SMB Sales Specialist,2026-03-17,2026-04-28,Filled,Employee Referral
+1069,1,Senior Backend Specialist,2026-02-22,2026-04-12,Filled,Employee Referral
+1070,9,Senior Sales Development Specialist,2026-02-13,2026-04-08,Filled,Agency
+1071,5,Junior Product Management Specialist,2026-04-02,2026-04-28,Filled,Employee Referral
+1072,2,"Lead, Frontend",2026-04-02,2026-04-25,Filled,LinkedIn
+1073,8,"Lead, SMB Sales",2026-02-20,2026-04-14,Filled,LinkedIn
+1074,1,"Director, Backend",2026-04-01,2026-04-29,Filled,LinkedIn
+1075,7,"Lead, Enterprise Sales",2026-02-22,2026-04-07,Filled,LinkedIn
+1076,14,"Lead, Facilities",2026-02-08,2026-04-02,Filled,Employee Referral
+1077,13,Junior Onboarding Specialist,2026-03-11,2026-04-18,Filled,LinkedIn
+1078,9,"Lead, Sales Development",2026-04-10,2026-05-03,Filled,LinkedIn
+1079,14,Senior Facilities Specialist,2026-03-19,2026-05-10,Filled,Career Site
+1080,13,Junior Onboarding Specialist,2026-03-19,2026-05-16,Filled,LinkedIn
+1081,7,Mid Enterprise Sales Specialist,2026-03-17,2026-05-14,Filled,Job Board
+1082,5,Mid Product Management Specialist,2026-02-27,2026-05-01,Filled,LinkedIn
+1083,16,Mid Accounting Specialist,2026-03-27,2026-05-13,Filled,LinkedIn
+1084,7,Senior Enterprise Sales Specialist,2026-03-21,2026-05-11,Filled,Agency
+1085,5,Junior Product Management Specialist,2026-03-27,2026-05-08,Filled,LinkedIn
+1086,6,"Manager, Product Design",2026-03-24,2026-05-03,Filled,Employee Referral
+1087,15,"Manager, IT",2026-03-30,2026-05-06,Filled,Job Board
+1088,11,Junior Brand Marketing Specialist,2026-04-06,2026-05-13,Filled,Employee Referral
+1089,2,Mid Frontend Specialist,2026-04-01,2026-05-30,Filled,LinkedIn
+1090,8,Mid SMB Sales Specialist,2026-03-16,2026-05-13,Filled,Job Board
+1091,9,"Lead, Sales Development",2026-03-30,2026-05-04,Filled,Career Site
+1092,18,"Lead, Talent Acquisition",2026-04-20,2026-05-09,Filled,Employee Referral
+1093,19,"Lead, HR Business Partners",2026-03-29,2026-05-24,Filled,LinkedIn
+1094,13,Mid Onboarding Specialist,2026-05-03,2026-06-05,Filled,Job Board
+1095,6,"Director, Product Design",2026-05-07,2026-06-30,Filled,LinkedIn
+1096,4,Senior QA Specialist,2026-05-27,2026-06-23,Filled,Job Board
+1097,6,Mid Product Design Specialist,2026-05-13,2026-06-23,Filled,LinkedIn
+1098,12,"Lead, Support",2026-04-21,2026-06-18,Filled,LinkedIn
+1099,18,Senior Talent Acquisition Specialist,2026-06-07,2026-06-30,Filled,Job Board
+1100,5,Senior Product Management Specialist,2026-05-11,2026-06-22,Filled,Employee Referral
+1101,5,Senior Product Management Specialist,2026-04-07,2026-06-05,Filled,Agency
+1102,4,Junior QA Specialist,2026-05-01,2026-06-23,Filled,Job Board
+1103,13,Mid Onboarding Specialist,2026-04-18,2026-06-06,Filled,Career Site
+1104,7,Mid Enterprise Sales Specialist,2026-05-01,2026-06-01,Filled,LinkedIn
+1105,7,Mid Enterprise Sales Specialist,2026-05-19,2026-06-19,Filled,LinkedIn
+1106,4,"Lead, QA",2026-04-16,2026-06-10,Filled,Employee Referral
+1107,10,Senior Growth Marketing Specialist,2026-06-15,2026-07-10,Filled,Agency
+1108,15,Mid IT Specialist,2026-06-16,2026-07-24,Filled,Employee Referral
+1109,6,Senior Product Design Specialist,2026-06-14,2026-07-17,Filled,Agency
+1110,15,Junior IT Specialist,2026-06-14,2026-07-20,Filled,Job Board
+1111,1,Senior Backend Specialist,2026-05-12,2026-07-12,Filled,LinkedIn
+1112,8,"Director, SMB Sales",2026-05-25,2026-07-09,Filled,Employee Referral
+1113,17,Mid FP&A Specialist,2026-06-04,2026-07-15,Filled,Employee Referral
+1114,7,Mid Enterprise Sales Specialist,2026-06-19,2026-07-20,Filled,Agency
+1115,8,Senior SMB Sales Specialist,2026-05-27,2026-07-11,Filled,LinkedIn
+1116,17,Junior FP&A Specialist,2026-05-28,2026-07-22,Filled,Agency
+1117,9,Senior Sales Development Specialist,2026-05-25,2026-07-12,Filled,Career Site
+1118,11,Senior Brand Marketing Specialist,2026-05-05,2026-07-06,Filled,Job Board
+1119,12,"Lead, Support",2026-06-13,2026-07-29,Filled,LinkedIn
+1120,2,"Director, Frontend",2026-05-04,2026-07-03,Filled,Employee Referral
+1121,11,Senior Brand Marketing Specialist,2026-06-21,2026-08-19,Filled,LinkedIn
+1122,9,Mid Sales Development Specialist,2026-06-20,2026-08-14,Filled,Employee Referral
+1123,1,Mid Backend Specialist,2026-06-09,2026-08-07,Filled,Employee Referral
+1124,9,Mid Sales Development Specialist,2026-06-15,2026-08-17,Filled,Agency
+1125,12,Junior Support Specialist,2026-07-21,2026-08-10,Filled,Employee Referral
+1126,2,Junior Frontend Specialist,2026-07-13,2026-08-13,Filled,Employee Referral
+1127,16,"Lead, Accounting",2026-07-03,2026-08-17,Filled,LinkedIn
+1128,13,Mid Onboarding Specialist,2026-07-27,2026-08-30,Filled,Employee Referral
+1129,9,Mid Sales Development Specialist,2026-06-25,2026-08-09,Filled,Employee Referral
+1130,19,Senior HR Business Partners Specialist,2026-07-07,2026-08-15,Filled,Job Board
+1131,6,"Manager, Product Design",2026-06-22,2026-08-13,Filled,Career Site
+1132,10,Mid Growth Marketing Specialist,2026-07-03,2026-08-24,Filled,LinkedIn
+1133,6,Mid Product Design Specialist,2026-06-21,2026-08-03,Filled,Job Board

@@ -1,0 +1,335 @@
+termination_id,employee_id,termination_date,voluntary,reason,exit_survey_score
+1,85,2022-02-13,False,Role Eliminated,2.7
+2,74,2022-03-08,False,Restructuring,
+3,57,2022-04-27,True,Career Change,
+4,56,2022-05-19,True,Return to Study,2.5
+5,99,2022-06-11,True,Relocation,
+6,5,2022-06-09,True,Return to Study,3.5
+7,193,2022-07-10,True,Relocation,9.2
+8,38,2022-07-23,True,Better Opportunity,
+9,1,2022-08-02,True,Return to Study,
+10,114,2022-08-16,False,Restructuring,2.8
+11,104,2022-09-16,True,Relocation,
+12,132,2022-09-19,True,Career Change,8.7
+13,218,2022-10-16,False,Restructuring,8.0
+14,246,2022-10-25,False,Role Eliminated,3.0
+15,7,2022-11-10,False,Role Eliminated,9.3
+16,143,2022-11-23,True,Career Change,6.5
+17,159,2022-12-20,True,Relocation,2.2
+18,24,2022-12-23,False,Performance,6.5
+19,15,2023-01-10,True,Relocation,5.2
+20,14,2023-01-10,True,Better Opportunity,
+21,134,2023-01-27,False,Role Eliminated,6.3
+22,280,2023-02-28,True,Career Change,
+23,108,2023-02-15,True,Better Opportunity,4.7
+24,215,2023-02-14,True,Relocation,7.7
+25,37,2023-03-17,True,Return to Study,3.1
+26,174,2023-03-28,True,Career Change,
+27,41,2023-03-21,True,Return to Study,4.2
+28,83,2023-04-13,True,Better Opportunity,3.6
+29,261,2023-04-08,True,Career Change,
+30,299,2023-04-26,False,Restructuring,
+31,197,2023-05-14,True,Return to Study,
+32,179,2023-05-04,True,Career Change,
+33,243,2023-05-08,True,Better Opportunity,2.0
+34,90,2023-06-13,True,Return to Study,
+35,69,2023-06-19,True,Career Change,4.4
+36,79,2023-06-06,False,Restructuring,5.2
+37,392,2023-06-14,True,Career Change,9.1
+38,150,2023-06-13,True,Return to Study,5.7
+39,322,2023-07-07,True,Better Opportunity,6.6
+40,189,2023-07-31,True,Relocation,7.9
+41,158,2023-07-28,True,Relocation,
+42,93,2023-07-28,True,Better Opportunity,6.9
+43,117,2023-07-22,True,Return to Study,2.3
+44,328,2023-08-22,False,Role Eliminated,6.8
+45,8,2023-08-08,True,Return to Study,
+46,139,2023-08-22,True,Return to Study,8.1
+47,422,2023-08-16,True,Relocation,
+48,58,2023-08-31,True,Relocation,2.5
+49,416,2023-09-30,False,Restructuring,6.6
+50,230,2023-09-19,True,Relocation,7.1
+51,462,2023-09-20,False,Restructuring,3.9
+52,281,2023-09-07,False,Role Eliminated,
+53,406,2023-10-03,True,Better Opportunity,
+54,388,2023-10-13,False,Performance,
+55,319,2023-10-12,True,Return to Study,9.2
+56,473,2023-10-29,False,Restructuring,
+57,342,2023-11-06,True,Return to Study,
+58,329,2023-11-12,True,Return to Study,7.9
+59,120,2023-11-19,True,Better Opportunity,3.1
+60,87,2023-11-24,True,Better Opportunity,5.8
+61,297,2023-12-13,False,Role Eliminated,6.2
+62,407,2023-12-20,True,Relocation,2.7
+63,300,2023-12-11,True,Better Opportunity,4.0
+64,173,2023-12-28,True,Relocation,8.8
+65,496,2024-01-07,False,Restructuring,3.8
+66,471,2024-01-25,True,Career Change,
+67,28,2024-01-28,True,Relocation,3.7
+68,6,2024-01-22,False,Restructuring,
+69,533,2024-01-29,True,Better Opportunity,9.3
+70,165,2024-02-06,False,Restructuring,5.0
+71,95,2024-02-12,False,Role Eliminated,6.8
+72,385,2024-02-05,True,Career Change,
+73,497,2024-02-28,True,Relocation,8.8
+74,354,2024-02-04,True,Relocation,7.1
+75,270,2024-03-24,True,Relocation,
+76,512,2024-03-26,True,Better Opportunity,
+77,295,2024-03-18,True,Relocation,
+78,399,2024-03-21,True,Relocation,
+79,258,2024-03-11,True,Career Change,2.9
+80,584,2024-04-20,False,Role Eliminated,6.7
+81,493,2024-04-05,True,Career Change,
+82,115,2024-04-22,True,Return to Study,3.5
+83,419,2024-04-26,True,Relocation,
+84,353,2024-04-15,False,Performance,
+85,372,2024-05-26,True,Career Change,8.2
+86,273,2024-05-06,True,Better Opportunity,6.7
+87,49,2024-05-07,True,Return to Study,4.9
+88,68,2024-05-16,True,Return to Study,6.9
+89,77,2024-05-30,False,Performance,4.5
+90,306,2024-05-13,False,Restructuring,
+91,557,2024-06-24,False,Role Eliminated,7.8
+92,561,2024-06-24,True,Better Opportunity,6.1
+93,426,2024-06-10,True,Better Opportunity,
+94,654,2024-06-14,True,Career Change,2.3
+95,33,2024-06-30,True,Career Change,
+96,323,2024-06-14,True,Better Opportunity,
+97,316,2024-06-15,True,Better Opportunity,2.6
+98,130,2024-06-22,True,Career Change,
+99,43,2024-07-05,True,Better Opportunity,
+100,435,2024-07-06,True,Return to Study,
+101,683,2024-07-15,True,Career Change,2.8
+102,248,2024-07-13,True,Return to Study,8.5
+103,574,2024-07-12,False,Restructuring,
+104,414,2024-07-09,False,Role Eliminated,3.0
+105,411,2024-07-10,False,Role Eliminated,4.1
+106,428,2024-07-08,True,Better Opportunity,6.7
+107,530,2024-08-05,True,Better Opportunity,
+108,542,2024-08-27,True,Better Opportunity,5.0
+109,627,2024-08-22,False,Role Eliminated,
+110,513,2024-08-29,False,Restructuring,
+111,103,2024-08-10,True,Career Change,5.6
+112,276,2024-08-04,True,Relocation,
+113,697,2024-08-22,True,Career Change,
+114,113,2024-08-09,True,Return to Study,7.6
+115,326,2024-09-21,False,Performance,
+116,547,2024-09-01,False,Restructuring,
+117,485,2024-09-23,True,Career Change,5.1
+118,606,2024-09-10,False,Performance,9.4
+119,257,2024-09-23,True,Return to Study,6.4
+120,127,2024-09-12,True,Better Opportunity,5.8
+121,380,2024-10-01,True,Career Change,7.9
+122,137,2024-10-26,True,Career Change,9.1
+123,734,2024-10-12,False,Role Eliminated,
+124,626,2024-10-09,True,Return to Study,5.7
+125,283,2024-10-12,True,Career Change,
+126,296,2024-10-09,True,Better Opportunity,6.9
+127,687,2024-10-18,True,Return to Study,8.6
+128,599,2024-11-17,True,Career Change,4.6
+129,621,2024-11-10,True,Career Change,
+130,490,2024-11-15,True,Career Change,8.5
+131,676,2024-11-12,False,Restructuring,8.3
+132,727,2024-11-26,False,Restructuring,6.5
+133,623,2024-11-12,False,Performance,
+134,525,2024-11-02,True,Career Change,
+135,92,2024-12-31,True,Better Opportunity,7.8
+136,19,2024-12-22,True,Return to Study,
+137,312,2024-12-26,True,Return to Study,
+138,710,2024-12-27,True,Better Opportunity,9.3
+139,456,2024-12-06,False,Role Eliminated,8.7
+140,610,2024-12-26,True,Career Change,
+141,102,2024-12-05,False,Role Eliminated,9.0
+142,792,2025-01-28,False,Role Eliminated,6.3
+143,502,2025-01-26,True,Relocation,8.4
+144,309,2025-01-01,True,Relocation,5.1
+145,81,2025-01-29,True,Relocation,6.9
+146,585,2025-01-24,True,Return to Study,
+147,431,2025-01-10,True,Career Change,6.1
+148,587,2025-01-26,True,Relocation,3.5
+149,699,2025-02-17,True,Return to Study,4.1
+150,666,2025-02-09,False,Restructuring,
+151,331,2025-02-09,True,Relocation,
+152,746,2025-02-23,False,Restructuring,
+153,9,2025-02-23,True,Return to Study,5.4
+154,833,2025-02-03,False,Role Eliminated,4.8
+155,348,2025-02-17,True,Better Opportunity,4.1
+156,529,2025-03-21,True,Better Opportunity,
+157,256,2025-03-03,True,Career Change,7.3
+158,441,2025-03-05,True,Relocation,8.1
+159,199,2025-03-16,True,Career Change,2.2
+160,715,2025-03-05,True,Better Opportunity,7.5
+161,860,2025-03-28,True,Better Opportunity,
+162,394,2025-03-29,False,Performance,
+163,65,2025-04-06,True,Better Opportunity,7.3
+164,866,2025-04-22,False,Role Eliminated,6.3
+165,344,2025-04-16,True,Relocation,
+166,845,2025-04-22,False,Role Eliminated,5.4
+167,239,2025-04-21,False,Performance,6.6
+168,696,2025-04-10,True,Return to Study,7.6
+169,562,2025-04-25,True,Return to Study,8.6
+170,201,2025-04-24,True,Relocation,7.2
+171,598,2025-05-12,True,Career Change,7.0
+172,140,2025-05-31,True,Relocation,7.5
+173,575,2025-05-31,True,Relocation,8.9
+174,538,2025-05-28,True,Career Change,2.3
+175,909,2025-05-09,False,Performance,8.6
+176,540,2025-05-09,True,Relocation,
+177,747,2025-05-26,False,Role Eliminated,3.1
+178,883,2025-05-25,False,Role Eliminated,2.4
+179,267,2025-06-02,False,Performance,
+180,791,2025-06-01,False,Performance,7.8
+181,657,2025-06-21,True,Better Opportunity,2.0
+182,163,2025-06-21,True,Better Opportunity,
+183,521,2025-06-28,True,Relocation,
+184,251,2025-06-10,False,Role Eliminated,9.4
+185,690,2025-06-30,False,Performance,2.5
+186,404,2025-06-24,True,Return to Study,
+187,176,2025-06-15,False,Performance,
+188,893,2025-06-18,True,Relocation,6.0
+189,271,2025-06-29,True,Career Change,6.7
+190,849,2025-07-04,True,Career Change,4.9
+191,932,2025-07-23,False,Restructuring,8.7
+192,194,2025-07-28,True,Return to Study,
+193,390,2025-07-29,False,Role Eliminated,
+194,544,2025-07-09,True,Relocation,8.7
+195,876,2025-07-28,True,Career Change,4.4
+196,559,2025-07-04,True,Better Opportunity,
+197,692,2025-07-07,True,Career Change,
+198,55,2025-07-17,True,Career Change,
+199,403,2025-07-27,True,Return to Study,4.6
+200,744,2025-07-30,True,Relocation,6.6
+201,622,2025-08-07,True,Relocation,8.2
+202,478,2025-08-18,False,Restructuring,7.0
+203,18,2025-08-10,True,Return to Study,3.9
+204,656,2025-08-30,True,Relocation,
+205,48,2025-08-31,False,Performance,
+206,784,2025-08-20,True,Career Change,
+207,563,2025-08-29,True,Return to Study,
+208,694,2025-08-27,True,Return to Study,8.3
+209,976,2025-08-03,True,Relocation,3.7
+210,556,2025-08-14,True,Relocation,
+211,962,2025-08-02,True,Career Change,
+212,517,2025-09-15,True,Better Opportunity,
+213,827,2025-09-18,True,Career Change,7.9
+214,816,2025-09-30,True,Return to Study,6.2
+215,269,2025-09-11,True,Return to Study,4.1
+216,628,2025-09-21,True,Relocation,4.1
+217,646,2025-09-15,True,Better Opportunity,
+218,842,2025-09-03,False,Role Eliminated,
+219,664,2025-09-11,True,Relocation,3.4
+220,813,2025-09-02,True,Better Opportunity,
+221,454,2025-10-07,True,Better Opportunity,
+222,1012,2025-10-19,True,Relocation,6.7
+223,11,2025-10-21,True,Better Opportunity,
+224,226,2025-10-27,True,Career Change,
+225,868,2025-10-27,True,Return to Study,6.5
+226,62,2025-10-19,False,Performance,6.5
+227,618,2025-10-13,True,Career Change,9.1
+228,963,2025-10-08,True,Better Opportunity,5.9
+229,398,2025-10-28,True,Return to Study,
+230,954,2025-11-23,True,Better Opportunity,2.2
+231,442,2025-11-05,True,Relocation,5.7
+232,324,2025-11-05,False,Restructuring,7.5
+233,421,2025-11-16,True,Return to Study,5.0
+234,629,2025-11-15,False,Performance,5.4
+235,756,2025-11-29,True,Better Opportunity,6.1
+236,67,2025-11-02,True,Better Opportunity,3.9
+237,859,2025-11-26,False,Role Eliminated,
+238,980,2025-11-04,True,Return to Study,4.6
+239,799,2025-12-11,True,Return to Study,3.4
+240,263,2025-12-11,True,Return to Study,8.3
+241,887,2025-12-23,True,Return to Study,
+242,340,2025-12-22,False,Restructuring,6.7
+243,571,2025-12-02,True,Relocation,
+244,902,2025-12-08,True,Better Opportunity,7.1
+245,31,2025-12-29,True,Better Opportunity,
+246,1061,2025-12-21,False,Restructuring,
+247,1032,2025-12-04,True,Return to Study,
+248,1063,2026-01-07,True,Relocation,5.7
+249,82,2026-01-29,True,Better Opportunity,
+250,80,2026-01-30,True,Relocation,6.2
+251,384,2026-01-20,False,Role Eliminated,
+252,735,2026-01-19,True,Return to Study,4.2
+253,775,2026-01-24,True,Better Opportunity,4.9
+254,952,2026-01-21,True,Return to Study,
+255,730,2026-01-25,False,Performance,2.5
+256,321,2026-01-02,True,Relocation,
+257,241,2026-02-14,True,Return to Study,7.7
+258,978,2026-02-09,True,Relocation,3.4
+259,461,2026-02-05,False,Performance,
+260,1073,2026-02-19,False,Performance,
+261,157,2026-02-22,False,Role Eliminated,8.9
+262,397,2026-02-15,True,Return to Study,2.2
+263,279,2026-02-19,False,Role Eliminated,6.2
+264,29,2026-02-17,False,Performance,2.8
+265,464,2026-02-11,True,Career Change,3.6
+266,965,2026-03-15,False,Performance,3.9
+267,686,2026-03-14,True,Relocation,5.4
+268,928,2026-03-29,True,Return to Study,7.0
+269,2,2026-03-19,True,Career Change,
+270,170,2026-03-20,False,Performance,8.2
+271,363,2026-03-09,False,Restructuring,7.4
+272,433,2026-03-04,True,Better Opportunity,5.9
+273,820,2026-03-05,True,Relocation,
+274,155,2026-03-25,True,Better Opportunity,6.4
+275,551,2026-03-02,True,Better Opportunity,3.9
+276,795,2026-04-04,True,Better Opportunity,
+277,684,2026-04-20,False,Role Eliminated,
+278,895,2026-04-30,False,Performance,
+279,1180,2026-04-17,False,Performance,7.7
+280,913,2026-04-26,False,Restructuring,5.0
+281,1190,2026-04-20,True,Career Change,5.4
+282,66,2026-04-01,False,Restructuring,
+283,637,2026-04-27,True,Return to Study,6.0
+284,565,2026-04-10,False,Restructuring,
+285,374,2026-04-25,False,Role Eliminated,5.7
+286,1029,2026-05-13,True,Relocation,5.4
+287,97,2026-05-02,True,Better Opportunity,
+288,660,2026-05-25,False,Restructuring,
+289,377,2026-05-31,True,Return to Study,
+290,1035,2026-05-20,True,Relocation,
+291,570,2026-05-02,False,Performance,
+292,1169,2026-05-07,True,Relocation,
+293,1127,2026-05-31,False,Performance,9.5
+294,223,2026-05-28,True,Career Change,7.9
+295,192,2026-05-23,False,Role Eliminated,4.2
+296,944,2026-06-23,True,Return to Study,8.1
+297,753,2026-06-05,True,Better Opportunity,
+298,968,2026-06-15,True,Return to Study,4.6
+299,1019,2026-06-01,True,Return to Study,
+300,308,2026-06-01,True,Return to Study,2.9
+301,901,2026-06-28,True,Return to Study,5.9
+302,865,2026-06-05,True,Career Change,5.9
+303,1072,2026-06-22,False,Performance,7.6
+304,822,2026-06-05,False,Role Eliminated,
+305,771,2026-06-06,True,Return to Study,
+306,1178,2026-06-01,True,Relocation,2.3
+307,1150,2026-06-05,True,Better Opportunity,7.3
+308,880,2026-06-09,False,Performance,
+309,1071,2026-07-20,True,Better Opportunity,7.7
+310,996,2026-07-02,True,Career Change,6.3
+311,983,2026-07-15,True,Better Opportunity,4.0
+312,858,2026-07-03,True,Career Change,
+313,1013,2026-07-20,True,Career Change,
+314,209,2026-07-28,True,Return to Study,4.9
+315,499,2026-07-05,True,Return to Study,4.2
+316,149,2026-07-06,False,Role Eliminated,
+317,1188,2026-07-27,False,Role Eliminated,7.8
+318,361,2026-07-21,True,Better Opportunity,3.8
+319,707,2026-07-22,True,Better Opportunity,9.4
+320,71,2026-07-01,True,Relocation,2.3
+321,1090,2026-07-04,False,Performance,4.7
+322,418,2026-08-27,True,Career Change,4.4
+323,619,2026-08-08,True,Relocation,9.3
+324,837,2026-08-22,False,Performance,
+325,240,2026-08-26,True,Relocation,
+326,355,2026-08-28,True,Career Change,
+327,310,2026-08-04,True,Return to Study,9.3
+328,869,2026-08-18,False,Performance,6.0
+329,855,2026-08-31,True,Relocation,2.3
+330,1097,2026-08-03,True,Relocation,5.4
+331,1034,2026-08-19,False,Role Eliminated,5.7
+332,739,2026-08-23,False,Role Eliminated,3.3
+333,222,2026-08-19,False,Role Eliminated,3.2
+334,46,2026-08-03,True,Return to Study,4.1
