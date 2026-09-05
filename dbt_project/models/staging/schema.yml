@@ -1,0 +1,78 @@
+version: 2
+
+models:
+  - name: stg_departments
+    description: One row per department, rolled up under its division.
+    columns:
+      - name: department_id
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_employees
+    description: One row per employee, including terminated employees. is_active flags current headcount.
+    columns:
+      - name: employee_id
+        tests:
+          - unique
+          - not_null
+      - name: department_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_departments')
+              field: department_id
+      - name: gender
+        tests:
+          - accepted_values:
+              values: ["Female", "Male"]
+
+  - name: stg_requisitions
+    description: One row per job requisition opened by a department.
+    columns:
+      - name: requisition_id
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_hires
+    description: One row per completed hire, linked back to the requisition it filled.
+    columns:
+      - name: hire_id
+        tests:
+          - unique
+          - not_null
+      - name: employee_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_employees')
+              field: employee_id
+
+  - name: stg_terminations
+    description: One row per employee termination event.
+    columns:
+      - name: termination_id
+        tests:
+          - unique
+          - not_null
+      - name: employee_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_employees')
+              field: employee_id
+
+  - name: stg_performance_reviews
+    description: One row per quarterly performance review.
+    columns:
+      - name: rating
+        tests:
+          - accepted_values:
+              values: [1, 2, 3, 4, 5]
+
+  - name: stg_compensation_history
+    description: One row per salary change event (new hire, merit, promotion).
+
+  - name: stg_engagement_surveys
+    description: One row per employee response to a semi-annual engagement survey.

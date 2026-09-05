@@ -1,0 +1,17 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: raw
+    tables:
+      - name: raw_employees
+        loaded_at_field: hire_date
+        freshness:
+          warn_after: {count: 400, period: day}
+      - name: raw_departments
+      - name: raw_requisitions
+      - name: raw_hires
+      - name: raw_terminations
+      - name: raw_performance_reviews
+      - name: raw_compensation_history
+      - name: raw_engagement_surveys
