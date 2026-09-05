@@ -1,0 +1,15 @@
+# dbt
+dbt_project/target/
+dbt_project/logs/
+dbt_project/dbt_packages/
+dbt_project/hr_workforce_analytics.duckdb
+dbt_project/hr_workforce_analytics.duckdb.wal
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store

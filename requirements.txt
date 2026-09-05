@@ -1,0 +1,7 @@
+faker==40.38.0
+dbt-core==1.12.3
+dbt-duckdb==1.11.0
+duckdb==1.5.5
+streamlit==1.63.0
+plotly==7.0.0
+pandas==3.0.2
