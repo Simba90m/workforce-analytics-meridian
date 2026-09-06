@@ -4,33 +4,34 @@ dataset. This is a lightweight, code-first preview of the marts that
 also power the Tableau Public dashboard: useful for exploring the data
 quickly, or for anyone reviewing the repo without opening Tableau.
 
-Run:
+Run locally:
     streamlit run app/dashboard_app.py
 
-Expects the dbt project to have already been built:
+Deployed on Streamlit Community Cloud, reading the mart tables from the
+parquet snapshots in app/data/ so the app needs no local dbt build to
+run. Those snapshots are regenerated from the dbt-built DuckDB file
+with:
     cd dbt_project && dbt seed && dbt run
+    python -c "..."   # see README for the export step
 """
 
 import os
 
-import duckdb
 import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-DB_PATH = os.path.join(os.path.dirname(__file__), "..", "dbt_project", "hr_workforce_analytics.duckdb")
+DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
 
 st.set_page_config(page_title="Meridian Workforce Analytics", layout="wide")
 
 
 @st.cache_data
 def load_data():
-    con = duckdb.connect(DB_PATH, read_only=True)
-    headcount = con.execute("select * from marts.mart_headcount_monthly").df()
-    turnover = con.execute("select * from marts.mart_turnover_annual").df()
-    time_to_fill = con.execute("select * from marts.mart_time_to_fill").df()
-    comp_equity = con.execute("select * from marts.mart_compensation_equity").df()
-    con.close()
+    headcount = pd.read_parquet(os.path.join(DATA_DIR, "headcount.parquet"))
+    turnover = pd.read_parquet(os.path.join(DATA_DIR, "turnover.parquet"))
+    time_to_fill = pd.read_parquet(os.path.join(DATA_DIR, "time_to_fill.parquet"))
+    comp_equity = pd.read_parquet(os.path.join(DATA_DIR, "comp_equity.parquet"))
     return headcount, turnover, time_to_fill, comp_equity
 
 
