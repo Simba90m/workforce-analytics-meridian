@@ -107,7 +107,7 @@ Useful for reviewing the data without opening Tableau.
 **Tableau Public**: the polished, presentation-ready version of the
 same marts, built for a non-technical audience, headcount and
 attrition trend, hiring funnel efficiency, and a compensation equity
-view. Link goes here once published.
+view. Live at [public.tableau.com/app/profile/mahmoud.abdelaziz2733/viz/WorkforceHRAnalytics/WorkforceOverview](https://public.tableau.com/app/profile/mahmoud.abdelaziz2733/viz/WorkforceHRAnalytics/WorkforceOverview).
 
 ## Running it locally
 
