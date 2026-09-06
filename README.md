@@ -7,6 +7,7 @@ dashboard, and a lightweight app for exploring the data without
 opening Tableau.
 
 Live dashboard: **[Workforce & HR Analytics on Tableau Public](https://public.tableau.com/app/profile/mahmoud.abdelaziz2733/viz/WorkforceHRAnalytics/WorkforceOverview)**
+Live app: **[Streamlit companion app](https://workforce-analytics-meridiangit-b5pvkjtuuvkafoczkghhhy.streamlit.app/)**
 
 ## Why this project
 
