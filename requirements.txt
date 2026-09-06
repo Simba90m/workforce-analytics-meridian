@@ -5,3 +5,4 @@ duckdb==1.5.5
 streamlit==1.63.0
 plotly==7.0.0
 pandas==3.0.2
+pyarrow==22.0.0
