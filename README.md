@@ -6,7 +6,7 @@ from raw data generation through transformation to a published
 dashboard, and a lightweight app for exploring the data without
 opening Tableau.
 
-Live dashboard: **[link added once published to Tableau Public]**
+Live dashboard: **[Workforce & HR Analytics on Tableau Public](https://public.tableau.com/app/profile/mahmoud.abdelaziz2733/viz/WorkforceHRAnalytics/WorkforceOverview)**
 
 ## Why this project
 
