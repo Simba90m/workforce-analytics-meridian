@@ -103,7 +103,7 @@ it.
 **Streamlit** (`app/dashboard_app.py`): a quick, code-first look at the
 marts, headcount trend by division, turnover by division, time to
 fill by channel, and a compensation comparison by level and gender.
-Useful for reviewing the data without opening Tableau.
+Useful for reviewing the data without opening Tableau. Live at [workforce-analytics-meridiangit-b5pvkjtuuvkafoczkghhhy.streamlit.app](https://workforce-analytics-meridiangit-b5pvkjtuuvkafoczkghhhy.streamlit.app/).
 
 **Tableau Public**: the polished, presentation-ready version of the
 same marts, built for a non-technical audience, headcount and
